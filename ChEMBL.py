@@ -29,6 +29,8 @@ def get_chembl_id(uniprot_id):
     for _ in range(5):
         chembl_id = targets.get(uniprot=uniprot_id)
         if chembl_id is not None:
+            if chembl_id == 404:
+                break
             return chembl_id['chemblId']
     else:
         print('Can not get ChEMBL ID for %s' % uniprot_id, file=sys.stderr)
