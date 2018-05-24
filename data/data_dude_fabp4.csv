@@ -1,0 +1,349 @@
+,chembl_id,uniprot_id,bioactivity_type,operator,value,units,smiles,dude_id
+0,CHEMBL1077990,P15090,Ki,=,670.0,nM,c1cc(sc1)c1sc(c(c1)NC(=O)/C=C/C(=O)O)C(=O)OC,fabp4
+1,CHEMBL1084578,P15090,IC50,>,100000.0,nM,c1cccc(c1)S(=O)(=O)c1ccc(c(c1)OS(=O)(=O)c1cc(cc(c1)Cl)Cl)[N+](=O)[O-],fabp4
+2,CHEMBL1084578,P15090,Inhibition,=,40.7,%,c1cccc(c1)S(=O)(=O)c1ccc(c(c1)OS(=O)(=O)c1cc(cc(c1)Cl)Cl)[N+](=O)[O-],fabp4
+3,CHEMBL1084579,P15090,IC50,>,100000.0,nM,c1c(cc(c(c1)S(=O)(=O)CCSc1n(c(=O)[nH]n1)c1ccc2c(c1)OCCO2)Cl)Cl,fabp4
+4,CHEMBL1084579,P15090,Inhibition,=,37.1,%,c1c(cc(c(c1)S(=O)(=O)CCSc1n(c(=O)[nH]n1)c1ccc2c(c1)OCCO2)Cl)Cl,fabp4
+5,CHEMBL1084580,P15090,IC50,>,100000.0,nM,c1c(ccc(c1)c1c(n(nc1C(F)(F)F)C)NC(=O)CSCC(=O)O)OC,fabp4
+6,CHEMBL1084580,P15090,Inhibition,=,20.1,%,c1c(ccc(c1)c1c(n(nc1C(F)(F)F)C)NC(=O)CSCC(=O)O)OC,fabp4
+7,CHEMBL1084821,P15090,IC50,>,100000.0,nM,c1ccc2c(c1)[nH]c(n2)SCc1cccc(n1)CSc1[nH]c2c(n1)cccc2,fabp4
+8,CHEMBL1084821,P15090,Inhibition,=,47.7,%,c1ccc2c(c1)[nH]c(n2)SCc1cccc(n1)CSc1[nH]c2c(n1)cccc2,fabp4
+9,CHEMBL1085065,P15090,IC50,>,100000.0,nM,c1c(ccc(c1)SC(C(=O)O)CC(=O)c1ccc(cc1)C)C,fabp4
+10,CHEMBL1085065,P15090,Inhibition,=,44.4,%,c1c(ccc(c1)SC(C(=O)O)CC(=O)c1ccc(cc1)C)C,fabp4
+11,CHEMBL1085570,P15090,IC50,=,1000.0,nM,c1(cc(cc(c1)Cl)NC(=O)CSCC(=O)O)Cl,fabp4
+12,CHEMBL1085570,P15090,IC50,=,13500.0,nM,c1(cc(cc(c1)Cl)NC(=O)CSCC(=O)O)Cl,fabp4
+13,CHEMBL1085570,P15090,Inhibition,=,84.9,%,c1(cc(cc(c1)Cl)NC(=O)CSCC(=O)O)Cl,fabp4
+14,CHEMBL1085571,P15090,IC50,=,3100.0,nM,c1cc(c(c(c1)Cl)CNC(=O)CSCC(=O)O)Oc1ccccc1,fabp4
+15,CHEMBL1085571,P15090,IC50,=,42200.0,nM,c1cc(c(c(c1)Cl)CNC(=O)CSCC(=O)O)Oc1ccccc1,fabp4
+16,CHEMBL1085571,P15090,Inhibition,=,62.5,%,c1cc(c(c(c1)Cl)CNC(=O)CSCC(=O)O)Oc1ccccc1,fabp4
+17,CHEMBL1085797,P15090,IC50,=,4100.0,nM,c1cc(c(cc1)CNC(=O)CSCC(=O)O)N1CCCCC1,fabp4
+18,CHEMBL1085797,P15090,IC50,=,56300.0,nM,c1cc(c(cc1)CNC(=O)CSCC(=O)O)N1CCCCC1,fabp4
+19,CHEMBL1085797,P15090,Inhibition,=,58.7,%,c1cc(c(cc1)CNC(=O)CSCC(=O)O)N1CCCCC1,fabp4
+20,CHEMBL1086224,P15090,IC50,=,4400.0,nM,c1(NC(=O)CSCC(=O)O)cc(c(cc1)F)Cl,fabp4
+21,CHEMBL1086224,P15090,IC50,=,59500.0,nM,c1(NC(=O)CSCC(=O)O)cc(c(cc1)F)Cl,fabp4
+22,CHEMBL1086224,P15090,Inhibition,=,56.2,%,c1(NC(=O)CSCC(=O)O)cc(c(cc1)F)Cl,fabp4
+23,CHEMBL1086457,P15090,IC50,>,100000.0,nM,c1(c(cc(c(c1)NC(=O)CSCC(=O)O)C(=O)OC)OC)OC,fabp4
+24,CHEMBL1086457,P15090,Inhibition,=,46.9,%,c1(c(cc(c(c1)NC(=O)CSCC(=O)O)C(=O)OC)OC)OC,fabp4
+25,CHEMBL116533,P15090,Ki,=,58.0,nM,c1(nc(c(o1)c1ccccc1)c1ccccc1)c1c(OCCCCC(=O)O)cccc1,fabp4
+26,CHEMBL126078,P15090,Ki,=,6.0,nM,n1c(oc(c1c1ccccc1)c1ccccc1)c1c(c2cc(OCC(=O)O)ccc2)cccc1,fabp4
+27,CHEMBL126078,P15090,Ki,=,95.0,nM,n1c(oc(c1c1ccccc1)c1ccccc1)c1c(c2cc(OCC(=O)O)ccc2)cccc1,fabp4
+28,CHEMBL1345913,P15090,Delta Tm,=,0.1,degrees C,O=C(O)C1(C(C(CC1)C(=O)Nc1c(ccc(c1)C)C)(C)C)C,fabp4
+29,CHEMBL1345913,P15090,Inhibition,=,0.5,%,O=C(O)C1(C(C(CC1)C(=O)Nc1c(ccc(c1)C)C)(C)C)C,fabp4
+30,CHEMBL1373013,P15090,Delta Tm,=,2.8,degrees C,S(c1n(c2c(n1)cccc2)Cc1ccccc1)CCC(=O)O,fabp4
+31,CHEMBL1373013,P15090,Inhibition,=,27.9,%,S(c1n(c2c(n1)cccc2)Cc1ccccc1)CCC(=O)O,fabp4
+32,CHEMBL1382236,P15090,Delta Tm,=,-9.1,degrees C,S(=O)(=O)(c1nc(cc(n1)c1c(OC)cccc1)C(F)(F)F)CCCC(=O)O,fabp4
+33,CHEMBL1382236,P15090,Inhibition,=,-50.8,%,S(=O)(=O)(c1nc(cc(n1)c1c(OC)cccc1)C(F)(F)F)CCCC(=O)O,fabp4
+34,CHEMBL1391464,P15090,Delta Tm,=,0.1,degrees C,S(=O)(=O)(Nc1cc(Sc2sc3c(n2)cccc3)c(O)cc1)c1ccc(cc1)C(=O)O,fabp4
+35,CHEMBL1391464,P15090,Inhibition,=,7.2,%,S(=O)(=O)(Nc1cc(Sc2sc3c(n2)cccc3)c(O)cc1)c1ccc(cc1)C(=O)O,fabp4
+36,CHEMBL1460788,P15090,Delta Tm,=,1.0,degrees C,O=C(N(Cc1ccccc1)Cc1ccccc1)c1c(C(=O)O)cccc1,fabp4
+37,CHEMBL1460788,P15090,Inhibition,=,4.9,%,O=C(N(Cc1ccccc1)Cc1ccccc1)c1c(C(=O)O)cccc1,fabp4
+38,CHEMBL1481999,P15090,Delta Tm,=,2.8,degrees C,Clc1ccc(S(=O)(=O)Nc2c3c(c4oc(c(c4c2)C(=O)O)C)cccc3)cc1,fabp4
+39,CHEMBL1481999,P15090,Inhibition,=,30.2,%,Clc1ccc(S(=O)(=O)Nc2c3c(c4oc(c(c4c2)C(=O)O)C)cccc3)cc1,fabp4
+40,CHEMBL1522530,P15090,Delta Tm,=,0.2,degrees C,S(=O)(=O)(NC(c1ccccc1)CC(=O)O)c1c(cc(cc1)C)C,fabp4
+41,CHEMBL1522530,P15090,Inhibition,=,-0.3,%,S(=O)(=O)(NC(c1ccccc1)CC(=O)O)c1c(cc(cc1)C)C,fabp4
+42,CHEMBL1542782,P15090,Delta Tm,=,0.1,degrees C,O=C(N1CCN(c2c(OC)cccc2)CC1)c1c(NC(=O)C2C(C(=O)O)CCCC2)cccc1,fabp4
+43,CHEMBL1542782,P15090,Inhibition,=,-5.0,%,O=C(N1CCN(c2c(OC)cccc2)CC1)c1c(NC(=O)C2C(C(=O)O)CCCC2)cccc1,fabp4
+44,CHEMBL15594,P15090,Kd,=,180.0,nM,OC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC,fabp4
+45,CHEMBL1562366,P15090,Inhibition,=,-3.2,%,O=c1nc(n(c(c1c1ccccc1)C)CCCCCC(=O)O)C,fabp4
+46,CHEMBL1564699,P15090,Delta Tm,=,-2.8,degrees C,Clc1ccc(S(=O)(=O)Nc2c3c(c(O)c(SCC(=O)O)c2)cccc3)cc1,fabp4
+47,CHEMBL1564699,P15090,Ki,=,2300.0,nM,Clc1ccc(S(=O)(=O)Nc2c3c(c(O)c(SCC(=O)O)c2)cccc3)cc1,fabp4
+48,CHEMBL1564699,P15090,Inhibition,=,70.0,%,Clc1ccc(S(=O)(=O)Nc2c3c(c(O)c(SCC(=O)O)c2)cccc3)cc1,fabp4
+49,CHEMBL1586017,P15090,Ki,>,1400.0,nM,O=C(O)CCn1c(cc2c1cccc2)c1ccccc1,fabp4
+50,CHEMBL1612489,P15090,Delta Tm,=,0.2,degrees C,s1c(NC(=O)CCC(=O)O)c(c2c1CCCCC2)C(=O)Nc1c2c(ccc1)cccc2,fabp4
+51,CHEMBL1612489,P15090,Inhibition,=,0.4,%,s1c(NC(=O)CCC(=O)O)c(c2c1CCCCC2)C(=O)Nc1c2c(ccc1)cccc2,fabp4
+52,CHEMBL1782963,P15090,IC50,=,987.0,nM,c1(ccccc1c1nn(c(c1)c1ccccc1)c1ccccc1)c1cccc(c1)OCC(=O)O,fabp4
+53,CHEMBL1782963,P15090,Ki,=,32.0,nM,c1(ccccc1c1nn(c(c1)c1ccccc1)c1ccccc1)c1cccc(c1)OCC(=O)O,fabp4
+54,CHEMBL1782964,P15090,Ki,=,13.0,nM,c1(ccccc1c1nn(c(c1)c1ccccc1)c1ccc(cc1)Cl)c1cccc(c1)OCC(=O)O,fabp4
+55,CHEMBL1782965,P15090,Ki,=,7.0,nM,c1(ccccc1c1nn(c(c1)c1occc1)c1ccc(cc1)Cl)c1cccc(c1)OCC(=O)O,fabp4
+56,CHEMBL1782966,P15090,Ki,=,5.0,nM,c1(ccccc1c1nn(c(c1)c1sccc1)c1ccc(cc1)Cl)c1cccc(c1)OCC(=O)O,fabp4
+57,CHEMBL1782967,P15090,Ki,<,1.0,nM,c1(ccccc1c1nn(c(c1)c1sccc1)c1ccc(cc1)Cl)c1cccc(c1)OC(C(=O)O)C,fabp4
+58,CHEMBL1782968,P15090,Ki,=,6.0,nM,c1(ccccc1c1nn(c(c1)c1sccc1)c1ccc(cc1)Cl)c1cccc(c1)OC(C(=O)O)CC,fabp4
+59,CHEMBL1782969,P15090,Ki,<,1.0,nM,c1(ccccc1c1nn(c(c1)c1sccc1)c1ccc(cc1)Cl)c1cccc(c1)OC(C(=O)O)(C)C,fabp4
+60,CHEMBL181645,P15090,IC50,=,4500.0,nM,S(=O)(=O)(n1c2c(cc1)cccc2F)c1c(C(=O)O)scc1,fabp4
+61,CHEMBL182801,P15090,IC50,=,3900.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1ccc(cc1)OC,fabp4
+62,CHEMBL183180,P15090,IC50,>,100000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1ccc(c2ccccc2)cc1,fabp4
+63,CHEMBL183798,P15090,IC50,=,10000.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)cc(cc2)OC,fabp4
+64,CHEMBL183802,P15090,IC50,=,1500.0,nM,S(=O)(=O)(n1cc(c2c1cccc2)C)c1c(C(=O)O)scc1,fabp4
+65,CHEMBL184005,P15090,IC50,=,12000.0,nM,S(=O)(=O)(n1c2c(cc1)cc(cc2)Br)c1c(C(=O)O)cccc1,fabp4
+66,CHEMBL184036,P15090,IC50,>,100000.0,nM,C(c1nc(nc(c1)O)CCc1ccccc1)(F)(F)F,fabp4
+67,CHEMBL184038,P15090,IC50,=,25000.0,nM,C(c1nc(nc(c1)O)CCc1ccc(cc1)OC)(F)(F)F,fabp4
+68,CHEMBL184125,P15090,IC50,=,37000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCC(=O)N1CCCCC1,fabp4
+69,CHEMBL184136,P15090,IC50,=,600.0,nM,n1c(nc(C(F)(F)F)cc1O)SCc1ccc(cc1)OC,fabp4
+70,CHEMBL184142,P15090,IC50,=,4000.0,nM,c1(nc(cc(n1)C(F)(F)F)O)N(Cc1ccc(Cl)cc1)C,fabp4
+71,CHEMBL184195,P15090,IC50,=,12000.0,nM,S(=O)(=O)(n1c2c(cc1)c(ccc2)C)c1c(C(=O)O)cccc1,fabp4
+72,CHEMBL184605,P15090,IC50,=,1300.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)ccc(c2)C,fabp4
+73,CHEMBL184795,P15090,IC50,=,800.0,nM,n1(c2c(c3c1cccc3)cccc2)CCCCC(=O)O,fabp4
+74,CHEMBL184817,P15090,IC50,=,9400.0,nM,n1(c2c(c3c1cccc3)cccc2)CCC(=O)O,fabp4
+75,CHEMBL184846,P15090,IC50,=,4700.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)ccc(c2)F,fabp4
+76,CHEMBL184852,P15090,IC50,=,2900.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1ccc(Cl)cc1,fabp4
+77,CHEMBL184911,P15090,IC50,>,100000.0,nM,S(=O)(=O)(n1cc(c2c1cccc2)C(=O)N)c1c(C(=O)O)cccc1,fabp4
+78,CHEMBL185123,P15090,IC50,=,47000.0,nM,n1c(nc(cc1O)CC)NCc1ccc(Cl)cc1,fabp4
+79,CHEMBL185276,P15090,IC50,=,30000.0,nM,S(=O)(=O)(n1c2c(cc1)cc(cc2)C)c1c(C(=O)O)cccc1,fabp4
+80,CHEMBL185298,P15090,IC50,>,100000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1ccncc1,fabp4
+81,CHEMBL185309,P15090,IC50,>,100000.0,nM,n1c(nc(cc1O)c1c(F)cccc1)NCc1ccc(Cl)cc1,fabp4
+82,CHEMBL185326,P15090,IC50,=,24000.0,nM,c1(nc(cc(n1)C(F)(F)F)O)N(Cc1ccccc1)C,fabp4
+83,CHEMBL185362,P15090,IC50,=,2600.0,nM,S(=O)(=O)(n1c2c(cc1)cccc2OC)c1c(C(=O)O)scc1,fabp4
+84,CHEMBL185432,P15090,IC50,>,100000.0,nM,n1(c2c(c3c1cccc3)cccc2)CC(=O)O,fabp4
+85,CHEMBL185467,P15090,IC50,=,33000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1ccc(cc1)C,fabp4
+86,CHEMBL185478,P15090,IC50,>,100000.0,nM,n1c(nc(cc1O)C)NCc1ccc(Cl)cc1,fabp4
+87,CHEMBL185553,P15090,IC50,=,2600.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)ccc(c2)OC,fabp4
+88,CHEMBL185561,P15090,IC50,>,100000.0,nM,c1(nc(cc(n1)C(F)(F)F)O)Nc1ccccc1,fabp4
+89,CHEMBL185595,P15090,IC50,=,570.0,nM,OC(=O)CCCn1c2ccccc2c2c1cccc2,fabp4
+90,CHEMBL185617,P15090,IC50,=,89000.0,nM,S(=O)(=O)(n1c2c(cc1)c(OC)ccc2)c1c(C(=O)O)cccc1,fabp4
+91,CHEMBL185924,P15090,IC50,=,23000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1c(Cl)cccc1,fabp4
+92,CHEMBL1972224,P15090,Delta Tm,=,-0.1,degrees C,O=C(O)C(NC(=O)C)Cc1ccc(O)cc1,fabp4
+93,CHEMBL1972224,P15090,Inhibition,=,-3.6,%,O=C(O)C(NC(=O)C)Cc1ccc(O)cc1,fabp4
+94,CHEMBL210078,P15090,Ki,>,2000.0,nM,c1ccc(c(c1C(CO)O)OCc1c(cccc1)Cl)OCc1c(cccc1)Cl,fabp4
+95,CHEMBL212860,P15090,Ki,=,16.0,nM,c1ccc(c(c1CC(=O)O)OCc1c(cccc1)Cl)OCc1c(cccc1)Cl,fabp4
+96,CHEMBL2142747,P15090,Delta Tm,=,0.5,degrees C,Clc1c2c(C(=O)N(C2=O)C(C(=O)O)Cc2ccc(O)cc2)c(Cl)c(Cl)c1Cl,fabp4
+97,CHEMBL2142747,P15090,Inhibition,=,6.0,%,Clc1c2c(C(=O)N(C2=O)C(C(=O)O)Cc2ccc(O)cc2)c(Cl)c(Cl)c1Cl,fabp4
+98,CHEMBL2331584,P15090,IC50,=,259000.0,nM,c1cc(c(cc1)OCCCCC(=O)O)c1nn(c(c1)c1ccc(cc1)C)c1ccccc1,fabp4
+99,CHEMBL2334243,P15090,IC50,=,23500.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)C1CCCCC1,fabp4
+100,CHEMBL2334244,P15090,IC50,=,15500.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)C1CCCCCC1,fabp4
+101,CHEMBL2334245,P15090,IC50,>,10000000.0,nM,c1cc(c(cc1)OCC(=O)O)c1nn(c(c1)c1ccc(cc1)Cl)c1ccccc1,fabp4
+102,CHEMBL2334246,P15090,IC50,=,6130.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccc(cc1)Cl)c1ccccc1,fabp4
+103,CHEMBL2334247,P15090,IC50,=,74000.0,nM,c1cc(c(cc1)OCCCCC(=O)O)c1nn(c(c1)c1ccc(cc1)Cl)c1ccccc1,fabp4
+104,CHEMBL2334248,P15090,IC50,=,31000.0,nM,c1cc(c(cc1)OCCCCCCC(=O)O)c1nn(c(c1)c1ccc(cc1)Cl)c1ccccc1,fabp4
+105,CHEMBL2334249,P15090,IC50,=,5410.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccc(cc1)C)c1ccccc1,fabp4
+106,CHEMBL2334250,P15090,IC50,=,9510.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccc(cc1)Br)c1ccccc1,fabp4
+107,CHEMBL2334251,P15090,IC50,=,3020.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1ccccc1,fabp4
+108,CHEMBL2334252,P15090,IC50,=,6390.0,nM,c1cc(c(cc1)OCCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1ccccc1,fabp4
+109,CHEMBL2334253,P15090,IC50,=,86000.0,nM,c1cc(c(cc1)OCCCCC(=O)O)c1nn(c(c1)c1ccc(cc1)Br)c1ccccc1,fabp4
+110,CHEMBL2334254,P15090,IC50,=,10200.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1ccc(cc1)F,fabp4
+111,CHEMBL2334255,P15090,IC50,=,5640.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1ccc(cc1)Br,fabp4
+112,CHEMBL2334256,P15090,IC50,=,4320.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1ccc(cc1)Cl,fabp4
+113,CHEMBL2334257,P15090,IC50,=,10300.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1ccc(cc1)C(C)C,fabp4
+114,CHEMBL2334258,P15090,IC50,=,13600.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1ccc(cc1)OC,fabp4
+115,CHEMBL2334259,P15090,IC50,=,4270.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1c(cccc1)Cl,fabp4
+116,CHEMBL2334261,P15090,IC50,=,2500.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)c1cc(ccc1)Cl,fabp4
+117,CHEMBL2334262,P15090,IC50,=,16600.0,nM,c1cc(c(cc1)OCCCC(=O)O)c1nn(c(c1)c1ccccc1)C1CCCC1,fabp4
+118,CHEMBL245282,P15090,Ki,=,2.7,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c(n1C)c1ccccc1)c1ccccc1,fabp4
+119,CHEMBL245282,P15090,Ki,=,48.0,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c(n1C)c1ccccc1)c1ccccc1,fabp4
+120,CHEMBL245284,P15090,Ki,<,2.0,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1nc(c(n1CC)c1ccccc1)c1ccccc1,fabp4
+121,CHEMBL245284,P15090,Ki,=,3.3,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1nc(c(n1CC)c1ccccc1)c1ccccc1,fabp4
+122,CHEMBL245653,P15090,Ki,=,3.4,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c(n1CC)c1ccccc1)c1ccccc1,fabp4
+123,CHEMBL245653,P15090,Ki,=,13.0,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c(n1CC)c1ccccc1)c1ccccc1,fabp4
+124,CHEMBL245857,P15090,Ki,=,130.0,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c(n1CC(C)C)c1ccccc1)c1ccccc1,fabp4
+125,CHEMBL246062,P15090,Ki,>,2000.0,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c(n1CC(=O)O)c1ccccc1)c1ccccc1,fabp4
+126,CHEMBL246902,P15090,Ki,=,36.0,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1oc(c(c1)c1ccccc1)c1ccccc1,fabp4
+127,CHEMBL247298,P15090,Ki,=,2.0,nM,c1ccc(c(c1C(=O)O)OCc1ccc(c(c1Cl)[3H])Cl)OCc1c(c(c(cc1)Cl)[3H])Cl,fabp4
+128,CHEMBL247298,P15090,Kd,=,21.0,nM,c1ccc(c(c1C(=O)O)OCc1ccc(c(c1Cl)[3H])Cl)OCc1c(c(c(cc1)Cl)[3H])Cl,fabp4
+129,CHEMBL247529,P15090,Ki,=,3.5,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1oc(c(c1CC)c1ccccc1)c1ccccc1,fabp4
+130,CHEMBL247529,P15090,Ki,=,32.0,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1oc(c(c1CC)c1ccccc1)c1ccccc1,fabp4
+131,CHEMBL247920,P15090,Kd,=,2050.0,nM,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+132,CHEMBL247920,P15090,Delta Tm,=,10.6,degrees C,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+133,CHEMBL247920,P15090,Ki,=,220.0,nM,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+134,CHEMBL247920,P15090,Ki,=,160.0,nM,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+135,CHEMBL247920,P15090,IC50,=,221.0,nM,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+136,CHEMBL247920,P15090,Ki,=,15.0,nM,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+137,CHEMBL247920,P15090,Ki,<,2.0,nM,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+138,CHEMBL247920,P15090,Ki,=,7.4,nM,c1cccc(c2cc(ccc2)OCC(=O)O)c1n1c(c(c2ccccc2)c(c2ccccc2)n1)CC,fabp4
+139,CHEMBL248120,P15090,Ki,=,28.0,nM,c1ccc(cc1c1ccccc1n1c(c(c(n1)c1ccccc1)c1ccccc1)CC)C(O)C(=O)O,fabp4
+140,CHEMBL248144,P15090,Ki,=,9.3,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1nc(c([nH]1)c1ccccc1)c1ccccc1,fabp4
+141,CHEMBL248145,P15090,Ki,=,18.0,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c([nH]1)c1ccccc1)c1ccccc1,fabp4
+142,CHEMBL248145,P15090,Ki,=,300.0,nM,c1(ccccc1c1cccc(c1)NCC(=O)O)c1nc(c([nH]1)c1ccccc1)c1ccccc1,fabp4
+143,CHEMBL267476,P15090,Delta Tm,=,1.1,degrees C,C(CCCCCC(=O)O)C/C=C\C/C=C\CCCCC,fabp4
+144,CHEMBL267476,P15090,Ki,=,6800.0,nM,C(CCCCCC(=O)O)C/C=C\C/C=C\CCCCC,fabp4
+145,CHEMBL267476,P15090,IC50,=,17700.0,nM,C(CCCCCC(=O)O)C/C=C\C/C=C\CCCCC,fabp4
+146,CHEMBL267476,P15090,Inhibition,=,85.0,%,C(CCCCCC(=O)O)C/C=C\C/C=C\CCCCC,fabp4
+147,CHEMBL267476,P15090,IC50,=,1000.0,nM,C(CCCCCC(=O)O)C/C=C\C/C=C\CCCCC,fabp4
+148,CHEMBL267476,P15090,IC50,=,13600.0,nM,C(CCCCCC(=O)O)C/C=C\C/C=C\CCCCC,fabp4
+149,CHEMBL267476,P15090,Inhibition,=,81.4,%,C(CCCCCC(=O)O)C/C=C\C/C=C\CCCCC,fabp4
+150,CHEMBL285527,P15090,Kd,=,150.0,nM,S(=O)(=O)(O)c1c2c(ccc1)cccc2Nc1ccccc1,fabp4
+151,CHEMBL285527,P15090,Ki,=,1000.0,nM,S(=O)(=O)(O)c1c2c(ccc1)cccc2Nc1ccccc1,fabp4
+152,CHEMBL3400157,P15090,IC50,=,7900.0,nM,c1(cc(cc(c1S(=O)(=O)O)C(C)C)C(C)C)C(C)C,fabp4
+153,CHEMBL3400157,P15090,Inhibition,=,92.1,%,c1(cc(cc(c1S(=O)(=O)O)C(C)C)C(C)C)C(C)C,fabp4
+154,CHEMBL3400883,P15090,IC50,=,16800.0,nM,c1(cc(cc(c1S(=O)(=O)n1cncc1)C(C)C)C(C)C)C(C)C,fabp4
+155,CHEMBL3400883,P15090,Inhibition,=,87.8,%,c1(cc(cc(c1S(=O)(=O)n1cncc1)C(C)C)C(C)C)C(C)C,fabp4
+156,CHEMBL3400884,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cccc2)C(C)C)C(C)C)C(C)C,fabp4
+157,CHEMBL3400885,P15090,IC50,>,100000.0,nM,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1cccc2)C)C(C)C)C(C)C)C(C)C,fabp4
+158,CHEMBL3400885,P15090,Inhibition,=,36.3,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1cccc2)C)C(C)C)C(C)C)C(C)C,fabp4
+159,CHEMBL3400886,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1ccc(c2)C)C(C)C)C(C)C)C(C)C,fabp4
+160,CHEMBL3400887,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1cc(cc2)C)C)C(C)C)C(C)C)C(C)C,fabp4
+161,CHEMBL3400888,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1ccc(c2)C)C)C(C)C)C(C)C)C(C)C,fabp4
+162,CHEMBL3400889,P15090,IC50,=,82800.0,nM,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1cc(cc2)Br)C)C(C)C)C(C)C)C(C)C,fabp4
+163,CHEMBL3400889,P15090,Inhibition,=,53.6,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1cc(cc2)Br)C)C(C)C)C(C)C)C(C)C,fabp4
+164,CHEMBL3400890,P15090,IC50,=,14800.0,nM,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cc(cc2)Br)C(C)C)C(C)C)C(C)C,fabp4
+165,CHEMBL3400890,P15090,Inhibition,=,92.2,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cc(cc2)Br)C(C)C)C(C)C)C(C)C,fabp4
+166,CHEMBL3400891,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1ccc(c2)Br)C(C)C)C(C)C)C(C)C,fabp4
+167,CHEMBL3400892,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1ccc(c2)Br)C)C(C)C)C(C)C)C(C)C,fabp4
+168,CHEMBL3400893,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1cc(cc2)Cl)C)C(C)C)C(C)C)C(C)C,fabp4
+169,CHEMBL3400894,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cc(cc2)Cl)C(C)C)C(C)C)C(C)C,fabp4
+170,CHEMBL3400895,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1ccc(c2)Cl)C(C)C)C(C)C)C(C)C,fabp4
+171,CHEMBL3400896,P15090,IC50,=,14800.0,nM,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1ccc(c2)Cl)C)C(C)C)C(C)C)C(C)C,fabp4
+172,CHEMBL3400896,P15090,Inhibition,=,90.8,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1ccc(c2)Cl)C)C(C)C)C(C)C)C(C)C,fabp4
+173,CHEMBL3400897,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1cc(cc2)OC)C)C(C)C)C(C)C)C(C)C,fabp4
+174,CHEMBL3400898,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cc(cc2)OC)C(C)C)C(C)C)C(C)C,fabp4
+175,CHEMBL3400899,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1ccc(c2)OC)C(C)C)C(C)C)C(C)C,fabp4
+176,CHEMBL3400900,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1c(nc2c1ccc(c2)OC)C)C(C)C)C(C)C)C(C)C,fabp4
+177,CHEMBL3400901,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cc(cc2)[N+](=O)[O-])C(C)C)C(C)C)C(C)C,fabp4
+178,CHEMBL3400902,P15090,Inhibition,<,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1ccc(c2)[N+](=O)[O-])C(C)C)C(C)C)C(C)C,fabp4
+179,CHEMBL3400903,P15090,IC50,>,100000.0,nM,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cc(cc2)N)C(C)C)C(C)C)C(C)C,fabp4
+180,CHEMBL3400903,P15090,Inhibition,=,10.0,%,c1(cc(cc(c1S(=O)(=O)n1cnc2c1cc(cc2)N)C(C)C)C(C)C)C(C)C,fabp4
+181,CHEMBL3400904,P15090,IC50,>,100000.0,nM,c1(cc(cc(c1S(=O)(=O)N)C(C)C)C(C)C)C(C)C,fabp4
+182,CHEMBL3400904,P15090,Inhibition,=,13.3,%,c1(cc(cc(c1S(=O)(=O)N)C(C)C)C(C)C)C(C)C,fabp4
+183,CHEMBL3400905,P15090,IC50,=,4000.0,nM,c1(cc(cc(c1C(=O)O)C(C)C)C(C)C)C(C)C,fabp4
+184,CHEMBL3400905,P15090,Inhibition,=,96.0,%,c1(cc(cc(c1C(=O)O)C(C)C)C(C)C)C(C)C,fabp4
+185,CHEMBL359763,P15090,IC50,=,13000.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)c(OC)ccc2,fabp4
+186,CHEMBL360007,P15090,IC50,=,7100.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)cc(cc2)C,fabp4
+187,CHEMBL360376,P15090,IC50,=,1000.0,nM,FC(F)(F)c1nc(nc(c1)O)SCC(=O)N1CCCCC1,fabp4
+188,CHEMBL361037,P15090,IC50,=,7400.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)c(ccc2)C,fabp4
+189,CHEMBL361251,P15090,IC50,=,8500.0,nM,S(=O)(=O)(n1cc(c2c1cccc2)C)c1c(C(=O)O)cccc1,fabp4
+190,CHEMBL362888,P15090,IC50,=,10000.0,nM,S(=O)(=O)(n1c2c(cc1)c(F)ccc2)c1c(C(=O)O)cccc1,fabp4
+191,CHEMBL363032,P15090,IC50,=,1100.0,nM,S(=O)(=O)(n1c2c(c3c1cccc3)cccc2)c1c(C(=O)O)scc1,fabp4
+192,CHEMBL363720,P15090,IC50,=,33000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1cc(Cl)ccc1,fabp4
+193,CHEMBL363985,P15090,IC50,>,100000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCCc1ccccc1,fabp4
+194,CHEMBL364141,P15090,IC50,=,4300.0,nM,S(=O)(=O)(n1c2c(c3c1cccc3)cccc2)c1c(C(=O)O)cccc1,fabp4
+195,CHEMBL364177,P15090,IC50,>,100000.0,nM,n1c(nc(cc1O)c1ccccc1)NCc1ccc(Cl)cc1,fabp4
+196,CHEMBL364420,P15090,IC50,=,32000.0,nM,S(=O)(=O)(n1cc(c2c1cccc2)C(=O)N)c1c(C(=O)O)scc1,fabp4
+197,CHEMBL365476,P15090,IC50,=,3500.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)cc(cc2)F,fabp4
+198,CHEMBL365508,P15090,IC50,=,6100.0,nM,S(=O)(=O)(n1c2c(cc1)ccc(c2)OC)c1c(C(=O)O)cccc1,fabp4
+199,CHEMBL365655,P15090,IC50,=,33000.0,nM,n1c(nc(C(F)(F)F)cc1O)NCc1ccccc1,fabp4
+200,CHEMBL378181,P15090,Ki,<,2.0,nM,c1ccc(c(c1C(=O)C(=O)O)OCc1c(cccc1)Cl)OCc1c(cccc1)Cl,fabp4
+201,CHEMBL378857,P15090,Ki,=,2.5,nM,c1ccc(c(c1[C@@H](C(=O)O)O)OCc1c(cccc1)Cl)OCc1c(cccc1)Cl,fabp4
+202,CHEMBL3813892,P15090,Ki,=,100.0,nM,c1(c(n(c2c1cc(cc2)C1CC1)CCC(=O)O)c1ccccc1)c1c(cncc1)OC,fabp4
+203,CHEMBL3814575,P15090,Ki,=,120.0,nM,c1(c(n(c2c1cc(cc2)C1CC1)CCC(=O)O)c1ccccc1)c1ccccc1,fabp4
+204,CHEMBL3814634,P15090,Ki,=,30.0,nM,c1(c(n(c2c1cc(cc2)C1CC1)CCC(=O)O)c1cc(ccc1)OC(C)C)c1c(n[nH]c1C)C,fabp4
+205,CHEMBL3827020,P15090,Delta Tm,=,-0.2,degrees C,CC1(C)CC(=O)C2=C(N(C3=C(C2c2cc(ccc2OCC(=O)O)Cl)C(=O)CC(C)(C)C3)CCC)C1,fabp4
+206,CHEMBL3827020,P15090,Inhibition,=,-83.7,%,CC1(C)CC(=O)C2=C(N(C3=C(C2c2cc(ccc2OCC(=O)O)Cl)C(=O)CC(C)(C)C3)CCC)C1,fabp4
+207,CHEMBL3827054,P15090,Delta Tm,=,0.5,degrees C,c1(C(=O)OC(C(C(=O)O)OC(=O)c2ccccc2)C(=O)Nc2ccccc2CC)ccccc1,fabp4
+208,CHEMBL3827054,P15090,Inhibition,=,2.1,%,c1(C(=O)OC(C(C(=O)O)OC(=O)c2ccccc2)C(=O)Nc2ccccc2CC)ccccc1,fabp4
+209,CHEMBL3827140,P15090,Delta Tm,=,0.3,degrees C,C1CCc2c(C1)c1c(c(=O)n2N(c2ccccc2)c2ccccc2)c(cc(=O)o1)O,fabp4
+210,CHEMBL3827140,P15090,Inhibition,=,0.9,%,C1CCc2c(C1)c1c(c(=O)n2N(c2ccccc2)c2ccccc2)c(cc(=O)o1)O,fabp4
+211,CHEMBL3827163,P15090,Inhibition,=,-3.0,%,c1(nc(cc(=O)n1c1ccc(cc1)C)O)SCC(=O)Nc1c(cccc1C)C,fabp4
+212,CHEMBL3827169,P15090,Delta Tm,=,-0.1,degrees C,N1=C(CC(N1C(=O)CCC(=O)O)c1ccccc1Cl)c1ccc(cc1)C,fabp4
+213,CHEMBL3827169,P15090,Inhibition,=,-7.7,%,N1=C(CC(N1C(=O)CCC(=O)O)c1ccccc1Cl)c1ccc(cc1)C,fabp4
+214,CHEMBL3827184,P15090,Delta Tm,=,0.1,degrees C,c1c(ccc(c1)OC)CN(C(=O)COc1cc(ccc1C(C)C)C)c1c(cccc1)C(=O)O,fabp4
+215,CHEMBL3827184,P15090,Inhibition,=,18.5,%,c1c(ccc(c1)OC)CN(C(=O)COc1cc(ccc1C(C)C)C)c1c(cccc1)C(=O)O,fabp4
+216,CHEMBL3827229,P15090,Delta Tm,=,1.1,degrees C,c1cccc2c1[nH]c(c2C1N(C(=O)c2c1cccc2)CCC(=O)O)c1cccc(c1)OC,fabp4
+217,CHEMBL3827229,P15090,Inhibition,=,6.3,%,c1cccc2c1[nH]c(c2C1N(C(=O)c2c1cccc2)CCC(=O)O)c1cccc(c1)OC,fabp4
+218,CHEMBL3827246,P15090,Delta Tm,=,1.2,degrees C,c1cc(cc2c1[nH]c(c2Cc1ccc(cc1)OC)C)C(=O)O,fabp4
+219,CHEMBL3827246,P15090,Inhibition,=,-38.0,%,c1cc(cc2c1[nH]c(c2Cc1ccc(cc1)OC)C)C(=O)O,fabp4
+220,CHEMBL3827302,P15090,Delta Tm,=,3.9,degrees C,C1CCC(C(C1)C(=O)O)C(=O)Nc1c(cccc1)c1ccccc1,fabp4
+221,CHEMBL3827302,P15090,Inhibition,=,27.7,%,C1CCC(C(C1)C(=O)O)C(=O)Nc1c(cccc1)c1ccccc1,fabp4
+222,CHEMBL3827376,P15090,Inhibition,=,17.1,%,C1(N(C(=O)C(=C1C(=O)c1ccc(cc1)C)O)CCCC(=O)O)c1ccccc1F,fabp4
+223,CHEMBL3827390,P15090,Inhibition,=,0.5,%,n1nc(n(n1)c1ccccc1)c1c(nc(nc1)N(CC(=O)O)C)c1ccccc1Cl,fabp4
+224,CHEMBL3827401,P15090,Delta Tm,=,-9.0,degrees C,C\1(=N\c2ccc(c(c2)C)C)/NC(=O)/C(=C/c2n(ccc2)c2cc(ccc2)C(=O)O)/S1,fabp4
+225,CHEMBL3827401,P15090,Ki,=,3600.0,nM,C\1(=N\c2ccc(c(c2)C)C)/NC(=O)/C(=C/c2n(ccc2)c2cc(ccc2)C(=O)O)/S1,fabp4
+226,CHEMBL3827401,P15090,Inhibition,=,36.8,%,C\1(=N\c2ccc(c(c2)C)C)/NC(=O)/C(=C/c2n(ccc2)c2cc(ccc2)C(=O)O)/S1,fabp4
+227,CHEMBL3827430,P15090,Delta Tm,=,-0.6,degrees C,C(=O)(CSc1c(cccn1)C(=O)O)c1cc(c(cc1)O)O,fabp4
+228,CHEMBL3827430,P15090,Inhibition,=,-0.2,%,C(=O)(CSc1c(cccn1)C(=O)O)c1cc(c(cc1)O)O,fabp4
+229,CHEMBL3827439,P15090,Delta Tm,=,0.2,degrees C,O=S(=O)(Nc1ccc2oc(c(c2c1)C(=O)O)C)c1ccccc1,fabp4
+230,CHEMBL3827439,P15090,Inhibition,=,9.5,%,O=S(=O)(Nc1ccc2oc(c(c2c1)C(=O)O)C)c1ccccc1,fabp4
+231,CHEMBL3827455,P15090,Delta Tm,=,-0.2,degrees C,C1(=O)N(C(=O)c2c1cccc2)CN(c1cccc(c1)C(=O)O)C(=O)CCCCC,fabp4
+232,CHEMBL3827455,P15090,Inhibition,=,-1.9,%,C1(=O)N(C(=O)c2c1cccc2)CN(c1cccc(c1)C(=O)O)C(=O)CCCCC,fabp4
+233,CHEMBL3827461,P15090,Delta Tm,=,-1.8,degrees C,C(=C\1/SC(=S)N(C1=O)CCC(=O)O)\c1ccc(c(c1)OCC)O,fabp4
+234,CHEMBL3827461,P15090,Ki,=,2500.0,nM,C(=C\1/SC(=S)N(C1=O)CCC(=O)O)\c1ccc(c(c1)OCC)O,fabp4
+235,CHEMBL3827461,P15090,Inhibition,=,63.2,%,C(=C\1/SC(=S)N(C1=O)CCC(=O)O)\c1ccc(c(c1)OCC)O,fabp4
+236,CHEMBL3827464,P15090,Delta Tm,=,0.8,degrees C,O=S(=O)(c1cc2c3c(c1)CCn3c(=O)cc2C)NCc1ccc(cc1)C(=O)O,fabp4
+237,CHEMBL3827464,P15090,Inhibition,=,-31.7,%,O=S(=O)(c1cc2c3c(c1)CCn3c(=O)cc2C)NCc1ccc(cc1)C(=O)O,fabp4
+238,CHEMBL3827467,P15090,Delta Tm,=,0.2,degrees C,c1(cnc2c(c1Nc1cccc(c1)C(=O)O)ccc1c2cccc1)C(=O)OCC,fabp4
+239,CHEMBL3827467,P15090,Inhibition,=,18.2,%,c1(cnc2c(c1Nc1cccc(c1)C(=O)O)ccc1c2cccc1)C(=O)OCC,fabp4
+240,CHEMBL3827483,P15090,Delta Tm,=,6.2,degrees C,C1N2C(C3C(c4c2c(cc(c4)C)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+241,CHEMBL3827483,P15090,Ki,=,380.0,nM,C1N2C(C3C(c4c2c(cc(c4)C)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+242,CHEMBL3827504,P15090,Delta Tm,=,7.5,degrees C,C1N2C(C3C(c4c2c(cc2c4cccc2)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+243,CHEMBL3827527,P15090,Delta Tm,=,-0.2,degrees C,C1(Nc2c(cccc2C(=O)O)C2C1CC(C2Cl)Sc1c(cccc1)[N+](=O)[O-])c1ccccc1[N+](=O)[O-],fabp4
+244,CHEMBL3827527,P15090,Ki,=,5400.0,nM,C1(Nc2c(cccc2C(=O)O)C2C1CC(C2Cl)Sc1c(cccc1)[N+](=O)[O-])c1ccccc1[N+](=O)[O-],fabp4
+245,CHEMBL3827527,P15090,Inhibition,=,41.5,%,C1(Nc2c(cccc2C(=O)O)C2C1CC(C2Cl)Sc1c(cccc1)[N+](=O)[O-])c1ccccc1[N+](=O)[O-],fabp4
+246,CHEMBL3827587,P15090,Delta Tm,=,2.0,degrees C,c1(=O)[nH]c(=O)n(c2c1n(c(n2)SCC(=O)O)CCCCCCC)C,fabp4
+247,CHEMBL3827587,P15090,Inhibition,=,13.0,%,c1(=O)[nH]c(=O)n(c2c1n(c(n2)SCC(=O)O)CCCCCCC)C,fabp4
+248,CHEMBL3827661,P15090,Delta Tm,=,0.1,degrees C,C12(C(=C(Oc3c2c([nH]n3)C)N)C#N)C(=O)N(c2c1cccc2)C(C)C(=O)O,fabp4
+249,CHEMBL3827661,P15090,Inhibition,=,6.0,%,C12(C(=C(Oc3c2c([nH]n3)C)N)C#N)C(=O)N(c2c1cccc2)C(C)C(=O)O,fabp4
+250,CHEMBL3827687,P15090,Delta Tm,=,1.2,degrees C,O=S(=O)(c1ccc(c2c1cccc2)OC)Nc1c(cccc1)C(=O)O,fabp4
+251,CHEMBL3827687,P15090,Inhibition,=,20.3,%,O=S(=O)(c1ccc(c2c1cccc2)OC)Nc1c(cccc1)C(=O)O,fabp4
+252,CHEMBL3827693,P15090,Delta Tm,=,0.3,degrees C,N(C(=O)/C(=N\Nc1c(cccc1)C(=O)O)/C(=O)c1ccccc1)c1c(ccc(c1)Cl)Cl,fabp4
+253,CHEMBL3827693,P15090,Ki,=,10300.0,nM,N(C(=O)/C(=N\Nc1c(cccc1)C(=O)O)/C(=O)c1ccccc1)c1c(ccc(c1)Cl)Cl,fabp4
+254,CHEMBL3827693,P15090,Inhibition,=,39.5,%,N(C(=O)/C(=N\Nc1c(cccc1)C(=O)O)/C(=O)c1ccccc1)c1c(ccc(c1)Cl)Cl,fabp4
+255,CHEMBL3827833,P15090,Delta Tm,=,3.5,degrees C,C1N2C(C3C(c4c2c(ccc4)C2C1CC=C2)C(C(C3)Sc1c(cccc1)[N+](=O)[O-])Cl)C(=O)O,fabp4
+256,CHEMBL3827833,P15090,Ki,=,3100.0,nM,C1N2C(C3C(c4c2c(ccc4)C2C1CC=C2)C(C(C3)Sc1c(cccc1)[N+](=O)[O-])Cl)C(=O)O,fabp4
+257,CHEMBL3827833,P15090,Inhibition,=,60.2,%,C1N2C(C3C(c4c2c(ccc4)C2C1CC=C2)C(C(C3)Sc1c(cccc1)[N+](=O)[O-])Cl)C(=O)O,fabp4
+258,CHEMBL3827845,P15090,Delta Tm,=,-0.3,degrees C,s1c(ccc1)/C=C\1/N(C(=O)/C(=N/c2cc(ccc2)C(=O)O)/S1)C,fabp4
+259,CHEMBL3827845,P15090,Inhibition,=,25.8,%,s1c(ccc1)/C=C\1/N(C(=O)/C(=N/c2cc(ccc2)C(=O)O)/S1)C,fabp4
+260,CHEMBL3827900,P15090,Delta Tm,=,5.8,degrees C,C1N2C(C3C(c4c2c(c(cc4C)C)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+261,CHEMBL3827900,P15090,Ki,=,610.0,nM,C1N2C(C3C(c4c2c(c(cc4C)C)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+262,CHEMBL3827976,P15090,Delta Tm,=,-0.1,degrees C,C(=O)(CCC(=O)O)Nc1c(cccc1)C(=O)N1CCCCCC1,fabp4
+263,CHEMBL3827976,P15090,Inhibition,=,3.4,%,C(=O)(CCC(=O)O)Nc1c(cccc1)C(=O)N1CCCCCC1,fabp4
+264,CHEMBL3827989,P15090,Delta Tm,=,0.1,degrees C,s1c2c(CCCC2)c2c1nc([nH]c2=O)SC(CC(=O)O)C(=O)O,fabp4
+265,CHEMBL3827989,P15090,Inhibition,=,-22.7,%,s1c2c(CCCC2)c2c1nc([nH]c2=O)SC(CC(=O)O)C(=O)O,fabp4
+266,CHEMBL3828043,P15090,Delta Tm,=,7.9,degrees C,C1N2C(C3C(c4c2c(cc(c4)Cl)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+267,CHEMBL3828043,P15090,Ki,=,690.0,nM,C1N2C(C3C(c4c2c(cc(c4)Cl)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+268,CHEMBL3828045,P15090,Delta Tm,=,3.1,degrees C,c1([nH]c(nc1c1ccccc1)SC(C)C(=O)O)c1ccccc1,fabp4
+269,CHEMBL3828045,P15090,Inhibition,=,-16.6,%,c1([nH]c(nc1c1ccccc1)SC(C)C(=O)O)c1ccccc1,fabp4
+270,CHEMBL3828156,P15090,Delta Tm,=,-0.6,degrees C,c1(cc(c(cc1)OCC(=O)O)/C=C/1\S/C(=N\c2ccc(cc2)Cl)/NC1=O)Br,fabp4
+271,CHEMBL3828156,P15090,Inhibition,=,-31.0,%,c1(cc(c(cc1)OCC(=O)O)/C=C/1\S/C(=N\c2ccc(cc2)Cl)/NC1=O)Br,fabp4
+272,CHEMBL3828256,P15090,Delta Tm,=,-2.6,degrees C,C(=C\Nc1cc(ccc1C(=O)O)Cl)(\C(=O)c1ccc(cc1)C)/c1nnnn1c1ccc(cc1)C,fabp4
+273,CHEMBL3828256,P15090,Inhibition,=,-2.5,%,C(=C\Nc1cc(ccc1C(=O)O)Cl)(\C(=O)c1ccc(cc1)C)/c1nnnn1c1ccc(cc1)C,fabp4
+274,CHEMBL3828304,P15090,Delta Tm,=,1.0,degrees C,C1(=C(C(=O)N(C1c1ccc(c(c1)OC)OC)CCCC(=O)O)O)C(=O)c1ccc(cc1)C,fabp4
+275,CHEMBL3828304,P15090,Inhibition,=,16.6,%,C1(=C(C(=O)N(C1c1ccc(c(c1)OC)OC)CCCC(=O)O)O)C(=O)c1ccc(cc1)C,fabp4
+276,CHEMBL3828344,P15090,Delta Tm,=,-0.8,degrees C,C(C/C(=N/NC(=O)c1c[nH]c2c1cccc2)/c1ccccc1)C(=O)O,fabp4
+277,CHEMBL3828344,P15090,Inhibition,=,-0.8,%,C(C/C(=N/NC(=O)c1c[nH]c2c1cccc2)/c1ccccc1)C(=O)O,fabp4
+278,CHEMBL3828508,P15090,Kd,=,2650.0,nM,C1N2C(C3C(c4c2c(cc(c4)Br)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+279,CHEMBL3828508,P15090,Delta Tm,=,8.5,degrees C,C1N2C(C3C(c4c2c(cc(c4)Br)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+280,CHEMBL3828508,P15090,Ki,=,290.0,nM,C1N2C(C3C(c4c2c(cc(c4)Br)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+281,CHEMBL3828508,P15090,Inhibition,=,95.1,%,C1N2C(C3C(c4c2c(cc(c4)Br)C2C1CC=C2)C=CC3)C(=O)O,fabp4
+282,CHEMBL3828608,P15090,Delta Tm,=,-3.7,degrees C,c1([nH]nc(c1C(c1ccc(cc1)C)C[N+](=O)[O-])c1c(cccc1)C)O,fabp4
+283,CHEMBL3828608,P15090,Inhibition,=,5.8,%,c1([nH]nc(c1C(c1ccc(cc1)C)C[N+](=O)[O-])c1c(cccc1)C)O,fabp4
+284,CHEMBL3828660,P15090,Delta Tm,=,0.1,degrees C,O=S(=O)(c1ccc(c(c1)OCCC)Cl)Nc1ccc(cc1)C(=O)O,fabp4
+285,CHEMBL3828660,P15090,Ki,=,4300.0,nM,O=S(=O)(c1ccc(c(c1)OCCC)Cl)Nc1ccc(cc1)C(=O)O,fabp4
+286,CHEMBL3828660,P15090,Inhibition,=,31.4,%,O=S(=O)(c1ccc(c(c1)OCCC)Cl)Nc1ccc(cc1)C(=O)O,fabp4
+287,CHEMBL3828661,P15090,Delta Tm,=,-2.4,degrees C,c1ccc2c(c1)c(c[nH]2)CC(NCc1ccc(o1)c1cccc(c1)C(=O)O)C(=O)O,fabp4
+288,CHEMBL3828661,P15090,Inhibition,=,-30.4,%,c1ccc2c(c1)c(c[nH]2)CC(NCc1ccc(o1)c1cccc(c1)C(=O)O)C(=O)O,fabp4
+289,CHEMBL3828690,P15090,Delta Tm,=,-0.1,degrees C,C1(C(=C)N(C(=O)C1)c1ccccc1)N(CCc1ccc(cc1)OC)C(=O)CCC(=O)O,fabp4
+290,CHEMBL3828690,P15090,Inhibition,=,1.0,%,C1(C(=C)N(C(=O)C1)c1ccccc1)N(CCc1ccc(cc1)OC)C(=O)CCC(=O)O,fabp4
+291,CHEMBL3828731,P15090,Delta Tm,=,-0.1,degrees C,c1c(nc(c(c1)C#N)SCC(=O)NCC(=O)O)c1ccc(cc1)OC,fabp4
+292,CHEMBL3828731,P15090,Inhibition,=,-76.4,%,c1c(nc(c(c1)C#N)SCC(=O)NCC(=O)O)c1ccc(cc1)OC,fabp4
+293,CHEMBL394440,P15090,Ki,=,650.0,nM,c1ccc(cc1c1ccccc1n1c(c(c(n1)c1ccccc1)c1ccccc1)CC)C(=O)O,fabp4
+294,CHEMBL394966,P15090,Ki,=,12.0,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1[nH]c(c(c1)c1ccccc1)c1ccccc1,fabp4
+295,CHEMBL396698,P15090,Ki,<,2.0,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1nc(c(n1C)c1ccccc1)c1ccccc1,fabp4
+296,CHEMBL396698,P15090,Ki,=,13.0,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1nc(c(n1C)c1ccccc1)c1ccccc1,fabp4
+297,CHEMBL397385,P15090,Ki,<,2.0,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1nc(c(n1CCF)c1ccccc1)c1ccccc1,fabp4
+298,CHEMBL397385,P15090,Ki,=,8.7,nM,c1(ccccc1c1cccc(c1)OCC(=O)O)c1nc(c(n1CCF)c1ccccc1)c1ccccc1,fabp4
+299,CHEMBL427320,P15090,IC50,=,1300.0,nM,S(=O)(=O)(c1c(C(=O)O)scc1)n1c2c(cc1)cc(cc2)Br,fabp4
+300,CHEMBL437489,P15090,Ki,=,50.0,nM,c1ccc(c(c1C(C(=O)O)OC)OCc1c(cccc1)Cl)OCc1c(cccc1)Cl,fabp4
+301,CHEMBL442621,P15090,IC50,=,2680.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccc(cc2)OC)CCCC1)C(=O)O,fabp4
+302,CHEMBL452160,P15090,IC50,=,2390.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccc(cc2)C(F)(F)F)CCCC1)C(=O)O,fabp4
+303,CHEMBL452596,P15090,IC50,=,590.0,nM,O=C(O)c1cccc2c3CCCCc3n(c12)Cc1ccccc1,fabp4
+304,CHEMBL454404,P15090,IC50,=,1090.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccc(cc2)C)CCCC1)C(=O)O,fabp4
+305,CHEMBL459901,P15090,IC50,=,750.0,nM,c1c(cc2c(c1)c1c(n2Cc2ccccc2)CCCC1)C(=O)O,fabp4
+306,CHEMBL459902,P15090,IC50,=,970.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccccc2)CCC1)C(=O)O,fabp4
+307,CHEMBL460657,P15090,Kd,=,58000.0,nM,C(C(=O)O)CCCCCC/C=C/CCCCCCCC,fabp4
+308,CHEMBL460749,P15090,IC50,=,720.0,nM,c1cc(c2c(c1)c1c(n2Cc2cc(ccc2)F)CCCCC1)C(=O)O,fabp4
+309,CHEMBL460750,P15090,IC50,=,49.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2)C(F)(F)F)CCCCC1)C(=O)O,fabp4
+310,CHEMBL460750,P15090,IC50,=,650.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2)C(F)(F)F)CCCCC1)C(=O)O,fabp4
+311,CHEMBL46403,P15090,Kd,=,80000.0,nM,C(=O)(O)CCCCCCCCCCCCCCCCC,fabp4
+312,CHEMBL472747,P15090,IC50,=,1100.0,nM,C(=C\c1nn(c2c1CCC2)c1ccccc1)\CCC(=O)O,fabp4
+313,CHEMBL474743,P15090,IC50,<,400.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2)F)CCCC1)C(=O)O,fabp4
+314,CHEMBL474744,P15090,IC50,<,400.0,nM,c1cc(c2c(c1)c1c(n2Cc2cc(ccc2)F)CCCC1)C(=O)O,fabp4
+315,CHEMBL474942,P15090,IC50,<,400.0,nM,FC(F)(F)c1ccccc1Cn1c2CCCCc2c2c1c(ccc2)C(=O)O,fabp4
+316,CHEMBL474943,P15090,IC50,=,1040.0,nM,c1cc(c2c(c1)c1c(n2Cc2cc(ccc2)C(F)(F)F)CCCCC1)C(=O)O,fabp4
+317,CHEMBL474944,P15090,IC50,=,98.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2)C(=O)N)CCCCC1)C(=O)O,fabp4
+318,CHEMBL474944,P15090,IC50,<,400.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2)C(=O)N)CCCCC1)C(=O)O,fabp4
+319,CHEMBL475353,P15090,IC50,>,25000.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccccc2)CCCC1=O)C(=O)O,fabp4
+320,CHEMBL475548,P15090,IC50,=,3500.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccccc2)CCC/C/1=N/O)C(=O)O,fabp4
+321,CHEMBL475549,P15090,IC50,=,600.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2)OC)CCCC1)C(=O)O,fabp4
+322,CHEMBL501361,P15090,IC50,=,670.0,nM,c1cc(c2c(c1)c1c(n2CCC)CCCC1)C(=O)O,fabp4
+323,CHEMBL501361,P15090,IC50,=,730.0,nM,c1cc(c2c(c1)c1c(n2CCC)CCCC1)C(=O)O,fabp4
+324,CHEMBL508994,P15090,IC50,=,1810.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2F)C(F)(F)F)CCCC1)C(=O)O,fabp4
+325,CHEMBL510638,P15090,IC50,=,1660.0,nM,c1cc(c2c(c1)c1c(n2Cc2cc(ccc2)C(F)(F)F)CCCC1)C(=O)O,fabp4
+326,CHEMBL512386,P15090,IC50,>,25000.0,nM,c1(ccc2c(c1)c1c(n2Cc2ccccc2)CCCC1)C(=O)O,fabp4
+327,CHEMBL514654,P15090,IC50,=,2030.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccc(cc2)C(F)(F)F)CCCCC1)C(=O)O,fabp4
+328,CHEMBL514666,P15090,IC50,=,550.0,nM,c1cc(c2c(c1)c1c(n2Cc2cc(ccc2)OC)CCCC1)C(=O)O,fabp4
+329,CHEMBL514969,P15090,IC50,=,96.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccccc2)CCCCC1)C(=O)O,fabp4
+330,CHEMBL514969,P15090,IC50,=,590.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccccc2)CCCCC1)C(=O)O,fabp4
+331,CHEMBL515599,P15090,IC50,=,3600.0,nM,c1cc(c2c(c1)c(c(n2Cc1ccccc1)C)C)C(=O)O,fabp4
+332,CHEMBL515905,P15090,IC50,=,830.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccc(cc2)F)CCCC1)C(=O)O,fabp4
+333,CHEMBL516023,P15090,IC50,=,69.0,nM,OC(=O)c1c2c(c3CCCCCc3n2Cc2cc(C(=O)N)ccc2)ccc1,fabp4
+334,CHEMBL516023,P15090,IC50,=,450.0,nM,OC(=O)c1c2c(c3CCCCCc3n2Cc2cc(C(=O)N)ccc2)ccc1,fabp4
+335,CHEMBL516469,P15090,IC50,=,580.0,nM,c1cc(c2c(c1)c1c(n2CCC)CCCCC1)C(=O)O,fabp4
+336,CHEMBL516469,P15090,IC50,=,430.0,nM,c1cc(c2c(c1)c1c(n2CCC)CCCCC1)C(=O)O,fabp4
+337,CHEMBL518180,P15090,IC50,=,710.0,nM,c1cc(c2c(c1)c1c(n2Cc2c(cccc2)F)CCCCC1)C(=O)O,fabp4
+338,CHEMBL518181,P15090,IC50,=,780.0,nM,c1cc(c2c(c1)c1c(n2Cc2ccc(cc2)F)CCCCC1)C(=O)O,fabp4
+339,CHEMBL82293,P15090,Ki,=,336.0,nM,C(=O)(O)CCCCCCCCCCCCCCC,fabp4
+340,CHEMBL82293,P15090,IC50,=,930.0,nM,C(=O)(O)CCCCCCCCCCCCCCC,fabp4
+341,CHEMBL82293,P15090,Kd,=,83000.0,nM,C(=O)(O)CCCCCCCCCCCCCCC,fabp4
+342,CHEMBL8659,P15090,Delta Tm,=,3.3,degrees C,C(=O)(O)CCCCCCC/C=C\CCCCCCCC,fabp4
+343,CHEMBL8659,P15090,Ki,=,1500.0,nM,C(=O)(O)CCCCCCC/C=C\CCCCCCCC,fabp4
+344,CHEMBL8659,P15090,Inhibition,=,82.1,%,C(=O)(O)CCCCCCC/C=C\CCCCCCCC,fabp4
+345,CHEMBL8659,P15090,IC50,=,26100.0,nM,C(=O)(O)CCCCCCC/C=C\CCCCCCCC,fabp4
+346,CHEMBL8659,P15090,Inhibition,=,66.8,%,C(=O)(O)CCCCCCC/C=C\CCCCCCCC,fabp4
+347,CHEMBL8659,P15090,Ki,=,185.0,nM,C(=O)(O)CCCCCCC/C=C\CCCCCCCC,fabp4

@@ -1,0 +1,828 @@
+,chembl_id,uniprot_id,bioactivity_type,operator,value,units,smiles,dude_id
+0,CHEMBL103,P06536,RBA,=,17.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+1,CHEMBL103,P06536,Relative activity,=,6.0,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+2,CHEMBL103,P06536,RBA,=,42.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+3,CHEMBL103,P06536,RBA,=,0.2,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+4,CHEMBL103,P06536,RBA,<,0.1,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+5,CHEMBL103,P06536,RBA,=,12.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+6,CHEMBL103,P06536,RBA,=,2.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+7,CHEMBL103,P06536,RBA,=,0.56,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+8,CHEMBL103,P06536,RBA,=,0.56,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+9,CHEMBL103,P06536,RBA,=,0.2,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)C)C,gcr
+10,CHEMBL1091,P06536,RBA,=,3.3,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+11,CHEMBL1091,P06536,Relative activity,=,91.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+12,CHEMBL1091,P06536,RBA,=,3.4,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+13,CHEMBL1091,P06536,RBA,=,10.0,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+14,CHEMBL1091,P06536,RBA,=,1.3,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+15,CHEMBL1091,P06536,RBA,=,9.0,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+16,CHEMBL1091,P06536,RBA,=,8.0,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+17,CHEMBL1091,P06536,Relative binding affinity,=,0.046,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COC(=O)C)O)C)C,gcr
+18,CHEMBL109407,P06536,RBA,=,0.04,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=CC(=O)CC2)CC1)C,gcr
+19,CHEMBL109432,P06536,Weight gain,=,-62.0,Unspecified,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+20,CHEMBL109432,P06536,Weight gain,=,-86.0,Unspecified,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+21,CHEMBL109432,P06536,Change,=,-62.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+22,CHEMBL109432,P06536,Change,=,-38.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+23,CHEMBL109432,P06536,Change,=,-50.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+24,CHEMBL109432,P06536,Change,=,-51.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+25,CHEMBL109432,P06536,RBA,=,77.1,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+26,CHEMBL109621,P06536,Change,=,34.0,%,C12(C(=O)N(C(=O)N(C1=O)CC=C)CC=C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+27,CHEMBL109621,P06536,Weight gain,=,-58.0,Unspecified,C12(C(=O)N(C(=O)N(C1=O)CC=C)CC=C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+28,CHEMBL109621,P06536,Change,=,-37.0,%,C12(C(=O)N(C(=O)N(C1=O)CC=C)CC=C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+29,CHEMBL109621,P06536,RBA,=,2.9,%,C12(C(=O)N(C(=O)N(C1=O)CC=C)CC=C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+30,CHEMBL109690,P06536,Weight gain,=,-180.0,Unspecified,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+31,CHEMBL109690,P06536,ED50,=,4.0,mg.kg-1,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+32,CHEMBL109690,P06536,Weight gain,=,-140.0,Unspecified,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+33,CHEMBL109690,P06536,Weight gain,=,-65.0,Unspecified,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+34,CHEMBL109690,P06536,Change,=,-84.0,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+35,CHEMBL109690,P06536,Change,=,-30.0,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+36,CHEMBL109690,P06536,Change,=,-53.0,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+37,CHEMBL109690,P06536,Change,=,-72.0,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+38,CHEMBL109690,P06536,RBA,=,18.7,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+39,CHEMBL109907,P06536,RBA,=,118.0,%,C12(C(=O)N(C(=O)N(C1=O)CCC)CCC)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+40,CHEMBL110739,P06536,RBA,=,22.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+41,CHEMBL110739,P06536,Relative activity,=,71.0,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+42,CHEMBL110739,P06536,RBA,=,67.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+43,CHEMBL110739,P06536,RBA,=,23.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+44,CHEMBL110739,P06536,RBA,=,0.2,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+45,CHEMBL110739,P06536,RBA,=,85.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+46,CHEMBL110739,P06536,RBA,=,55.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+47,CHEMBL110739,P06536,Binding,=,22.9,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@H]1C(=O)CO)C)O,gcr
+48,CHEMBL111822,P06536,Weight gain,=,-80.0,Unspecified,c12n(ncc1C[C@@]1(C3=CCC(C([C@H]3CCC1=C2)C(=O)C)C(=O)C)C)c1ccc(cc1)F,gcr
+49,CHEMBL111822,P06536,Change,=,-40.0,%,c12n(ncc1C[C@@]1(C3=CCC(C([C@H]3CCC1=C2)C(=O)C)C(=O)C)C)c1ccc(cc1)F,gcr
+50,CHEMBL111822,P06536,RBA,=,118.0,%,c12n(ncc1C[C@@]1(C3=CCC(C([C@H]3CCC1=C2)C(=O)C)C(=O)C)C)c1ccc(cc1)F,gcr
+51,CHEMBL111861,P06536,RBA,=,0.2,Unspecified,[C@]12([C@@](C(=O)CO)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=C[C@@H](CC3)O)CC1)C)C(=O)C2)O)C,gcr
+52,CHEMBL111861,P06536,Relative activity,=,9.0,%,[C@]12([C@@](C(=O)CO)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=C[C@@H](CC3)O)CC1)C)C(=O)C2)O)C,gcr
+53,CHEMBL111861,P06536,RBA,=,0.6,Unspecified,[C@]12([C@@](C(=O)CO)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=C[C@@H](CC3)O)CC1)C)C(=O)C2)O)C,gcr
+54,CHEMBL111861,P06536,RBA,=,0.2,Unspecified,[C@]12([C@@](C(=O)CO)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=C[C@@H](CC3)O)CC1)C)C(=O)C2)O)C,gcr
+55,CHEMBL111861,P06536,RBA,<,0.1,Unspecified,[C@]12([C@@](C(=O)CO)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=C[C@@H](CC3)O)CC1)C)C(=O)C2)O)C,gcr
+56,CHEMBL111861,P06536,RBA,=,0.6,Unspecified,[C@]12([C@@](C(=O)CO)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=C[C@@H](CC3)O)CC1)C)C(=O)C2)O)C,gcr
+57,CHEMBL111861,P06536,RBA,=,0.4,Unspecified,[C@]12([C@@](C(=O)CO)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=C[C@@H](CC3)O)CC1)C)C(=O)C2)O)C,gcr
+58,CHEMBL112556,P06536,RBA,=,1.8,%,C12(C(=O)N(C(=O)N(C1=O)CC#C)CC#C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+59,CHEMBL112843,P06536,Weight gain,=,-88.0,Unspecified,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)c1ncccc1)C)c1ccc(cc1)F,gcr
+60,CHEMBL112843,P06536,Change,=,-64.0,%,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)c1ncccc1)C)c1ccc(cc1)F,gcr
+61,CHEMBL112843,P06536,Change,=,-48.0,%,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)c1ncccc1)C)c1ccc(cc1)F,gcr
+62,CHEMBL112843,P06536,RBA,=,180.0,%,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)c1ncccc1)C)c1ccc(cc1)F,gcr
+63,CHEMBL113032,P06536,Change,=,-80.0,%,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)(C(=O)OCC)C(=O)OCC)C)c1ccc(cc1)F,gcr
+64,CHEMBL113032,P06536,Weight gain,=,-186.0,Unspecified,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)(C(=O)OCC)C(=O)OCC)C)c1ccc(cc1)F,gcr
+65,CHEMBL113032,P06536,Change,=,-47.0,%,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)(C(=O)OCC)C(=O)OCC)C)c1ccc(cc1)F,gcr
+66,CHEMBL113032,P06536,RBA,=,82.0,%,c12n(ncc1C[C@@]1(C3=CCCC([C@H]3CCC1=C2)(C(=O)OCC)C(=O)OCC)C)c1ccc(cc1)F,gcr
+67,CHEMBL113307,P06536,RBA,=,0.03,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=CC(=O)CC2)CC1)C,gcr
+68,CHEMBL113561,P06536,Change,=,-76.0,%,c12n(ncc1C[C@@]1(C3=CC[C@]4(C([C@@H]3CCC1=C2)CC[C@]4(C#C)O)C)C)c1ccc(cc1)F,gcr
+69,CHEMBL113561,P06536,Weight gain,=,-145.0,Unspecified,c12n(ncc1C[C@@]1(C3=CC[C@]4(C([C@@H]3CCC1=C2)CC[C@]4(C#C)O)C)C)c1ccc(cc1)F,gcr
+70,CHEMBL113561,P06536,Change,=,-41.0,%,c12n(ncc1C[C@@]1(C3=CC[C@]4(C([C@@H]3CCC1=C2)CC[C@]4(C#C)O)C)C)c1ccc(cc1)F,gcr
+71,CHEMBL113561,P06536,Change,=,-60.0,%,c12n(ncc1C[C@@]1(C3=CC[C@]4(C([C@@H]3CCC1=C2)CC[C@]4(C#C)O)C)C)c1ccc(cc1)F,gcr
+72,CHEMBL113561,P06536,Change,=,-35.0,%,c12n(ncc1C[C@@]1(C3=CC[C@]4(C([C@@H]3CCC1=C2)CC[C@]4(C#C)O)C)C)c1ccc(cc1)F,gcr
+73,CHEMBL115221,P06536,Change,=,-34.0,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+74,CHEMBL115221,P06536,RBA,=,9.3,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccccc2)CC1)C,gcr
+75,CHEMBL1159650,P06536,IC50,=,3.17,nM,ClCC(=O)[C@]1(OC(=O)CC)[C@@]2([C@H]([C@H]3[C@](F)([C@@H](O)C2)[C@@]2(C(=CC(=O)C=C2)CC3)C)C[C@@H]1C)C,gcr
+76,CHEMBL1162,P06536,RBA,=,1.2,Unspecified,O=C1CC[C@H]2C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@]2(O)C#C)C,gcr
+77,CHEMBL1162,P06536,RBA,=,2.8,Unspecified,O=C1CC[C@H]2C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@]2(O)C#C)C,gcr
+78,CHEMBL1162,P06536,RBA,=,3.0,Unspecified,O=C1CC[C@H]2C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@]2(O)C#C)C,gcr
+79,CHEMBL1162,P06536,RBA,=,5.0,Unspecified,O=C1CC[C@H]2C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@]2(O)C#C)C,gcr
+80,CHEMBL1200384,P06536,IC50,=,5.25,nM,[C@]12([C@]([C@H](C[C@H]1[C@H]1[C@@]([C@@]3(C(=CC(=O)C=C3)CC1)C)([C@H](C2)O)F)C)(C(=O)COC(=O)CC)OC(=O)CC)C,gcr
+81,CHEMBL1276308,P06536,IC50,=,1.94,nM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+82,CHEMBL1276308,P06536,EC50,=,2.512,nM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+83,CHEMBL1276308,P06536,IC50,=,1.4,nM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+84,CHEMBL1276308,P06536,RBA,=,300.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+85,CHEMBL1276308,P06536,Activity,=,0.27,uM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+86,CHEMBL1276308,P06536,Inhibition,=,77.0,%,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+87,CHEMBL1276308,P06536,IC50,=,270.0,nM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+88,CHEMBL1276308,P06536,IC50,=,270.0,nM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+89,CHEMBL1276308,P06536,IC50,=,410.0,nM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+90,CHEMBL1276308,P06536,ED50 mg/animal/day,=,1.1,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+91,CHEMBL1276308,P06536,ED50,=,6.0,mg.kg-1,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+92,CHEMBL1276308,P06536,RBA,=,280.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+93,CHEMBL1276308,P06536,RBA,=,106.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+94,CHEMBL1276308,P06536,RBA,=,173.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+95,CHEMBL1276308,P06536,RBA,=,300.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+96,CHEMBL1276308,P06537,IC50,=,2.2,nM,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(N(C)C)cc2)CC1)C)C#CC,gcr
+97,CHEMBL131,P06536,Efficacy,=,100.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+98,CHEMBL131,P06536,IC50,=,65.4,nM,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+99,CHEMBL131,P06536,Efficacy,=,97.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+100,CHEMBL131,P06536,EC50,=,19.6,nM,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+101,CHEMBL131,P06537,Inhibition,=,71.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+102,CHEMBL131,P06537,Inhibition,=,100.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+103,CHEMBL131,P06537,EC50,=,5.7,nM,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+104,CHEMBL131,P06537,EC50,=,3.4,nM,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)O)C,gcr
+105,CHEMBL135,P06536,Activity,=,5.0,%,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+106,CHEMBL135,P06536,RBA,=,0.3,Unspecified,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+107,CHEMBL135,P06536,Relative activity,=,6.0,%,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+108,CHEMBL135,P06536,RBA,=,1.1,Unspecified,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+109,CHEMBL135,P06536,RBA,=,0.6,Unspecified,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+110,CHEMBL135,P06536,RBA,=,0.2,Unspecified,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+111,CHEMBL135,P06536,RBA,=,0.8,Unspecified,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+112,CHEMBL135,P06536,RBA,=,0.2,Unspecified,[C@]12([C@H]([C@H]3[C@@H](c4c(CC3)cc(cc4)O)CC1)CC[C@@H]2O)C,gcr
+113,CHEMBL13524,P06536,RBA,=,4.4,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(c2c(c(c(c(c2F)F)F)F)F)(O1)C)C)C(=O)C,gcr
+114,CHEMBL13565,P06536,RBA,=,1.7,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(O1)(c1ccc(N=C=S)cc1)C)C)C(=O)C,gcr
+115,CHEMBL1370,P06536,Reduction,=,48.0,%,[C@@]12([C@@]3([C@H]([C@H]4[C@@H]([C@@]5(C(=CC(=O)C=C5)CC4)C)[C@H](C3)O)C[C@H]1OC(O2)CCC)C)C(=O)CO,gcr
+116,CHEMBL1370,P06536,IC50,=,2.9,nM,[C@@]12([C@@]3([C@H]([C@H]4[C@@H]([C@@]5(C(=CC(=O)C=C5)CC4)C)[C@H](C3)O)C[C@H]1OC(O2)CCC)C)C(=O)CO,gcr
+117,CHEMBL13733,P06536,RBA,=,9.4,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(O1)(c1ccc(cc1)F)C)C)C(=O)C,gcr
+118,CHEMBL13977,P06536,RBA,=,47.0,Unspecified,[C@]12([C@@]3(C(C4C([C@@H]5C(=CC(=O)CC5)CC4)CC3)C[C@H]2O[C@](O1)(c1ccc(cc1)F)C)C)C(=O)CO,gcr
+119,CHEMBL14275,P06536,RBA,=,236.0,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4ccc(cc4)F)CC3)C)C(C2)O)C[C@H](C1(C(=O)CO)O)C)C,gcr
+120,CHEMBL143729,P06536,IC50,=,3.3,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SCC,gcr
+121,CHEMBL144319,P06536,IC50,=,2.2,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)[C@H](C4)F)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SCF,gcr
+122,CHEMBL144551,P06536,IC50,=,2.2,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)[C@H](C4)F)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)SC,gcr
+123,CHEMBL144841,P06536,IC50,=,12.0,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)Sc1ncccc1,gcr
+124,CHEMBL1451,P06536,RBA,=,63.0,Unspecified,C1(=O)C=C[C@]2(C(=C1)CC[C@H]1[C@@H]3C[C@H]([C@](C(=O)CO)([C@@]3(C)C[C@@H]([C@]21F)O)O)O)C,gcr
+125,CHEMBL1451,P06536,Relative activity,=,81.0,%,C1(=O)C=C[C@]2(C(=C1)CC[C@H]1[C@@H]3C[C@H]([C@](C(=O)CO)([C@@]3(C)C[C@@H]([C@]21F)O)O)O)C,gcr
+126,CHEMBL1451,P06536,RBA,=,75.0,Unspecified,C1(=O)C=C[C@]2(C(=C1)CC[C@H]1[C@@H]3C[C@H]([C@](C(=O)CO)([C@@]3(C)C[C@@H]([C@]21F)O)O)O)C,gcr
+127,CHEMBL1451,P06536,RBA,=,84.0,Unspecified,C1(=O)C=C[C@]2(C(=C1)CC[C@H]1[C@@H]3C[C@H]([C@](C(=O)CO)([C@@]3(C)C[C@@H]([C@]21F)O)O)O)C,gcr
+128,CHEMBL1451,P06536,RBA,=,86.0,Unspecified,C1(=O)C=C[C@]2(C(=C1)CC[C@H]1[C@@H]3C[C@H]([C@](C(=O)CO)([C@@]3(C)C[C@@H]([C@]21F)O)O)O)C,gcr
+129,CHEMBL1451,P06536,RBA,=,54.0,Unspecified,C1(=O)C=C[C@]2(C(=C1)CC[C@H]1[C@@H]3C[C@H]([C@](C(=O)CO)([C@@]3(C)C[C@@H]([C@]21F)O)O)O)C,gcr
+130,CHEMBL1451,P06536,RBA,=,38.0,Unspecified,C1(=O)C=C[C@]2(C(=C1)CC[C@H]1[C@@H]3C[C@H]([C@](C(=O)CO)([C@@]3(C)C[C@@H]([C@]21F)O)O)O)C,gcr
+131,CHEMBL146032,P06536,ED50 mg/animal/day,=,2.0,Unspecified,C([C@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(C(=O)C)cc2)CC1)C)O)(C(F)(F)F)(F)F,gcr
+132,CHEMBL146032,P06536,RBA,=,22.2,%,C([C@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(C(=O)C)cc2)CC1)C)O)(C(F)(F)F)(F)F,gcr
+133,CHEMBL146032,P06537,IC50,=,16.0,nM,C([C@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)[C@H](C2)c2ccc(C(=O)C)cc2)CC1)C)O)(C(F)(F)F)(F)F,gcr
+134,CHEMBL146781,P06536,IC50,=,5.5,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SC(C)C,gcr
+135,CHEMBL1473,P06536,EC50,=,0.76,nM,[C@]12([C@@]3([C@H]([C@H]4[C@@]([C@]([C@@H](C4)C)(C(=O)SCF)OC(=O)CC)(C[C@@H]3O)C)C[C@@H](C1=CC(=O)C=C2)F)F)C,gcr
+136,CHEMBL1473,P06536,Emax,=,110.0,%,[C@]12([C@@]3([C@H]([C@H]4[C@@]([C@]([C@@H](C4)C)(C(=O)SCF)OC(=O)CC)(C[C@@H]3O)C)C[C@@H](C1=CC(=O)C=C2)F)F)C,gcr
+137,CHEMBL1473,P06536,IC50,=,5.0,nM,[C@]12([C@@]3([C@H]([C@H]4[C@@]([C@]([C@@H](C4)C)(C(=O)SCF)OC(=O)CC)(C[C@@H]3O)C)C[C@@H](C1=CC(=O)C=C2)F)F)C,gcr
+138,CHEMBL149744,P06536,RBA,=,183.0,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4cnccc4)CC3)C)C(C2)O)C[C@H]([C@@]1(C(=O)CO)O)C)C,gcr
+139,CHEMBL1498,P06536,RBA,=,24.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)CO)C,gcr
+140,CHEMBL1498,P06536,Relative activity,=,17.0,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)CO)C,gcr
+141,CHEMBL1498,P06536,RBA,=,50.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)CO)C,gcr
+142,CHEMBL1498,P06536,RBA,=,0.6,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)CO)C,gcr
+143,CHEMBL1498,P06536,RBA,=,0.1,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)CO)C,gcr
+144,CHEMBL1498,P06536,RBA,=,77.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)CO)C,gcr
+145,CHEMBL1498,P06536,RBA,=,40.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1C(=O)CO)C,gcr
+146,CHEMBL150080,P06536,RBA,=,93.0,Unspecified,n1(c2c(CC3(C(=C2)CCC2C4C([C@]([C@@H](C4)C)(C(=O)CO)O)(CC(C32)O)C)C)cn1)c1c(nccc1)F,gcr
+147,CHEMBL150354,P06536,RBA,=,0.2,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4ncccn4)CC3)C)C(C2)O)C[C@H]([C@@]1(C(=O)CO)O)C)C,gcr
+148,CHEMBL150367,P06536,RBA,=,304.0,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4cnc(cc4)F)CC3)C)C(C2)O)C[C@H]([C@@]1(C(=O)CO)O)C)C,gcr
+149,CHEMBL1504,P06536,RBA,=,174.0,Unspecified,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+150,CHEMBL1504,P06536,Relative activity,=,127.0,%,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+151,CHEMBL1504,P06536,RBA,=,141.0,Unspecified,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+152,CHEMBL1504,P06536,RBA,=,102.0,Unspecified,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+153,CHEMBL1504,P06536,RBA,=,139.0,Unspecified,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+154,CHEMBL1504,P06536,RBA,=,190.0,Unspecified,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+155,CHEMBL1504,P06536,RBA,=,260.0,Unspecified,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+156,CHEMBL158091,P06536,Reduction,=,65.0,%,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)[C@H](C4)F)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)S[C@H]1C(=O)OCC1,gcr
+157,CHEMBL162059,P06536,Relative binding affinity,=,1.33,Unspecified,C12([C@@](C(=O)COC(=O)CCC)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)CCCC)C,gcr
+158,CHEMBL163137,P06536,Relative binding affinity,=,0.036,Unspecified,C12([C@@](C(=O)COC(=O)C)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)C)C,gcr
+159,CHEMBL163360,P06536,Relative binding affinity,=,0.272,Unspecified,C12([C@@](C(=O)COC(=O)CCCC)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)C)C,gcr
+160,CHEMBL163928,P06536,Relative binding affinity,=,0.093,Unspecified,C12([C@@](C(=O)COC(=O)CC)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)C)C,gcr
+161,CHEMBL16415,P06536,RBA,=,3.0,Unspecified,C12([C@@]3(OS(=O)CC3)CCC1C1C(C3C(=CC(=O)CC3)CC1)CC2)C,gcr
+162,CHEMBL16415,P06536,Relative activity,=,3.0,%,C12([C@@]3(OS(=O)CC3)CCC1C1C(C3C(=CC(=O)CC3)CC1)CC2)C,gcr
+163,CHEMBL16415,P06536,RBA,=,10.0,Unspecified,C12([C@@]3(OS(=O)CC3)CCC1C1C(C3C(=CC(=O)CC3)CC1)CC2)C,gcr
+164,CHEMBL16415,P06536,RBA,=,1.4,Unspecified,C12([C@@]3(OS(=O)CC3)CCC1C1C(C3C(=CC(=O)CC3)CC1)CC2)C,gcr
+165,CHEMBL16415,P06536,RBA,=,0.2,Unspecified,C12([C@@]3(OS(=O)CC3)CCC1C1C(C3C(=CC(=O)CC3)CC1)CC2)C,gcr
+166,CHEMBL16415,P06536,RBA,=,7.0,Unspecified,C12([C@@]3(OS(=O)CC3)CCC1C1C(C3C(=CC(=O)CC3)CC1)CC2)C,gcr
+167,CHEMBL16415,P06536,RBA,=,2.5,Unspecified,C12([C@@]3(OS(=O)CC3)CCC1C1C(C3C(=CC(=O)CC3)CC1)CC2)C,gcr
+168,CHEMBL16418,P06536,RBA,=,209.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)CO)C)C,gcr
+169,CHEMBL16418,P06536,Relative activity,=,95.0,%,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)CO)C)C,gcr
+170,CHEMBL16418,P06536,RBA,=,228.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)CO)C)C,gcr
+171,CHEMBL16418,P06536,RBA,=,91.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)CO)C)C,gcr
+172,CHEMBL16418,P06536,RBA,=,99.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)CO)C)C,gcr
+173,CHEMBL16418,P06536,RBA,=,450.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)CO)C)C,gcr
+174,CHEMBL16418,P06536,RBA,=,435.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)CO)C)C,gcr
+175,CHEMBL164526,P06536,RBA,<,0.1,Unspecified,C12([C@]([Se]c3ccccc3)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)CC2)C(=O)C)C,gcr
+176,CHEMBL1651,P06536,RBA,=,34.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)OC(=O)C)C)C)O)F)C,gcr
+177,CHEMBL1651,P06536,Relative activity,=,99.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)OC(=O)C)C)C)O)F)C,gcr
+178,CHEMBL1651,P06536,RBA,=,16.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)OC(=O)C)C)C)O)F)C,gcr
+179,CHEMBL1651,P06536,RBA,=,43.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)OC(=O)C)C)C)O)F)C,gcr
+180,CHEMBL1651,P06536,RBA,=,61.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)OC(=O)C)C)C)O)F)C,gcr
+181,CHEMBL1651,P06536,RBA,=,23.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)OC(=O)C)C)C)O)F)C,gcr
+182,CHEMBL1651,P06536,RBA,=,30.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)OC(=O)C)C)C)O)F)C,gcr
+183,CHEMBL16523,P06536,RBA,=,2.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C([C@](C#C)(CC1)O)(CC2)C,gcr
+184,CHEMBL16523,P06536,RBA,=,5.7,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C([C@](C#C)(CC1)O)(CC2)C,gcr
+185,CHEMBL16523,P06536,RBA,=,1.7,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C([C@](C#C)(CC1)O)(CC2)C,gcr
+186,CHEMBL16523,P06536,RBA,=,2.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C([C@](C#C)(CC1)O)(CC2)C,gcr
+187,CHEMBL166444,P06536,Binding,=,1.59,%,C1CC(=O)C=C2CC[C@@H]3C(=C12)C=C[C@]1([C@H]3CC[C@]1(C)O)C,gcr
+188,CHEMBL16829,P06536,RBA,=,217.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)O)F)C[C@H](C1C(=O)CO)C)C,gcr
+189,CHEMBL16829,P06536,Relative activity,=,118.0,%,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)O)F)C[C@H](C1C(=O)CO)C)C,gcr
+190,CHEMBL16829,P06536,RBA,=,208.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)O)F)C[C@H](C1C(=O)CO)C)C,gcr
+191,CHEMBL16829,P06536,RBA,=,144.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)O)F)C[C@H](C1C(=O)CO)C)C,gcr
+192,CHEMBL16829,P06536,RBA,=,163.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)O)F)C[C@H](C1C(=O)CO)C)C,gcr
+193,CHEMBL16829,P06536,RBA,=,283.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)O)F)C[C@H](C1C(=O)CO)C)C,gcr
+194,CHEMBL16829,P06536,RBA,=,310.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)O)F)C[C@H](C1C(=O)CO)C)C,gcr
+195,CHEMBL1683,P06536,Relative binding affinity,=,12.4,Unspecified,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)CCC)C(=O)CO)C)C,gcr
+196,CHEMBL1684194,P06536,IC50,=,18000.0,nM,c1(ccc2c(c1)[C@@H]1[C@H]([C@H](N2)C(CO)(C)C)CC=C1)[N+](=O)[O-],gcr
+197,CHEMBL16886,P06536,RBA,=,54.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#C)(CC1)O)C,gcr
+198,CHEMBL16886,P06536,Relative activity,=,15.0,%,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#C)(CC1)O)C,gcr
+199,CHEMBL16886,P06536,RBA,=,136.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#C)(CC1)O)C,gcr
+200,CHEMBL16886,P06536,RBA,=,118.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#C)(CC1)O)C,gcr
+201,CHEMBL16886,P06536,RBA,=,39.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#C)(CC1)O)C,gcr
+202,CHEMBL16886,P06536,RBA,=,166.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#C)(CC1)O)C,gcr
+203,CHEMBL16886,P06536,RBA,=,80.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#C)(CC1)O)C,gcr
+204,CHEMBL16889,P06536,RBA,=,33.0,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)[C@H](C3)C)C)CC2)C[C@H](C1C(=O)C)C)C,gcr
+205,CHEMBL16889,P06536,Relative activity,=,26.0,%,C12(C(C3C(C4(C(=CC(=O)CC4)[C@H](C3)C)C)CC2)C[C@H](C1C(=O)C)C)C,gcr
+206,CHEMBL16889,P06536,RBA,=,46.0,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)[C@H](C3)C)C)CC2)C[C@H](C1C(=O)C)C)C,gcr
+207,CHEMBL16889,P06536,RBA,=,3.9,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)[C@H](C3)C)C)CC2)C[C@H](C1C(=O)C)C)C,gcr
+208,CHEMBL16889,P06536,RBA,=,1.8,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)[C@H](C3)C)C)CC2)C[C@H](C1C(=O)C)C)C,gcr
+209,CHEMBL16889,P06536,RBA,=,66.0,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)[C@H](C3)C)C)CC2)C[C@H](C1C(=O)C)C)C,gcr
+210,CHEMBL16889,P06536,RBA,=,42.0,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)[C@H](C3)C)C)CC2)C[C@H](C1C(=O)C)C)C,gcr
+211,CHEMBL16906,P06536,RBA,=,285.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#CC)(CC1)O)C,gcr
+212,CHEMBL16906,P06536,RBA,=,215.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#CC)(CC1)O)C,gcr
+213,CHEMBL16906,P06536,RBA,=,170.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#CC)(CC1)O)C,gcr
+214,CHEMBL16906,P06536,RBA,=,300.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#CC)(CC1)O)C,gcr
+215,CHEMBL181601,P06536,Activation time,=,99.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccccc1)O)C)c1ccc(cc1)F,gcr
+216,CHEMBL181601,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccccc1)O)C)c1ccc(cc1)F,gcr
+217,CHEMBL181601,P06536,IC50,=,7.9,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccccc1)O)C)c1ccc(cc1)F,gcr
+218,CHEMBL181601,P06536,EC50,=,4.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccccc1)O)C)c1ccc(cc1)F,gcr
+219,CHEMBL181601,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccccc1)O)C)c1ccc(cc1)F,gcr
+220,CHEMBL181601,P06536,Repression,=,63.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccccc1)O)C)c1ccc(cc1)F,gcr
+221,CHEMBL181601,P06536,Repression,=,73.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccccc1)O)C)c1ccc(cc1)F,gcr
+222,CHEMBL181604,P06536,IC50,>,30000.0,nM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3ccccc3)cc2)ccc1)C)C,gcr
+223,CHEMBL181759,P06536,IC50,>,30000.0,nM,S(=O)(=O)(Nc1c(c(N(Cc2ccc(Oc3ccc(OC[C@H](C[C@H](CC(=O)O)O)O)cc3)cc2)Cc2ccccc2)ccc1)C)C,gcr
+224,CHEMBL182013,P06536,IC50,>,30000.0,nM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3cc(OC[C@H](C[C@H](CC(=O)O)O)O)ccc3)cc2)ccc1)C)C,gcr
+225,CHEMBL182058,P06536,IC50,>,30000.0,nM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3cc(OC[C@H]4OC(=O)C[C@@H](C4)O)ccc3)cc2)ccc1)C)C,gcr
+226,CHEMBL182610,P06536,IC50,>,30000.0,nM,S(=O)(=O)(Nc1c(c(N(Cc2ccc(Oc3ccccc3)cc2)Cc2ccccc2)ccc1)C)C,gcr
+227,CHEMBL182827,P06536,Activation time,=,1.1,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(Oc2ccccc2)cc1)O)C)c1ccc(cc1)F,gcr
+228,CHEMBL182827,P06536,IC50,=,15.5,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(Oc2ccccc2)cc1)O)C)c1ccc(cc1)F,gcr
+229,CHEMBL182827,P06536,Repression,=,28.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(Oc2ccccc2)cc1)O)C)c1ccc(cc1)F,gcr
+230,CHEMBL182827,P06536,Repression,=,48.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(Oc2ccccc2)cc1)O)C)c1ccc(cc1)F,gcr
+231,CHEMBL182883,P06536,IC50,=,130.0,nM,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(C[C@H](C[C@H](CC(=O)O)O)O)C)cc2)([C@](C#CC)(CC1)O)C,gcr
+232,CHEMBL182961,P06536,IC50,=,140.0,nM,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(C[C@H]3OC(=O)C[C@@H](C3)O)C)cc2)([C@](C#CC)(CC1)O)C,gcr
+233,CHEMBL183475,P06536,Activation time,=,116.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCCCCCC)C)c1ccc(cc1)F,gcr
+234,CHEMBL183475,P06536,EC50,=,4.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCCCCCC)C)c1ccc(cc1)F,gcr
+235,CHEMBL183475,P06536,IC50,=,4.9,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCCCCCC)C)c1ccc(cc1)F,gcr
+236,CHEMBL183475,P06536,EC50,=,4.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCCCCCC)C)c1ccc(cc1)F,gcr
+237,CHEMBL183475,P06536,EC50,=,6.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCCCCCC)C)c1ccc(cc1)F,gcr
+238,CHEMBL183475,P06536,Repression,=,49.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCCCCCC)C)c1ccc(cc1)F,gcr
+239,CHEMBL183475,P06536,Repression,=,68.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCCCCCC)C)c1ccc(cc1)F,gcr
+240,CHEMBL183510,P06536,IC50,>,30000.0,nM,S(=O)(=O)(Nc1c(c(N(Cc2ccc(Oc3ccc(OC[C@H]4OC(=O)C[C@@H](C4)O)cc3)cc2)Cc2ccccc2)ccc1)C)C,gcr
+241,CHEMBL183540,P06536,IC50,=,560.0,nM,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(OC[C@H](C[C@H](CC(=O)O)O)O)cc2)([C@](C#CC)(CC1)O)C,gcr
+242,CHEMBL184109,P06536,Activation time,=,88.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+243,CHEMBL184109,P06536,EC50,=,8.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+244,CHEMBL184109,P06536,IC50,=,9.2,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+245,CHEMBL184109,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+246,CHEMBL184109,P06536,EC50,=,1.7,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+247,CHEMBL184109,P06536,Repression,=,65.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+248,CHEMBL184109,P06536,Repression,=,69.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+249,CHEMBL184578,P06536,Activation time,=,133.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(O)ccc1)O)C)c1ccc(cc1)F,gcr
+250,CHEMBL184578,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(O)ccc1)O)C)c1ccc(cc1)F,gcr
+251,CHEMBL184578,P06536,IC50,=,5.2,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(O)ccc1)O)C)c1ccc(cc1)F,gcr
+252,CHEMBL184578,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(O)ccc1)O)C)c1ccc(cc1)F,gcr
+253,CHEMBL184578,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(O)ccc1)O)C)c1ccc(cc1)F,gcr
+254,CHEMBL184578,P06536,Repression,=,38.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(O)ccc1)O)C)c1ccc(cc1)F,gcr
+255,CHEMBL184578,P06536,Repression,=,112.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(O)ccc1)O)C)c1ccc(cc1)F,gcr
+256,CHEMBL185265,P06536,IC50,=,1.0,nM,S(=O)(=O)(Nc1c(c(N(Cc2ccc(Oc3cc(OCCCC(=O)NCCCC(=O)O)ccc3)cc2)Cc2ccccc2)ccc1)C)C,gcr
+257,CHEMBL185265,P06536,Activity,>,30.0,uM,S(=O)(=O)(Nc1c(c(N(Cc2ccc(Oc3cc(OCCCC(=O)NCCCC(=O)O)ccc3)cc2)Cc2ccccc2)ccc1)C)C,gcr
+258,CHEMBL186683,P06536,Activation time,=,79.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCC)C)c1ccc(cc1)F,gcr
+259,CHEMBL186683,P06536,EC50,=,5.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCC)C)c1ccc(cc1)F,gcr
+260,CHEMBL186683,P06536,IC50,=,0.7,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCC)C)c1ccc(cc1)F,gcr
+261,CHEMBL186683,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCC)C)c1ccc(cc1)F,gcr
+262,CHEMBL186683,P06536,EC50,=,8.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCC)C)c1ccc(cc1)F,gcr
+263,CHEMBL186683,P06536,Repression,=,85.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCC)C)c1ccc(cc1)F,gcr
+264,CHEMBL186683,P06536,Repression,=,84.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(O)CCCC)C)c1ccc(cc1)F,gcr
+265,CHEMBL186805,P06536,Activation time,=,82.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(CCc1ccccc1)O)C)c1ccc(cc1)F,gcr
+266,CHEMBL186805,P06536,EC50,=,11.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(CCc1ccccc1)O)C)c1ccc(cc1)F,gcr
+267,CHEMBL186805,P06536,IC50,=,8.6,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(CCc1ccccc1)O)C)c1ccc(cc1)F,gcr
+268,CHEMBL186805,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(CCc1ccccc1)O)C)c1ccc(cc1)F,gcr
+269,CHEMBL186805,P06536,EC50,=,7.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(CCc1ccccc1)O)C)c1ccc(cc1)F,gcr
+270,CHEMBL186805,P06536,Repression,=,61.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(CCc1ccccc1)O)C)c1ccc(cc1)F,gcr
+271,CHEMBL186805,P06536,Repression,=,72.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(CCc1ccccc1)O)C)c1ccc(cc1)F,gcr
+272,CHEMBL1868702,P06536,RBA,=,33.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)C=C2)CC1)CC)C#C,gcr
+273,CHEMBL1868702,P06536,Relative activity,=,3.0,%,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)C=C2)CC1)CC)C#C,gcr
+274,CHEMBL1868702,P06536,RBA,=,96.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)C=C2)CC1)CC)C#C,gcr
+275,CHEMBL1868702,P06536,RBA,=,77.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)C=C2)CC1)CC)C#C,gcr
+276,CHEMBL1868702,P06536,RBA,=,18.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)C=C2)CC1)CC)C#C,gcr
+277,CHEMBL1868702,P06536,RBA,=,90.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)C=C2)CC1)CC)C#C,gcr
+278,CHEMBL1868702,P06536,RBA,=,47.0,Unspecified,O[C@@]1([C@@]2([C@H]([C@H]3C(=C4C(=CC(=O)CC4)CC3)C=C2)CC1)CC)C#C,gcr
+279,CHEMBL186930,P06536,Activation time,=,115.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)O)O)C)c1ccc(cc1)F,gcr
+280,CHEMBL186930,P06536,EC50,=,20.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)O)O)C)c1ccc(cc1)F,gcr
+281,CHEMBL186930,P06536,IC50,=,6.6,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)O)O)C)c1ccc(cc1)F,gcr
+282,CHEMBL186930,P06536,EC50,=,12.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)O)O)C)c1ccc(cc1)F,gcr
+283,CHEMBL186930,P06536,EC50,=,16.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)O)O)C)c1ccc(cc1)F,gcr
+284,CHEMBL186930,P06536,Repression,=,51.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)O)O)C)c1ccc(cc1)F,gcr
+285,CHEMBL186930,P06536,Repression,=,77.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)O)O)C)c1ccc(cc1)F,gcr
+286,CHEMBL186948,P06536,Activation time,=,127.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc2c(cc1)cccc2)O)C)c1ccc(cc1)F,gcr
+287,CHEMBL186948,P06536,EC50,=,22.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc2c(cc1)cccc2)O)C)c1ccc(cc1)F,gcr
+288,CHEMBL186948,P06536,IC50,=,2.4,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc2c(cc1)cccc2)O)C)c1ccc(cc1)F,gcr
+289,CHEMBL186948,P06536,EC50,=,74.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc2c(cc1)cccc2)O)C)c1ccc(cc1)F,gcr
+290,CHEMBL186948,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc2c(cc1)cccc2)O)C)c1ccc(cc1)F,gcr
+291,CHEMBL186948,P06536,Repression,=,54.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc2c(cc1)cccc2)O)C)c1ccc(cc1)F,gcr
+292,CHEMBL186948,P06536,Repression,=,71.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc2c(cc1)cccc2)O)C)c1ccc(cc1)F,gcr
+293,CHEMBL186954,P06536,Activation time,=,132.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)C)O)C)c1ccc(cc1)F,gcr
+294,CHEMBL186954,P06536,EC50,=,4.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)C)O)C)c1ccc(cc1)F,gcr
+295,CHEMBL186954,P06536,IC50,=,2.5,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)C)O)C)c1ccc(cc1)F,gcr
+296,CHEMBL186954,P06536,EC50,=,8.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)C)O)C)c1ccc(cc1)F,gcr
+297,CHEMBL186954,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)C)O)C)c1ccc(cc1)F,gcr
+298,CHEMBL186954,P06536,Repression,=,89.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)C)O)C)c1ccc(cc1)F,gcr
+299,CHEMBL186954,P06536,Repression,=,88.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)C)O)C)c1ccc(cc1)F,gcr
+300,CHEMBL190109,P06536,IC50,=,1.9,nM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3cc(OCC(=O)O)c(cc3)Cl)cc2)ccc1)C)C,gcr
+301,CHEMBL190109,P06536,Activity,=,2.3,uM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3cc(OCC(=O)O)c(cc3)Cl)cc2)ccc1)C)C,gcr
+302,CHEMBL190225,P06536,IC50,=,2.1,nM,S(=O)(=O)(Nc1c(c(N(Cc2ccc(Oc3ccc(OCC(=O)O)cc3)cc2)Cc2ccccc2)ccc1)C)C,gcr
+303,CHEMBL190225,P06536,Activity,>,30.0,uM,S(=O)(=O)(Nc1c(c(N(Cc2ccc(Oc3ccc(OCC(=O)O)cc3)cc2)Cc2ccccc2)ccc1)C)C,gcr
+304,CHEMBL1908322,P06536,IC50,=,2.3,nM,[C@]12([C@@]3(C(=CC(=O)C=C3)CC[C@H]1[C@H]1[C@@]([C@](CC1)(SC)SCC)(C[C@@H]2O)C)C)F,gcr
+305,CHEMBL1910411,P06536,IC50,=,49000.0,nM,CC(C)([C@H]1Nc2ccc(cc2[C@H](C1)N(C)C)[N+](=O)[O-])CO,gcr
+306,CHEMBL191042,P06536,Activity,=,4.3,uM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3cc(OCC(=O)O)c(cc3)Br)cc2)ccc1)C)C,gcr
+307,CHEMBL191423,P06536,IC50,=,0.2,nM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3cc(OCC(=O)O)c(cc3)F)cc2)ccc1)C)C,gcr
+308,CHEMBL191423,P06536,Activity,=,1.9,uM,S(=O)(=O)(Nc1c(c(N(Cc2c(cc(cc2)F)F)Cc2ccc(Oc3cc(OCC(=O)O)c(cc3)F)cc2)ccc1)C)C,gcr
+309,CHEMBL1917243,P06536,Emax,=,21.0,%,C1C(=O)C=C2[C@](C1)([C@@]1([C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(O)C(=O)CSc1sc2c(n1)cccc2)C)F)C,gcr
+310,CHEMBL1917244,P06536,Efficacy,=,19.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@]2(O)C(=O)CSc1sc2c(n1)cccc2)C)O)C,gcr
+311,CHEMBL1917244,P06536,Emax,=,19.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@]2(O)C(=O)CSc1sc2c(n1)cccc2)C)O)C,gcr
+312,CHEMBL1917245,P06536,Emax,=,33.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@]2(O)C(=O)CSc1sc2c(n1)cccc2)C)C)O)F)C,gcr
+313,CHEMBL1917246,P06536,EC50,=,27.0,nM,C1=C[C@]2(C(=CC1=O)[C@H](C[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@]2(O)C(=O)CSc1sc2c(n1)cccc2)C)C)O)F)F)C,gcr
+314,CHEMBL1917246,P06536,Emax,=,79.0,%,C1=C[C@]2(C(=CC1=O)[C@H](C[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@]2(O)C(=O)CSc1sc2c(n1)cccc2)C)C)O)F)F)C,gcr
+315,CHEMBL1917247,P06536,Emax,=,29.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@H]([C@]2(O)C(=O)CSc1sc2c(n1)cccc2)C)C)O)Cl)C,gcr
+316,CHEMBL1917248,P06536,Emax,=,34.0,%,C1=C[C@]2(C(=CC1=O)[C@H](C[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@]2(O)C(=O)CSc1sc2c(n1)cccc2)C)O)C)C,gcr
+317,CHEMBL1917249,P06536,Emax,=,4.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nccc2c1cccc2)C)C,gcr
+318,CHEMBL1917250,P06536,Emax,=,11.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nc2c(cc1)cccc2)C)C,gcr
+319,CHEMBL1917251,P06536,Emax,=,9.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nc2c(nc1)cccc2)C)C,gcr
+320,CHEMBL1917252,P06536,Emax,=,17.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nc2c(n1C)cccc2)C)C,gcr
+321,CHEMBL1917253,P06536,Emax,=,9.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nc2c(o1)cccc2)C)C,gcr
+322,CHEMBL1917254,P06536,Emax,=,2.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nc2c(s1)cccc2)C)C,gcr
+323,CHEMBL1917255,P06536,Emax,=,2.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nc2c(s1)cccn2)C)C,gcr
+324,CHEMBL1917256,P06536,Emax,=,7.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1ncccn1)C)C,gcr
+325,CHEMBL1917413,P06536,Emax,=,12.0,%,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@@](CC2)(OC(=O)c1ccco1)C(=O)CSc1nc(c(s1)C)C)C)C,gcr
+326,CHEMBL1917414,P06536,EC50,=,18.7,nM,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@]2(OC(=O)c1ccco1)C(=O)CSc1sc2c(n1)cccc2)C)O)C,gcr
+327,CHEMBL1917414,P06536,Emax,=,62.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@]2(OC(=O)c1ccco1)C(=O)CSc1sc2c(n1)cccc2)C)O)C,gcr
+328,CHEMBL1917415,P06536,Emax,=,32.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@]2(OC(=O)c1ccco1)C(=O)CSc1nccc2c1cccc2)C)O)C,gcr
+329,CHEMBL1917416,P06536,Emax,=,24.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@H]2[C@H](C[C@]2([C@H]1CC[C@]2(OC(=O)c1ccco1)C(=O)CSc1nccc(n1)C)C)O)C,gcr
+330,CHEMBL193404,P06537,EC50,=,17.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1sc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+331,CHEMBL193404,P06537,EC50,=,34.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1sc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+332,CHEMBL1940546,P06536,Efficacy,=,4.0,%,[C@]12([C@@](C(=O)CSc3nc4c(n3C)cccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+333,CHEMBL1940546,P06536,IC50,=,235.0,nM,[C@]12([C@@](C(=O)CSc3nc4c(n3C)cccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+334,CHEMBL1940547,P06536,Efficacy,=,56.0,%,[C@]12([C@@](C(=O)CSc3ccc4c(n3)cccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+335,CHEMBL1940547,P06536,IC50,=,361.0,nM,[C@]12([C@@](C(=O)CSc3ccc4c(n3)cccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+336,CHEMBL1940548,P06536,Efficacy,=,6.0,%,[C@]12([C@@](C(=O)CSc3nccc(n3)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+337,CHEMBL1940549,P06536,Efficacy,=,2.0,%,[C@]12([C@@](C(=O)CSc3ncc4c(n3)cccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+338,CHEMBL1940550,P06536,Efficacy,=,32.0,%,[C@]12([C@@](C(=O)CSc3nc4c(o3)cccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+339,CHEMBL1940551,P06536,Efficacy,=,29.0,%,[C@]12([C@@](C(=O)CSc3nc4c(o3)cccn4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+340,CHEMBL1940552,P06536,Efficacy,=,23.0,%,[C@]12([C@@](C(=O)CSc3ccccn3)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+341,CHEMBL1940552,P06536,IC50,=,707.0,nM,[C@]12([C@@](C(=O)CSc3ccccn3)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+342,CHEMBL1940553,P06536,Efficacy,=,7.0,%,[C@]12([C@@](C(=O)CSc3nc4c(s3)nccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+343,CHEMBL1940554,P06536,Efficacy,=,2.0,%,[C@]12([C@@](C(=O)CSc3nc4c([nH]3)cccn4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+344,CHEMBL1940555,P06536,Efficacy,=,10.0,%,[C@]12([C@@](C(=O)CSc3nc4c(n3CC)cccc4)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+345,CHEMBL1940556,P06536,Efficacy,=,9.0,%,[C@]12([C@@](C(=O)CSc3nc(cs3)c3ccccc3)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)O)C,gcr
+346,CHEMBL1940557,P06536,RBA,=,33.0,Unspecified,[C@]12([C@@](C(=O)CO)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+347,CHEMBL1940557,P06536,Relative activity,=,98.0,%,[C@]12([C@@](C(=O)CO)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+348,CHEMBL1940557,P06536,RBA,=,58.0,Unspecified,[C@]12([C@@](C(=O)CO)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+349,CHEMBL1940557,P06536,RBA,=,70.0,Unspecified,[C@]12([C@@](C(=O)CO)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+350,CHEMBL1940557,P06536,RBA,=,45.0,Unspecified,[C@]12([C@@](C(=O)CO)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+351,CHEMBL1940557,P06536,RBA,=,82.0,Unspecified,[C@]12([C@@](C(=O)CO)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+352,CHEMBL1940557,P06536,RBA,=,37.0,Unspecified,[C@]12([C@@](C(=O)CO)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+353,CHEMBL1940687,P06536,Efficacy,=,35.0,%,[C@]12([C@@](C(=O)CSc3nc4c(s3)cccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+354,CHEMBL1940687,P06536,IC50,=,230.0,nM,[C@]12([C@@](C(=O)CSc3nc4c(s3)cccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+355,CHEMBL1940688,P06536,Efficacy,=,2.0,%,[C@]12([C@@](C(=O)CSc3nc4c(n3C)cccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+356,CHEMBL1940690,P06536,Efficacy,=,6.0,%,[C@]12([C@](C(=O)CSc3nccc4c3cccc4)(O)[C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)C,gcr
+357,CHEMBL1940691,P06536,Efficacy,=,45.0,%,[C@]12([C@@](C(=O)CSc3ccc4c(n3)cccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+358,CHEMBL1940691,P06536,IC50,=,19.2,nM,[C@]12([C@@](C(=O)CSc3ccc4c(n3)cccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+359,CHEMBL1940692,P06536,Efficacy,=,3.0,%,[C@]12([C@@](C(=O)CSc3cnc4c(n3)cccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+360,CHEMBL1940693,P06536,Efficacy,=,8.0,%,[C@]12([C@](C(=O)CSc3ncnc4c3cccc4)(O)[C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)C,gcr
+361,CHEMBL1940694,P06536,Efficacy,=,29.0,%,[C@]12([C@@](C(=O)CSc3cccc(n3)C)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+362,CHEMBL1940695,P06536,Efficacy,=,13.0,%,[C@]12([C@@](C(=O)CSc3nc4c(s3)nccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+363,CHEMBL1940695,P06536,IC50,=,24.1,nM,[C@]12([C@@](C(=O)CSc3nc4c(s3)nccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+364,CHEMBL1940696,P06536,Efficacy,=,3.0,%,[C@]12([C@@](C(=O)CSc3nc4c([nH]3)cccc4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+365,CHEMBL1940697,P06536,Efficacy,=,37.0,%,[C@]12([C@@](C(=O)CSc3nc4c(o3)cccn4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+366,CHEMBL1940697,P06536,IC50,=,135.0,nM,[C@]12([C@@](C(=O)CSc3nc4c(o3)cccn4)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+367,CHEMBL1940698,P06536,Efficacy,=,65.0,%,[C@]12([C@@](C(=O)CSc3oc(nn3)c3ccccc3)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+368,CHEMBL1940698,P06536,IC50,=,740.0,nM,[C@]12([C@@](C(=O)CSc3oc(nn3)c3ccccc3)([C@@H](C[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)C=C3)CC1)C)[C@H](C2)O)C)O)C,gcr
+369,CHEMBL194077,P06537,EC50,=,120.0,nM,c1(c(sc(c1)Cl)Cl)[C@@H]([C@@H]1[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CCC1)C)O,gcr
+370,CHEMBL195972,P06537,EC50,=,42.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1sc2c(c1)cccc2)O)C)c1ccc(cc1)F,gcr
+371,CHEMBL195972,P06537,EC50,=,1209.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1sc2c(c1)cccc2)O)C)c1ccc(cc1)F,gcr
+372,CHEMBL196003,P06536,RBA,=,6.5,Unspecified,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+373,CHEMBL196003,P06536,Relative activity,=,6.0,%,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+374,CHEMBL196003,P06536,RBA,=,22.0,Unspecified,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+375,CHEMBL196003,P06536,RBA,=,14.0,Unspecified,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+376,CHEMBL196003,P06536,RBA,=,3.6,Unspecified,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+377,CHEMBL196003,P06536,RBA,=,24.0,Unspecified,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+378,CHEMBL196003,P06536,RBA,=,9.0,Unspecified,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+379,CHEMBL196003,P06536,RBA,=,1.5,Unspecified,C1(=O)CCC2=C3[C@@H](CCC2=C1)[C@@H]1CC[C@@]([C@@]1(C)CC3)(C(=O)CC)C,gcr
+380,CHEMBL196347,P06537,EC50,=,21.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1sccc1)O)C)c1ccc(cc1)F,gcr
+381,CHEMBL2005968,P06537,Activity,=,44.5,%,O[C@]1([C@@]2([C@H]([C@H]3C(=CC2)[C@@]2(C(=CC(=O)C=C2)CC3)C)C[C@@H]1C)C)C(=O)CO,gcr
+382,CHEMBL2021945,P06536,Efficacy,=,111.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1ncccc1)O)C)C,gcr
+383,CHEMBL2021945,P06536,IC50,=,4.5,nM,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1ncccc1)O)C)C,gcr
+384,CHEMBL2022651,P06536,Efficacy,=,96.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CO)O)C)C,gcr
+385,CHEMBL2022651,P06536,IC50,=,3.23,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CO)O)C)C,gcr
+386,CHEMBL2022653,P06536,Efficacy,=,75.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1n(c2c(n1)cccc2)C)O)C)C,gcr
+387,CHEMBL2022653,P06536,IC50,=,78.0,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1n(c2c(n1)cccc2)C)O)C)C,gcr
+388,CHEMBL2022654,P06536,Efficacy,=,44.0,%,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1n(c2c(n1)cccc2)C)O)C)C,gcr
+389,CHEMBL2022654,P06536,IC50,=,1000.0,nM,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1n(c2c(n1)cccc2)C)O)C)C,gcr
+390,CHEMBL2022655,P06536,Efficacy,=,65.0,%,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1oc2c(n1)cccc2)O)C)C,gcr
+391,CHEMBL2022655,P06536,IC50,=,31.6,nM,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1oc2c(n1)cccc2)O)C)C,gcr
+392,CHEMBL2022656,P06536,Efficacy,=,81.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1oc2c(n1)nccc2)O)C)C,gcr
+393,CHEMBL2022656,P06536,IC50,=,33.8,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1oc2c(n1)nccc2)O)C)C,gcr
+394,CHEMBL2022657,P06536,Efficacy,=,82.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1ncccc1)O)C)C,gcr
+395,CHEMBL2022657,P06536,IC50,=,225.0,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1ncccc1)O)C)C,gcr
+396,CHEMBL2022659,P06536,Efficacy,=,36.0,%,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1ncccn1)O)C)C,gcr
+397,CHEMBL2022660,P06536,Efficacy,=,95.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(cc1)cccc2)O)C)C,gcr
+398,CHEMBL2022660,P06536,IC50,=,82.3,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(cc1)cccc2)O)C)C,gcr
+399,CHEMBL2022858,P06536,Efficacy,=,107.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CO)O)C)C,gcr
+400,CHEMBL2022858,P06536,IC50,=,3.2,nM,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CO)O)C)C,gcr
+401,CHEMBL2022859,P06536,Efficacy,=,67.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1sc2c(n1)cccc2)O)C)C,gcr
+402,CHEMBL2022859,P06536,IC50,=,57.3,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1sc2c(n1)cccc2)O)C)C,gcr
+403,CHEMBL2022862,P06536,Efficacy,=,67.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(nc1)cccc2)O)C)C,gcr
+404,CHEMBL2022862,P06536,IC50,=,113.0,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(nc1)cccc2)O)C)C,gcr
+405,CHEMBL2022863,P06536,Efficacy,=,40.0,%,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(nc1)cccc2)O)C)C,gcr
+406,CHEMBL2022864,P06536,Efficacy,=,33.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)COc1nc2c(nc1)cccc2)O)C)C,gcr
+407,CHEMBL2022865,P06536,Efficacy,=,96.0,%,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1sc(c(n1)C)C)O)C)C,gcr
+408,CHEMBL2022865,P06536,IC50,=,135.0,nM,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1sc(c(n1)C)C)O)C)C,gcr
+409,CHEMBL2022866,P06536,Efficacy,=,62.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1n(CC=C)c2c(n1)cccc2)O)C)C,gcr
+410,CHEMBL2022866,P06536,IC50,=,258.0,nM,C1=C2[C@](Cc3c1n(nc3)c1ccccc1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1n(CC=C)c2c(n1)cccc2)O)C)C,gcr
+411,CHEMBL2023236,P06536,Efficacy,=,6.3,%,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1sc2c(n1)cccc2)O)C)C,gcr
+412,CHEMBL2023236,P06536,IC50,=,54.7,nM,C1=C2[C@](Cc3c1n(nc3)C1CCCCC1)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1sc2c(n1)cccc2)O)C)C,gcr
+413,CHEMBL2023239,P06536,Efficacy,=,83.0,%,c1(sc2c(n1)cccc2)SCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+414,CHEMBL2023239,P06536,IC50,=,24.1,nM,c1(sc2c(n1)cccc2)SCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+415,CHEMBL2023240,P06536,Efficacy,=,71.0,%,c1(sc2c(n1)cccc2)OCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+416,CHEMBL2023240,P06536,IC50,=,84.0,nM,c1(sc2c(n1)cccc2)OCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+417,CHEMBL2023241,P06536,Efficacy,=,89.0,%,c1(n(c2c(n1)cccc2)C)SCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+418,CHEMBL2023241,P06536,IC50,=,174.0,nM,c1(n(c2c(n1)cccc2)C)SCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+419,CHEMBL2023242,P06536,Efficacy,=,74.0,%,c1(n(c2c(n1)cccc2)C)OCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+420,CHEMBL2023242,P06536,IC50,=,78.0,nM,c1(n(c2c(n1)cccc2)C)OCC(=O)[C@@]1([C@]2(C[C@@H]([C@@H]3[C@]4(Cc5c(C=C4CC[C@H]3[C@@H]2CC1)n(nc5)c1ccc(cc1)F)C)O)C)O,gcr
+421,CHEMBL2023243,P06536,Efficacy,=,98.0,%,c1(SCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)cc2c(cc1)cccc2,gcr
+422,CHEMBL2023243,P06536,IC50,=,52.5,nM,c1(SCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)cc2c(cc1)cccc2,gcr
+423,CHEMBL2023244,P06536,Efficacy,=,106.0,%,c1(OCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)cc2c(cc1)cccc2,gcr
+424,CHEMBL2023244,P06536,IC50,=,58.0,nM,c1(OCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)cc2c(cc1)cccc2,gcr
+425,CHEMBL2023614,P06536,Efficacy,=,115.0,%,c1(SCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)nc2c(cc1)cccc2,gcr
+426,CHEMBL2023614,P06536,IC50,=,24.3,nM,c1(SCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)nc2c(cc1)cccc2,gcr
+427,CHEMBL2023615,P06536,Efficacy,=,59.0,%,c1(OCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)nc2c(cc1)cccc2,gcr
+428,CHEMBL2023615,P06536,IC50,=,44.7,nM,c1(OCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)nc2c(cc1)cccc2,gcr
+429,CHEMBL2023616,P06536,Efficacy,=,25.0,%,c1(SCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)nc2c(nc1)cccc2,gcr
+430,CHEMBL2023617,P06536,Efficacy,=,41.0,%,c1(OCC(=O)[C@@]2([C@]3(C[C@@H]([C@@H]4[C@]5(Cc6c(C=C5CC[C@H]4[C@@H]3CC2)n(nc6)c2ccc(cc2)F)C)O)C)O)nc2c(nc1)cccc2,gcr
+431,CHEMBL2023618,P06536,Efficacy,=,54.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nccc2c1cccc2)O)C)C,gcr
+432,CHEMBL2023618,P06536,IC50,=,65.4,nM,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nccc2c1cccc2)O)C)C,gcr
+433,CHEMBL2023619,P06536,Efficacy,=,80.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(o1)cccn2)O)C)C,gcr
+434,CHEMBL2023619,P06536,IC50,=,13.3,nM,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(o1)cccn2)O)C)C,gcr
+435,CHEMBL2023620,P06536,Efficacy,=,66.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1ncccn1)O)C)C,gcr
+436,CHEMBL2023620,P06536,IC50,=,14.3,nM,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1ncccn1)O)C)C,gcr
+437,CHEMBL2023621,P06536,Efficacy,=,59.0,%,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(c(=O)[nH]1)cccc2)O)C)C,gcr
+438,CHEMBL2023621,P06536,IC50,=,86.5,nM,C1=C2[C@](Cc3c1n(nc3)c1ccc(cc1)F)([C@@H]1[C@@H](CC2)[C@H]2[C@](C[C@@H]1O)([C@](CC2)(C(=O)CSc1nc2c(c(=O)[nH]1)cccc2)O)C)C,gcr
+439,CHEMBL2079565,P06536,RBA,=,0.4,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+440,CHEMBL2079565,P06536,Relative activity,=,10.0,%,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+441,CHEMBL2079565,P06536,RBA,=,0.7,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+442,CHEMBL2079565,P06536,RBA,<,0.1,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+443,CHEMBL2079565,P06536,RBA,<,0.1,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+444,CHEMBL2079565,P06536,RBA,=,1.0,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+445,CHEMBL2079565,P06536,RBA,=,0.6,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+446,CHEMBL2079631,P06536,RBA,=,0.2,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+447,CHEMBL2079631,P06536,Relative activity,=,6.5,%,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+448,CHEMBL2079631,P06536,RBA,=,0.2,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+449,CHEMBL2079631,P06536,RBA,<,0.1,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+450,CHEMBL2079631,P06536,RBA,<,0.1,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+451,CHEMBL2079631,P06536,RBA,=,0.6,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+452,CHEMBL2079631,P06536,RBA,=,0.3,Unspecified,[C@]12([C@@](C(=O)COC(=O)C)(CC[C@H]1[C@H]1[C@@H]([C@@]3([C@@H](CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+453,CHEMBL2087285,P06536,IC50,=,3900.0,nM,C(=O)(Cc1cc(Br)c(N(Cc2cc(cc(c2)F)F)Cc2ccc(Oc3ccccc3)cc2)c(Br)c1)O,gcr
+454,CHEMBL2087286,P06536,IC50,=,1880.0,nM,c1(cc(cc(c1)CN(Cc1ccc(cc1)Oc1cc(c(cc1)F)OCC(=O)O)c1cccc(c1C)NS(=O)(=O)C)F)F,gcr
+455,CHEMBL2087287,P06536,IC50,=,2490.0,nM,c1c(cc(cc1)C(=O)c1cc(c(cc1Oc1c(cc(cc1Br)CC(=O)O)Br)C(C)C)OC)C,gcr
+456,CHEMBL2087287,P06536,IC50,=,2500.0,nM,c1c(cc(cc1)C(=O)c1cc(c(cc1Oc1c(cc(cc1Br)CC(=O)O)Br)C(C)C)OC)C,gcr
+457,CHEMBL2087288,P06536,IC50,=,2100.0,nM,C(=O)(O)Cc1cc(Br)c(N(Cc2cc(F)cc(F)c2)Cc2ccc(Oc3ccccc3F)cc2)c(Br)c1,gcr
+458,CHEMBL2087289,P06536,IC50,=,900.0,nM,C(=O)(O)Cc1cc(Br)c(N(Cc2cc(F)cc(F)c2)Cc2ccc(Oc3ccc(F)cc3F)cc2)c(Br)c1,gcr
+459,CHEMBL2087290,P06536,IC50,=,3000.0,nM,C(=O)(O)Cc1cc(Br)c(N(Cc2ccc(Oc3ccccc3Cl)cc2)Cc2cc(F)cc(F)c2)c(Br)c1,gcr
+460,CHEMBL2087291,P06536,IC50,=,2600.0,nM,C(=O)(O)Cc1cc(Br)c(N(Cc2ccc(Oc3ccc(Cl)cc3Cl)cc2)Cc2cc(F)cc(F)c2)c(Br)c1,gcr
+461,CHEMBL2087292,P06536,IC50,>,10000.0,nM,C(=O)(O)Cc1cc(Br)c(N(Cc2ccc(Oc3ccccc3Br)cc2)Cc2cc(F)cc(F)c2)c(Br)c1,gcr
+462,CHEMBL2087293,P06536,IC50,>,10000.0,nM,C(=O)(O)Cc1cc(Br)c(N(Cc2ccc(Oc3ccc(Br)cc3Br)cc2)Cc2cc(F)cc(F)c2)c(Br)c1,gcr
+463,CHEMBL2087298,P06536,IC50,=,3300.0,nM,C(=O)(Cc1cc(Br)c(N(Cc2cc(F)cc(F)c2)Cc2ccc(Oc3ccccc3C(F)(F)F)cc2)c(Br)c1)O,gcr
+464,CHEMBL2087299,P06536,IC50,=,2900.0,nM,C(=O)(Cc1cc(Br)c(N(Cc2cc(F)cc(F)c2)Cc2ccc(Oc3ccc(cc3C(F)(F)F)C(F)(F)F)cc2)c(Br)c1)O,gcr
+465,CHEMBL2096708,P06536,Inhibition,=,45.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCOCCO[C@@H]3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+466,CHEMBL2096804,P06536,Inhibition,=,50.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCOCCO[C@H]3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+467,CHEMBL2104352,P06536,RBA,=,41.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)C)O)C)C,gcr
+468,CHEMBL2104352,P06536,Relative activity,=,45.0,%,[C@@]12([C@H]([C@H]3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)C)O)C)C,gcr
+469,CHEMBL2104352,P06536,RBA,=,67.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)C)O)C)C,gcr
+470,CHEMBL2104352,P06536,RBA,=,67.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)C)O)C)C,gcr
+471,CHEMBL2104352,P06536,RBA,=,49.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)C)O)C)C,gcr
+472,CHEMBL2104352,P06536,RBA,=,92.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)C)O)C)C,gcr
+473,CHEMBL2104352,P06536,RBA,=,57.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)C)O)C)C,gcr
+474,CHEMBL2105993,P06536,RBA,=,9.7,Unspecified,[C@]12([C@@]3([C@H]([C@H]4[C@@H]([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(O1)(c1ccccc1)C)C)C(=O)C,gcr
+475,CHEMBL2106613,P06537,Activity,=,51.5,%,C12=CC[C@@]3([C@@](C(=O)COC(=O)C)(CC[C@H]3[C@@H]2CCC2=CC(=O)CC[C@]12C)O)C,gcr
+476,CHEMBL2112850,P06536,IC50,=,4.3,nM,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)[C@H](C4)F)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)SCF,gcr
+477,CHEMBL2112857,P06536,IC50,=,1.8,nM,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)/C=C/C)C)SC,gcr
+478,CHEMBL2112858,P06536,IC50,=,5.3,nM,[C@@]12([C@@]3([C@H]([C@H]4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)S(=O)(=O)C,gcr
+479,CHEMBL2311103,P06536,RBA,=,1.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@H]4C(=CC(=O)CC4)CC3)CC2)C[C@H]([C@@H]1C(=O)CO)CC)C,gcr
+480,CHEMBL2311118,P06536,RBA,=,0.74,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@H]4C(=CC(=O)CC4)CC3)CC2)C[C@H]([C@@H]1C(=O)CF)CC)C,gcr
+481,CHEMBL2311119,P06536,RBA,=,12.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H]([C@@H]1C(=O)C)C)C,gcr
+482,CHEMBL2311119,P06536,Relative activity,=,3.5,%,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H]([C@@H]1C(=O)C)C)C,gcr
+483,CHEMBL2311119,P06536,RBA,=,22.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H]([C@@H]1C(=O)C)C)C,gcr
+484,CHEMBL2311119,P06536,RBA,=,0.5,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H]([C@@H]1C(=O)C)C)C,gcr
+485,CHEMBL2311119,P06536,RBA,=,0.1,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H]([C@@H]1C(=O)C)C)C,gcr
+486,CHEMBL2311119,P06536,RBA,=,30.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H]([C@@H]1C(=O)C)C)C,gcr
+487,CHEMBL2311119,P06536,RBA,=,18.0,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H]([C@@H]1C(=O)C)C)C,gcr
+488,CHEMBL2348779,P06537,Activity,=,54.2,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1C[C@H]([C@@H]2C(=O)CO)C)C)C,gcr
+489,CHEMBL2348780,P06537,Activity,=,80.4,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1C[C@H]([C@@]2(C(=O)CO)O)C)C)C,gcr
+490,CHEMBL2348781,P06537,Activity,=,48.8,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1C[C@H]([C@@H]2C(=O)COC(=O)C)C)C)C,gcr
+491,CHEMBL2348782,P06537,Activity,=,49.2,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)CC[C@@]3(C(=O)CO)O)C)C,gcr
+492,CHEMBL2348783,P06537,Activity,=,57.6,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1CC[C@@]2(C(=O)CO)O)C)C,gcr
+493,CHEMBL2348784,P06537,Activity,=,27.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1C[C@H]([C@@H]2C(=O)CO)CC)C)C,gcr
+494,CHEMBL2348785,P06537,Activity,=,37.7,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)C[C@H]([C@@H]3C(=O)CN(CCC)CCC)C)C)C,gcr
+495,CHEMBL2348786,P06537,Activity,=,28.7,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)CC[C@@]3(C(=O)CN1CCOCC1)O)C)C,gcr
+496,CHEMBL2348787,P06537,Activity,=,15.3,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1CC=C2C(=O)COC(=O)C)C)C,gcr
+497,CHEMBL2348788,P06537,Activity,=,21.8,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)CC[C@@]3(C(=O)CN(CCC)CCC)O)C)C,gcr
+498,CHEMBL2348789,P06537,Activity,=,24.7,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)CC[C@@]3(C(=O)CN1CCCC1)O)C)C,gcr
+499,CHEMBL2348790,P06537,Activity,=,16.7,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1CC=C2C(=O)CO)C)C,gcr
+500,CHEMBL2348791,P06537,Activity,=,19.9,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)C[C@H]([C@@H]3C(=O)CN1CCCC1)C)C)C,gcr
+501,CHEMBL2348792,P06537,Activity,=,22.7,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)C[C@H]([C@@H]3C(=O)CN1CCOCC1)C)C)C,gcr
+502,CHEMBL2348985,P06537,Activity,=,23.5,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)CC[C@@]3(C(=O)CN1CCN(CC1)C)O)C)C,gcr
+503,CHEMBL2348986,P06537,Activity,=,14.7,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)C[C@H]([C@@H]3C(=O)CN1CCN(CC1)C)C)C)C,gcr
+504,CHEMBL2348987,P06537,Activity,=,8.5,%,C1C(=O)C=C2[C@](C1)(C1=CC[C@]3([C@H]([C@@H]1CC2)C[C@H]([C@@H]3C(=O)CO)CCCC)C)C,gcr
+505,CHEMBL2348988,P06537,Activity,=,6.9,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1C2=CC[C@]2([C@H]1C[C@H]([C@@H]2C(=O)CO)CCCC)C)C,gcr
+506,CHEMBL25117,P06536,RBA,=,0.6,Unspecified,[C@@]12([C@H]([C@H]3[C@@H]([C@@]4(C(=CC(=O)CC4)CC3)C)CC2)CC[C@@H]1C(=O)C[Se]c1ccccc1)C,gcr
+507,CHEMBL253144,P06536,RBA,=,3.3,Unspecified,C1CC(=O)C=C2CC[C@H]3[C@@H]4CC[C@@](C(=O)CO)(O)[C@@]4(C)CC[C@@H]3[C@@]12C,gcr
+508,CHEMBL253144,P06536,Relative activity,=,11.0,%,C1CC(=O)C=C2CC[C@H]3[C@@H]4CC[C@@](C(=O)CO)(O)[C@@]4(C)CC[C@@H]3[C@@]12C,gcr
+509,CHEMBL253144,P06536,RBA,=,9.3,Unspecified,C1CC(=O)C=C2CC[C@H]3[C@@H]4CC[C@@](C(=O)CO)(O)[C@@]4(C)CC[C@@H]3[C@@]12C,gcr
+510,CHEMBL253144,P06536,RBA,<,0.1,Unspecified,C1CC(=O)C=C2CC[C@H]3[C@@H]4CC[C@@](C(=O)CO)(O)[C@@]4(C)CC[C@@H]3[C@@]12C,gcr
+511,CHEMBL253144,P06536,RBA,<,0.1,Unspecified,C1CC(=O)C=C2CC[C@H]3[C@@H]4CC[C@@](C(=O)CO)(O)[C@@]4(C)CC[C@@H]3[C@@]12C,gcr
+512,CHEMBL253144,P06536,RBA,=,12.0,Unspecified,C1CC(=O)C=C2CC[C@H]3[C@@H]4CC[C@@](C(=O)CO)(O)[C@@]4(C)CC[C@@H]3[C@@]12C,gcr
+513,CHEMBL253144,P06536,RBA,=,4.0,Unspecified,C1CC(=O)C=C2CC[C@H]3[C@@H]4CC[C@@](C(=O)CO)(O)[C@@]4(C)CC[C@@H]3[C@@]12C,gcr
+514,CHEMBL266282,P06536,EC50,=,7.943,nM,c1cc(c2c(c1)OC(c1c2ccc2c1C(=CC(N2)(C)C)C)CC=C)OC,gcr
+515,CHEMBL266282,P06536,Efficacy,=,100.0,%,c1cc(c2c(c1)OC(c1c2ccc2c1C(=CC(N2)(C)C)C)CC=C)OC,gcr
+516,CHEMBL266282,P06536,EC50,=,48.0,nM,c1cc(c2c(c1)OC(c1c2ccc2c1C(=CC(N2)(C)C)C)CC=C)OC,gcr
+517,CHEMBL266935,P06536,Inhibition,=,-20.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCNC(=O)OC3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+518,CHEMBL267231,P06536,Efficacy,=,100.0,%,c12c(c3c(OC2CC=C)cccc3OC(F)F)ccc2c1C(=CC(N2)(C)C)C,gcr
+519,CHEMBL267231,P06536,EC50,=,85.0,nM,c12c(c3c(OC2CC=C)cccc3OC(F)F)ccc2c1C(=CC(N2)(C)C)C,gcr
+520,CHEMBL267542,P06536,RBA,=,5.7,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(c2c(c(c(c(c2F)F)N=[N+]=[N-])F)F)(O1)C)C)C(=O)C,gcr
+521,CHEMBL267940,P06536,Efficacy,=,97.0,%,c12c(c3c(OC2CC=C)cccc3C=C)ccc2c1C(=CC(N2)(C)C)C,gcr
+522,CHEMBL267940,P06536,EC50,=,90.0,nM,c12c(c3c(OC2CC=C)cccc3C=C)ccc2c1C(=CC(N2)(C)C)C,gcr
+523,CHEMBL268001,P06536,RBA,=,20.0,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(O1)(c1ccc(cc1)I)C)C)C(=O)C,gcr
+524,CHEMBL273453,P06536,RBA,=,8.0,Unspecified,[C@@H]12CC[C@H](C(=O)CO)[C@]1(C[C@@H]([C@@H]1[C@@]3(C(=CC(=O)CC3)CC[C@@H]21)C)O)C=O,gcr
+525,CHEMBL273453,P06536,Relative activity,=,49.0,%,[C@@H]12CC[C@H](C(=O)CO)[C@]1(C[C@@H]([C@@H]1[C@@]3(C(=CC(=O)CC3)CC[C@@H]21)C)O)C=O,gcr
+526,CHEMBL273453,P06536,RBA,=,14.0,Unspecified,[C@@H]12CC[C@H](C(=O)CO)[C@]1(C[C@@H]([C@@H]1[C@@]3(C(=CC(=O)CC3)CC[C@@H]21)C)O)C=O,gcr
+527,CHEMBL273453,P06536,RBA,=,1.5,Unspecified,[C@@H]12CC[C@H](C(=O)CO)[C@]1(C[C@@H]([C@@H]1[C@@]3(C(=CC(=O)CC3)CC[C@@H]21)C)O)C=O,gcr
+528,CHEMBL273453,P06536,RBA,=,0.1,Unspecified,[C@@H]12CC[C@H](C(=O)CO)[C@]1(C[C@@H]([C@@H]1[C@@]3(C(=CC(=O)CC3)CC[C@@H]21)C)O)C=O,gcr
+529,CHEMBL273453,P06536,RBA,=,14.0,Unspecified,[C@@H]12CC[C@H](C(=O)CO)[C@]1(C[C@@H]([C@@H]1[C@@]3(C(=CC(=O)CC3)CC[C@@H]21)C)O)C=O,gcr
+530,CHEMBL273453,P06536,RBA,=,9.0,Unspecified,[C@@H]12CC[C@H](C(=O)CO)[C@]1(C[C@@H]([C@@H]1[C@@]3(C(=CC(=O)CC3)CC[C@@H]21)C)O)C=O,gcr
+531,CHEMBL273658,P06536,Efficacy,=,105.0,%,c12c(c3c(OC2CC=C)ccc(c3Cl)O)ccc2c1C(=CC(N2)(C)C)C,gcr
+532,CHEMBL273658,P06536,EC50,=,78.0,nM,c12c(c3c(OC2CC=C)ccc(c3Cl)O)ccc2c1C(=CC(N2)(C)C)C,gcr
+533,CHEMBL273837,P06536,RBA,=,9.4,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2O[C@](O1)(c1ccc(cc1)F)C)C)C(=O)C,gcr
+534,CHEMBL274917,P06536,RBA,=,2.6,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)CC2)(C(=O)C)C)C,gcr
+535,CHEMBL274917,P06536,Relative activity,=,3.0,%,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)CC2)(C(=O)C)C)C,gcr
+536,CHEMBL274917,P06536,RBA,=,9.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)CC2)(C(=O)C)C)C,gcr
+537,CHEMBL274917,P06536,RBA,=,4.5,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)CC2)(C(=O)C)C)C,gcr
+538,CHEMBL274917,P06536,RBA,=,12.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)CC2)(C(=O)C)C)C,gcr
+539,CHEMBL274917,P06536,RBA,=,17.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)CC2)(C(=O)C)C)C,gcr
+540,CHEMBL274917,P06536,RBA,=,8.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)CC2)(C(=O)C)C)C,gcr
+541,CHEMBL275184,P06536,RBA,=,73.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)C(C2)C=C)(C(=O)C)C)C,gcr
+542,CHEMBL275184,P06536,Relative activity,=,33.0,%,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)C(C2)C=C)(C(=O)C)C)C,gcr
+543,CHEMBL275184,P06536,RBA,=,148.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)C(C2)C=C)(C(=O)C)C)C,gcr
+544,CHEMBL275184,P06536,RBA,=,50.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)C(C2)C=C)(C(=O)C)C)C,gcr
+545,CHEMBL275184,P06536,RBA,=,53.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)C(C2)C=C)(C(=O)C)C)C,gcr
+546,CHEMBL275184,P06536,RBA,=,169.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)C(C2)C=C)(C(=O)C)C)C,gcr
+547,CHEMBL275184,P06536,RBA,=,163.0,Unspecified,C12([C@](CCC1C1C(=C3C(=CC(=O)CC3)CC1)C(C2)C=C)(C(=O)C)C)C,gcr
+548,CHEMBL275974,P06536,RBA,=,15.0,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(O1)(c1ccc(C(=O)c2ccccc2)cc1)C)C)C(=O)C,gcr
+549,CHEMBL276546,P06536,RBA,=,12.0,Unspecified,C12=C3C(=CC(=O)OC3)CCC1C1C(C=C2)([C@](CC1)(O)C)C,gcr
+550,CHEMBL276546,P06536,Relative activity,=,8.0,%,C12=C3C(=CC(=O)OC3)CCC1C1C(C=C2)([C@](CC1)(O)C)C,gcr
+551,CHEMBL276546,P06536,RBA,=,48.0,Unspecified,C12=C3C(=CC(=O)OC3)CCC1C1C(C=C2)([C@](CC1)(O)C)C,gcr
+552,CHEMBL276546,P06536,RBA,=,65.0,Unspecified,C12=C3C(=CC(=O)OC3)CCC1C1C(C=C2)([C@](CC1)(O)C)C,gcr
+553,CHEMBL276546,P06536,RBA,=,24.0,Unspecified,C12=C3C(=CC(=O)OC3)CCC1C1C(C=C2)([C@](CC1)(O)C)C,gcr
+554,CHEMBL276546,P06536,RBA,=,42.0,Unspecified,C12=C3C(=CC(=O)OC3)CCC1C1C(C=C2)([C@](CC1)(O)C)C,gcr
+555,CHEMBL276546,P06536,RBA,=,19.0,Unspecified,C12=C3C(=CC(=O)OC3)CCC1C1C(C=C2)([C@](CC1)(O)C)C,gcr
+556,CHEMBL277163,P06536,RBA,=,300.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#CC)(CC1)O)C,gcr
+557,CHEMBL277163,P06536,RBA,=,270.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#CC)(CC1)O)C,gcr
+558,CHEMBL277163,P06536,RBA,=,173.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#CC)(CC1)O)C,gcr
+559,CHEMBL277163,P06536,RBA,=,300.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2sccc2)([C@](C#CC)(CC1)O)C,gcr
+560,CHEMBL27769,P06536,IC50,=,20000.0,nM,[C@]12([C@@H]3[C@H]([C@H]4[C@](CC3)([C@H](CC4)O)C)CC[C@H]1CC(=O)CC2)C,gcr
+561,CHEMBL27769,P06536,IC50,=,20000.0,nM,[C@]12([C@@H]3[C@H]([C@H]4[C@](CC3)([C@H](CC4)O)C)CC[C@H]1CC(=O)CC2)C,gcr
+562,CHEMBL27769,P06536,Activity,=,2.0,%,[C@]12([C@@H]3[C@H]([C@H]4[C@](CC3)([C@H](CC4)O)C)CC[C@H]1CC(=O)CC2)C,gcr
+563,CHEMBL27769,P06536,Binding,<,0.001,%,[C@]12([C@@H]3[C@H]([C@H]4[C@](CC3)([C@H](CC4)O)C)CC[C@H]1CC(=O)CC2)C,gcr
+564,CHEMBL279092,P06536,RBA,=,117.0,Unspecified,C12(C(=Cc3n(ncc3C2)c2ccccc2)C(=CC2[C@H]3C([C@]([C@@H](C3)C)(C(=O)CO)O)(CC([C@H]12)O)C)C)C,gcr
+565,CHEMBL279092,P06536,Relative activity,=,130.0,%,C12(C(=Cc3n(ncc3C2)c2ccccc2)C(=CC2[C@H]3C([C@]([C@@H](C3)C)(C(=O)CO)O)(CC([C@H]12)O)C)C)C,gcr
+566,CHEMBL279092,P06536,RBA,=,150.0,Unspecified,C12(C(=Cc3n(ncc3C2)c2ccccc2)C(=CC2[C@H]3C([C@]([C@@H](C3)C)(C(=O)CO)O)(CC([C@H]12)O)C)C)C,gcr
+567,CHEMBL279092,P06536,RBA,=,11.0,Unspecified,C12(C(=Cc3n(ncc3C2)c2ccccc2)C(=CC2[C@H]3C([C@]([C@@H](C3)C)(C(=O)CO)O)(CC([C@H]12)O)C)C)C,gcr
+568,CHEMBL279092,P06536,RBA,=,36.0,Unspecified,C12(C(=Cc3n(ncc3C2)c2ccccc2)C(=CC2[C@H]3C([C@]([C@@H](C3)C)(C(=O)CO)O)(CC([C@H]12)O)C)C)C,gcr
+569,CHEMBL279092,P06536,RBA,=,60.0,Unspecified,C12(C(=Cc3n(ncc3C2)c2ccccc2)C(=CC2[C@H]3C([C@]([C@@H](C3)C)(C(=O)CO)O)(CC([C@H]12)O)C)C)C,gcr
+570,CHEMBL279092,P06536,RBA,=,90.0,Unspecified,C12(C(=Cc3n(ncc3C2)c2ccccc2)C(=CC2[C@H]3C([C@]([C@@H](C3)C)(C(=O)CO)O)(CC([C@H]12)O)C)C)C,gcr
+571,CHEMBL279775,P06536,RBA,=,208.0,Unspecified,C12(C3(C(C4[C@@](C5(C(=CC(=O)C=C5)[C@H](C4)F)C)(C(C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+572,CHEMBL279775,P06536,Relative activity,=,106.0,%,C12(C3(C(C4[C@@](C5(C(=CC(=O)C=C5)[C@H](C4)F)C)(C(C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+573,CHEMBL279775,P06536,RBA,=,119.0,Unspecified,C12(C3(C(C4[C@@](C5(C(=CC(=O)C=C5)[C@H](C4)F)C)(C(C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+574,CHEMBL279775,P06536,RBA,=,129.0,Unspecified,C12(C3(C(C4[C@@](C5(C(=CC(=O)C=C5)[C@H](C4)F)C)(C(C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+575,CHEMBL279775,P06536,RBA,=,150.0,Unspecified,C12(C3(C(C4[C@@](C5(C(=CC(=O)C=C5)[C@H](C4)F)C)(C(C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+576,CHEMBL279775,P06536,RBA,=,180.0,Unspecified,C12(C3(C(C4[C@@](C5(C(=CC(=O)C=C5)[C@H](C4)F)C)(C(C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+577,CHEMBL279775,P06536,RBA,=,229.0,Unspecified,C12(C3(C(C4[C@@](C5(C(=CC(=O)C=C5)[C@H](C4)F)C)(C(C3)O)F)C[C@H]1OC(O2)(C)C)C)C(=O)CO,gcr
+578,CHEMBL300409,P06536,Relative affinity,=,0.063,Unspecified,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CBr)O)C)C,gcr
+579,CHEMBL300409,P06536,Relative affinity,=,0.021,Unspecified,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CBr)O)C)C,gcr
+580,CHEMBL310570,P06537,EC50,=,5.2,nM,[C@@](C)([C@H]1CCCC2=Cc3c(C[C@]12C)cnn3c1ccc(cc1)F)(O)c1cscc1,gcr
+581,CHEMBL310570,P06537,EC50,=,8.3,nM,[C@@](C)([C@H]1CCCC2=Cc3c(C[C@]12C)cnn3c1ccc(cc1)F)(O)c1cscc1,gcr
+582,CHEMBL311457,P06536,IC50,>,150.0,nM,C12([C@]([C@H](CC1C1[C@@](C3(C(=CC(=O)C=C3)CC1)C)([C@H](C2)O)F)C)(C(=O)CCl)OC(=O)CCC(=O)O)C,gcr
+583,CHEMBL311802,P06536,IC50,=,12.1,nM,C12([C@]([C@H](CC1C1[C@@](C3(C(=CC(=O)C=C3)CC1)C)([C@H](C2)O)F)C)(C(=O)CCl)OC(=O)CCC(=O)OC(C)C)C,gcr
+584,CHEMBL313062,P06537,EC50,=,15.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1cc(c(c(c1)OC)F)F)O)C)c1ccc(cc1)F,gcr
+585,CHEMBL3138135,P06536,Binding,<,0.001,%,C12([C@@H]3[C@H]([C@H]4C(CC3)(C(CC4)O)C)[C@@H](C[C@H]1CC(=O)CC2)I)C,gcr
+586,CHEMBL315931,P06536,IC50,=,5.18,nM,C12([C@]([C@H](CC1C1[C@@](C3(C(=CC(=O)C=C3)CC1)C)([C@H](C2)O)F)C)(C(=O)CCl)OC(=O)CCC(=O)OC)C,gcr
+587,CHEMBL320320,P06536,Weight gain,=,-129.0,Unspecified,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+588,CHEMBL320320,P06536,Change,=,-56.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+589,CHEMBL320320,P06536,ED50,=,10.0,mg.kg-1,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+590,CHEMBL320320,P06536,Weight gain,=,-224.0,Unspecified,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+591,CHEMBL320320,P06536,Change,=,-61.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+592,CHEMBL320320,P06536,Change,=,-64.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+593,CHEMBL320320,P06536,Change,=,-79.0,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+594,CHEMBL320320,P06536,RBA,=,72.5,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+595,CHEMBL320797,P06536,RBA,=,3.2,%,C12(C(=O)N(C(=O)N(C1=O)CC(=O)OC)CC(=O)OC)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+596,CHEMBL321397,P06536,Weight gain,=,-55.0,Unspecified,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+597,CHEMBL321397,P06536,Weight gain,=,-127.0,Unspecified,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+598,CHEMBL321397,P06536,ED50,=,2.0,mg.kg-1,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+599,CHEMBL321397,P06536,Change,=,-83.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+600,CHEMBL321397,P06536,Weight gain,=,-236.0,Unspecified,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+601,CHEMBL321397,P06536,Change,=,-25.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+602,CHEMBL321397,P06536,Change,=,-71.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+603,CHEMBL321397,P06536,Change,=,-28.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+604,CHEMBL321397,P06536,Change,=,-63.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+605,CHEMBL321397,P06536,Change,=,-57.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+606,CHEMBL321397,P06536,RBA,=,118.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+607,CHEMBL321397,P06536,RBA,=,4.0,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+608,CHEMBL323623,P06536,RBA,=,0.02,%,C12(C(=O)NC(=O)NC1=O)O[C@@H]1C(=CC2)[C@@]2(C(=CC(=O)CC2)CC1)C,gcr
+609,CHEMBL323840,P06536,RBA,=,0.72,%,C12(C(=O)N(C(=O)N(C1=O)C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccncc2)CC1)C,gcr
+610,CHEMBL3261407,P06536,IC50,=,0.9,nM,c1(S(=O)(=O)N[C@H](CNc2cccc3c2cnn3c2ccc(cc2)F)C)c(cc(cc1C)C)C,gcr
+611,CHEMBL3261407,P06536,Efficacy,=,87.0,%,c1(S(=O)(=O)N[C@H](CNc2cccc3c2cnn3c2ccc(cc2)F)C)c(cc(cc1C)C)C,gcr
+612,CHEMBL3261425,P06536,IC50,=,4.5,nM,c1(S(=O)(=O)N[C@H](CNc2cccc3c2cnn3c2cnc(cc2)F)C)c(nn(c1C)C1CCCC1)C,gcr
+613,CHEMBL3261425,P06536,Efficacy,=,83.0,%,c1(S(=O)(=O)N[C@H](CNc2cccc3c2cnn3c2cnc(cc2)F)C)c(nn(c1C)C1CCCC1)C,gcr
+614,CHEMBL3273976,P06537,Kd,=,7.5,nM,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]1[C@]2(OC(O1)(C)C)C(=O)COC(=O)N(CCCl)CCCl)C)O)F)C,gcr
+615,CHEMBL3273977,P06537,Kd,=,430.0,nM,C1C(=O)C=C2[C@](C1)([C@@H]1[C@@H](CC2)[C@H]2[C@@](C[C@@H]1O)(C)[C@@](CC2)(O)C(=O)COC(=O)N(CCCl)CCCl)C,gcr
+616,CHEMBL3349892,P06536,Binding,=,0.14,%,[C@@H]12[C@@]([C@](/C=C/I)(CC2)O)(CC[C@H]2[C@H]1[C@@H](CC1=CC(=O)CCC21)C)C,gcr
+617,CHEMBL3358954,P06537,IC50,=,600.0,nM,S(=O)(=O)(c1ncc2c(c1)cc([nH]2)C[C@](CC(C)(C)c1ccc(cc1C(=O)N)F)(C(F)(F)F)O)CC,gcr
+618,CHEMBL342304,P06536,IC50,=,2.4,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)[C@H](C4)F)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SC,gcr
+619,CHEMBL343438,P06536,IC50,=,1.7,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SC,gcr
+620,CHEMBL344512,P06536,IC50,=,3.3,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SCF,gcr
+621,CHEMBL344563,P06536,IC50,=,2.2,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)CC5)[C@H](C4)F)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SC,gcr
+622,CHEMBL344763,P06536,IC50,=,2.1,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)CC5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)SC,gcr
+623,CHEMBL345504,P06536,RBA,=,35.0,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4ncccc4)CC3)C)C(C2)O)C[C@H]([C@@]1(C(=O)CO)O)C)C,gcr
+624,CHEMBL345966,P06536,RBA,=,7.0,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4cnc(cc4)Cl)CC3)C)C(C2)O)C[C@H]([C@@]1(C(=O)CO)O)C)C,gcr
+625,CHEMBL349436,P06536,Relative binding affinity,=,0.152,Unspecified,C12([C@@](C(=O)COC(=O)CCC)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)C)C,gcr
+626,CHEMBL351260,P06536,RBA,=,0.23,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)CC3)C)CC2)C[C@H](C1O)[Se]c1ccccc1)C,gcr
+627,CHEMBL351297,P06536,RBA,=,0.6,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)CC3)C)CC2)CC[C@@H]1C(=O)C[Se]c1ccccc1)C,gcr
+628,CHEMBL351523,P06536,Relative binding affinity,=,0.32,Unspecified,C12([C@@](C(=O)COC(=O)CCCC)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)O)C,gcr
+629,CHEMBL351988,P06536,RBA,<,0.1,Unspecified,C12(C(C3C(C4(C(=CC(=O)CC4)CC3)C)CC2)C[C@@H](C1O)[Se]c1ccccc1)C,gcr
+630,CHEMBL354702,P06536,Relative binding affinity,=,1.17,Unspecified,C12([C@@](C(=O)COC(=O)CC)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)CCCC)C,gcr
+631,CHEMBL357651,P06536,IC50,=,1.6,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)SC,gcr
+632,CHEMBL357935,P06536,RBA,=,6.0,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4ncncc4)CC3)C)C(C2)O)C[C@H]([C@@]1(C(=O)CO)O)C)C,gcr
+633,CHEMBL358909,P06536,RBA,=,78.0,Unspecified,n1(c2c(CC3(C(=C2)CCC2C4C([C@]([C@@H](C4)C)(C(=O)CO)O)(CC(C32)O)C)C)cn1)c1c(Cl)ccnc1,gcr
+634,CHEMBL360248,P06536,Activation time,=,92.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(C(F)(F)F)cc1)O)C)c1ccc(cc1)F,gcr
+635,CHEMBL360248,P06536,EC50,=,31.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(C(F)(F)F)cc1)O)C)c1ccc(cc1)F,gcr
+636,CHEMBL360248,P06536,IC50,=,14.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(C(F)(F)F)cc1)O)C)c1ccc(cc1)F,gcr
+637,CHEMBL360248,P06536,EC50,=,24.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(C(F)(F)F)cc1)O)C)c1ccc(cc1)F,gcr
+638,CHEMBL360248,P06536,EC50,=,31.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(C(F)(F)F)cc1)O)C)c1ccc(cc1)F,gcr
+639,CHEMBL360248,P06536,Repression,=,50.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(C(F)(F)F)cc1)O)C)c1ccc(cc1)F,gcr
+640,CHEMBL360248,P06536,Repression,=,73.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(C(F)(F)F)cc1)O)C)c1ccc(cc1)F,gcr
+641,CHEMBL3605919,P06536,IC50,=,10.6,nM,c1(cc(c2c(c1)c(c([nH]2)CN(Cc1ccccc1)C)c1c(cc(cc1)F)OC)NS(=O)(=O)C)C(C)C,gcr
+642,CHEMBL3605926,P06536,IC50,=,14.4,nM,c1(cc(c2c(c1)c(c([nH]2)CN(Cc1ccccc1)C)c1c(cc(cc1)F)OC)NS(=O)(=O)C)C(C)(C)C,gcr
+643,CHEMBL3605927,P06536,IC50,=,292.0,nM,c1(cc(c2c(c1)c(c([nH]2)Cc1ccccc1)c1c(cc(cc1)F)OC)NS(=O)(=O)C)C(C)C,gcr
+644,CHEMBL3605929,P06536,IC50,=,63.4,nM,c1(cc(c2c(c1)c(c([nH]2)C)c1ccc(cc1OC)F)NS(=O)(=O)C)F,gcr
+645,CHEMBL3605930,P06536,IC50,=,1250.0,nM,c1cc(c2c(c1)c(c[nH]2)c1cc(ccc1OC)Cl)NS(=O)(=O)C,gcr
+646,CHEMBL3605932,P06536,IC50,=,76.0,nM,c1cc(c2c(c1)c(c[nH]2)c1cc(ccc1)Cl)NS(=O)(=O)C,gcr
+647,CHEMBL3605933,P06536,IC50,=,1180.0,nM,c1cc(c2c(c1)c(c[nH]2)c1c(cccc1)OC)NS(=O)(=O)C,gcr
+648,CHEMBL361406,P06536,IC50,=,220.0,nM,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(C[C@H](CC(=O)O)O)C)cc2)([C@](C#CC)(CC1)O)C,gcr
+649,CHEMBL3622346,P06536,Inhibition,=,14.0,%,O=S1(=O)N=C(NC[C@]2(CC[C@H](CC2)O)c2ccccc2)c2c1cccc2OC,gcr
+650,CHEMBL3622360,P06536,Inhibition,=,17.0,%,O=S1(=O)N=C(NC[C@]2(CC[C@H](CC2)NC(=O)OC(C)C)c2ccccc2)c2c1cccc2OC,gcr
+651,CHEMBL362392,P06536,Activation time,=,130.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(Cc1ccccc1)O)C)c1ccc(cc1)F,gcr
+652,CHEMBL362392,P06536,EC50,=,9.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(Cc1ccccc1)O)C)c1ccc(cc1)F,gcr
+653,CHEMBL362392,P06536,IC50,=,5.5,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(Cc1ccccc1)O)C)c1ccc(cc1)F,gcr
+654,CHEMBL362392,P06536,EC50,=,11.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(Cc1ccccc1)O)C)c1ccc(cc1)F,gcr
+655,CHEMBL362392,P06536,EC50,=,17.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(Cc1ccccc1)O)C)c1ccc(cc1)F,gcr
+656,CHEMBL362392,P06536,Repression,=,75.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(Cc1ccccc1)O)C)c1ccc(cc1)F,gcr
+657,CHEMBL362392,P06536,Repression,=,77.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(Cc1ccccc1)O)C)c1ccc(cc1)F,gcr
+658,CHEMBL362556,P06536,Activation time,=,134.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+659,CHEMBL362556,P06536,EC50,=,9.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+660,CHEMBL362556,P06536,IC50,=,7.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+661,CHEMBL362556,P06536,EC50,=,4.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+662,CHEMBL362556,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+663,CHEMBL362556,P06536,Repression,=,68.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+664,CHEMBL362556,P06536,Repression,=,80.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1ccc(cc1)Cl)O)C)c1ccc(cc1)F,gcr
+665,CHEMBL362914,P06537,EC50,=,12.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1cnc(cc1)F)O)C)c1ccc(cc1)F,gcr
+666,CHEMBL362914,P06537,EC50,=,260.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1cnc(cc1)F)O)C)c1ccc(cc1)F,gcr
+667,CHEMBL363151,P06536,IC50,=,2.4,nM,[C@]12(C3=CC[C@]4([C@H]([C@@H]3CCC1=CC(=O)CC2)CC[C@]4(C#CC)O)C)Cc1ccc(cc1)C,gcr
+668,CHEMBL363151,P06536,Activity,=,7.3,uM,[C@]12(C3=CC[C@]4([C@H]([C@@H]3CCC1=CC(=O)CC2)CC[C@]4(C#CC)O)C)Cc1ccc(cc1)C,gcr
+669,CHEMBL363179,P06537,Inhibition,=,78.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+670,CHEMBL363179,P06537,Inhibition,=,110.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+671,CHEMBL363179,P06537,EC50,=,54.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+672,CHEMBL363760,P06536,Activation time,=,112.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+673,CHEMBL363760,P06536,EC50,=,20.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+674,CHEMBL363760,P06536,IC50,=,1.8,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+675,CHEMBL363760,P06536,EC50,=,22.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+676,CHEMBL363760,P06536,EC50,=,1.8,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+677,CHEMBL363760,P06536,Repression,=,67.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+678,CHEMBL363760,P06536,Repression,=,71.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+679,CHEMBL364015,P06537,Inhibition,=,57.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1cnc(cc1)F)O)C)c1ccc(cc1)F,gcr
+680,CHEMBL364015,P06537,Inhibition,=,80.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1cnc(cc1)F)O)C)c1ccc(cc1)F,gcr
+681,CHEMBL364015,P06537,EC50,=,5.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1cnc(cc1)F)O)C)c1ccc(cc1)F,gcr
+682,CHEMBL364015,P06537,EC50,=,23.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1cnc(cc1)F)O)C)c1ccc(cc1)F,gcr
+683,CHEMBL365818,P06537,EC50,=,215.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1ccncc1)O)C)c1ccc(cc1)F,gcr
+684,CHEMBL366093,P06536,Activation time,=,108.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(OC)ccc1)O)C)c1ccc(cc1)F,gcr
+685,CHEMBL366093,P06536,EC50,=,4.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(OC)ccc1)O)C)c1ccc(cc1)F,gcr
+686,CHEMBL366093,P06536,IC50,=,2.3,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(OC)ccc1)O)C)c1ccc(cc1)F,gcr
+687,CHEMBL366093,P06536,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(OC)ccc1)O)C)c1ccc(cc1)F,gcr
+688,CHEMBL366093,P06536,EC50,=,19.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(OC)ccc1)O)C)c1ccc(cc1)F,gcr
+689,CHEMBL366093,P06536,Repression,=,56.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(OC)ccc1)O)C)c1ccc(cc1)F,gcr
+690,CHEMBL366093,P06536,Repression,=,75.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1C(c1cc(OC)ccc1)O)C)c1ccc(cc1)F,gcr
+691,CHEMBL371376,P06537,EC50,=,45.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1cocc1)O)C)c1ccc(cc1)F,gcr
+692,CHEMBL372684,P06537,Inhibition,=,87.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+693,CHEMBL372684,P06537,Inhibition,=,121.0,%,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+694,CHEMBL372684,P06537,EC50,=,11.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+695,CHEMBL372684,P06537,EC50,=,3.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@@H](c1csc2c1cccc2)O)C)c1ccc(cc1)F,gcr
+696,CHEMBL3734774,P06536,Emax,=,51.0,%,C1CN(C[C@@]2(C1=Cc1c(C2)cnn1c1ccc(cc1)F)C(=O)c1ncccc1)S(=O)(=O)c1ccc(cc1)C(F)(F)F,gcr
+697,CHEMBL3734774,P06536,Imax,=,62.0,%,C1CN(C[C@@]2(C1=Cc1c(C2)cnn1c1ccc(cc1)F)C(=O)c1ncccc1)S(=O)(=O)c1ccc(cc1)C(F)(F)F,gcr
+698,CHEMBL3734774,P06536,EC50,=,280.0,nM,C1CN(C[C@@]2(C1=Cc1c(C2)cnn1c1ccc(cc1)F)C(=O)c1ncccc1)S(=O)(=O)c1ccc(cc1)C(F)(F)F,gcr
+699,CHEMBL3734774,P06536,Ki,=,13.0,nM,C1CN(C[C@@]2(C1=Cc1c(C2)cnn1c1ccc(cc1)F)C(=O)c1ncccc1)S(=O)(=O)c1ccc(cc1)C(F)(F)F,gcr
+700,CHEMBL3735203,P06536,Ki,=,150.0,nM,C1CN(C[C@@]2(C1=Cc1c(C2)cnn1c1ccc(cc1)F)C(=O)c1ncccc1)S(=O)(=O)c1ccc(c(c1)Cl)Cl,gcr
+701,CHEMBL3735203,P06536,Efficacy,=,74.0,%,C1CN(C[C@@]2(C1=Cc1c(C2)cnn1c1ccc(cc1)F)C(=O)c1ncccc1)S(=O)(=O)c1ccc(c(c1)Cl)Cl,gcr
+702,CHEMBL3735203,P06536,Ki,=,8.5,nM,C1CN(C[C@@]2(C1=Cc1c(C2)cnn1c1ccc(cc1)F)C(=O)c1ncccc1)S(=O)(=O)c1ccc(c(c1)Cl)Cl,gcr
+703,CHEMBL3774855,P06537,EC50,>,20000.0,nM,N1(C[C@@H]([C@H](C1)c1nnc(n1C1CC1)[C@H]1C[C@H](C1)CC(C)C)C(=O)Nc1c(cc(cc1)C)C)C(=O)C,gcr
+704,CHEMBL384467,P06536,IC50,=,22.0,nM,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+705,CHEMBL384467,P06536,IC50,=,22.0,nM,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+706,CHEMBL384467,P06536,Activity,=,66.0,%,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+707,CHEMBL384467,P06536,RBA,=,100.0,Unspecified,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+708,CHEMBL384467,P06536,RBA,=,100.0,Unspecified,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+709,CHEMBL384467,P06536,Relative activity,=,100.0,%,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+710,CHEMBL384467,P06536,Specific activity,=,26.0,Ci mM-1,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+711,CHEMBL384467,P06536,RBA,=,100.0,Unspecified,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+712,CHEMBL384467,P06536,RBA,=,100.0,Unspecified,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+713,CHEMBL384467,P06536,RBA,=,100.0,Unspecified,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+714,CHEMBL384467,P06536,RBA,=,100.0,Unspecified,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+715,CHEMBL384467,P06536,RBA,=,100.0,Unspecified,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+716,CHEMBL384467,P06536,Binding,=,100.0,%,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+717,CHEMBL384467,P06536,RBA,=,57.0,%,C1=CC(=O)C=C2CC[C@@H]3[C@@]([C@@]12C)([C@H](C[C@]1([C@H]3C[C@H]([C@@]1(C(=O)CO)O)C)C)O)F,gcr
+718,CHEMBL384977,P06536,Inhibition,=,3.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCO[C@@H]3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)NCCS(=O)(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)cc2)([C@](C#CC)(CC1)O)C,gcr
+719,CHEMBL386630,P06536,RBA,=,0.4,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+720,CHEMBL386630,P06536,Relative activity,=,8.0,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+721,CHEMBL386630,P06536,RBA,=,0.9,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+722,CHEMBL386630,P06536,RBA,=,0.2,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+723,CHEMBL386630,P06536,RBA,<,0.1,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+724,CHEMBL386630,P06536,RBA,=,0.8,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+725,CHEMBL386630,P06536,RBA,=,0.3,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+726,CHEMBL386630,P06536,Binding,<,0.001,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)CC[C@]1([C@H]3CC[C@@H]1O)C,gcr
+727,CHEMBL389621,P06536,RBA,=,13.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+728,CHEMBL389621,P06536,ED50,=,18.0,mg.kg-1,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+729,CHEMBL389621,P06536,Relative activity,=,66.0,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+730,CHEMBL389621,P06536,RBA,=,31.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+731,CHEMBL389621,P06536,RBA,=,41.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+732,CHEMBL389621,P06536,RBA,=,5.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+733,CHEMBL389621,P06536,RBA,=,32.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+734,CHEMBL389621,P06536,RBA,=,15.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+735,CHEMBL389621,P06536,RBA,=,9.6,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+736,CHEMBL389621,P06536,Relative binding affinity,=,1.0,Unspecified,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+737,CHEMBL389621,P06537,Activity,=,85.0,%,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+738,CHEMBL389621,P06537,Kd,=,43.0,nM,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+739,CHEMBL389621,P06537,T1/2,=,1.0,hr,C1CC(=O)C=C2CC[C@@H]3[C@@H]([C@@]12C)[C@H](C[C@]1([C@H]3CC[C@@]1(C(=O)CO)O)C)O,gcr
+740,CHEMBL406027,P06536,Inhibition,=,9.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCCS(=O)(=O)N(C3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+741,CHEMBL406064,P06536,Inhibition,=,38.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCOC3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)CC4)(CC3)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+742,CHEMBL408376,P06536,Inhibition,=,20.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCCC(=O)N(C3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+743,CHEMBL409,P06536,IC50,=,320000.0,nM,S(=O)(=O)(CC(C(=O)Nc1cc(C(F)(F)F)c(C#N)cc1)(O)C)c1ccc(cc1)F,gcr
+744,CHEMBL409,P06536,IC50,=,320000.0,nM,S(=O)(=O)(CC(C(=O)Nc1cc(C(F)(F)F)c(C#N)cc1)(O)C)c1ccc(cc1)F,gcr
+745,CHEMBL409123,P06536,Inhibition,=,5.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCC[C@@]3(C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)O)C)cc2)([C@](C#C)(CC1)O)C,gcr
+746,CHEMBL414449,P06536,Reduction,=,37.0,%,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)CC5)[C@H](C4)F)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)S[C@H]1C(=O)OCC1,gcr
+747,CHEMBL415621,P06536,Inhibition,=,43.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCCOC3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+748,CHEMBL416383,P06536,RBA,<,0.1,Unspecified,[C@]12([C@]([Se]c3ccccc3)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)CC3)CC1)C)CC2)C(=O)C)C,gcr
+749,CHEMBL417252,P06536,RBA,=,7.2,Unspecified,[C@]12([C@@]3(C(C4C([C@@]5(C(=CC(=O)CC5)CC4)C)CC3)C[C@H]2OC(O1)(c1ccc(N=[N+]=[N-])cc1)C)C)C(=O)C,gcr
+750,CHEMBL419190,P06536,RBA,=,2.6,%,C12(C(=O)N(C(=O)N(C1=O)C(C)C)C(C)C)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+751,CHEMBL419754,P06536,Change,=,-34.0,%,C12(C(=O)N(C(=O)N(C1=O)CC)CC)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+752,CHEMBL419754,P06536,Change,=,-34.0,%,C12(C(=O)N(C(=O)N(C1=O)CC)CC)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+753,CHEMBL419754,P06536,Change,=,-45.0,%,C12(C(=O)N(C(=O)N(C1=O)CC)CC)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+754,CHEMBL419754,P06536,RBA,=,118.0,%,C12(C(=O)N(C(=O)N(C1=O)CC)CC)O[C@@H]1C(=CC2)[C@@]2(C(=Cc3n(ncc3C2)c2ccc(cc2)F)CC1)C,gcr
+755,CHEMBL422857,P06536,RBA,=,86.0,Unspecified,C12(C(C3C(C4(C(=Cc5n(ncc5C4)c4ccncc4)CC3)C)C(C2)O)C[C@H]([C@@]1(C(=O)CO)O)C)C,gcr
+756,CHEMBL423616,P06536,Relative binding affinity,=,0.76,Unspecified,C12([C@@](C(=O)COC(=O)C)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)CCCC)C,gcr
+757,CHEMBL427568,P06536,Inhibition,=,86.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCOC3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+758,CHEMBL427568,P06536,Inhibition,=,46.0,%,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCOC3C[C@@H]4[C@@]([C@@H]5[C@H]([C@H]6[C@]([C@H](C5)O)([C@H](CC6)[C@@H](CCC(=O)O)C)C)[C@@H](C4)O)(CC3)C)C)cc2)([C@](C#C)(CC1)O)C,gcr
+759,CHEMBL428680,P06536,RBA,=,40.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)COC(=O)C)C)C,gcr
+760,CHEMBL428680,P06536,Relative activity,=,110.0,%,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)COC(=O)C)C)C,gcr
+761,CHEMBL428680,P06536,RBA,=,140.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)COC(=O)C)C)C,gcr
+762,CHEMBL428680,P06536,RBA,=,8.4,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)COC(=O)C)C)C,gcr
+763,CHEMBL428680,P06536,RBA,=,24.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)COC(=O)C)C)C,gcr
+764,CHEMBL428680,P06536,RBA,=,85.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)COC(=O)C)C)C,gcr
+765,CHEMBL428680,P06536,RBA,=,95.0,Unspecified,C12(C(C3[C@@](C4(C(=CC(=O)C=C4)CC3)C)(C(C2)Cl)Cl)C[C@H](C1C(=O)COC(=O)C)C)C,gcr
+766,CHEMBL432613,P06536,RBA,=,0.02,%,C12(C(=O)c3c(C1=O)cccc3)O[C@@H]1C(=CC2)[C@@]2(C(=CC(=O)C=C2)CC1)C,gcr
+767,CHEMBL433586,P06536,Activation time,=,100.0,%,[C@@]12([C@H](C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)O)O)C)C,gcr
+768,CHEMBL433586,P06536,EC50,=,0.2,nM,[C@@]12([C@H](C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)O)O)C)C,gcr
+769,CHEMBL433586,P06536,IC50,=,1.4,nM,[C@@]12([C@H](C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)O)O)C)C,gcr
+770,CHEMBL433586,P06536,EC50,=,0.3,nM,[C@@]12([C@H](C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)O)O)C)C,gcr
+771,CHEMBL433586,P06536,EC50,=,0.2,nM,[C@@]12([C@H](C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)O)O)C)C,gcr
+772,CHEMBL433586,P06536,Repression,=,100.0,%,[C@@]12([C@H](C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)O)O)C)C,gcr
+773,CHEMBL433586,P06536,Repression,=,100.0,%,[C@@]12([C@H](C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)O)O)C)C,gcr
+774,CHEMBL435433,P06536,RBA,=,166.0,Unspecified,n1(c2c(CC3(C(=C2)CCC2C4C([C@]([C@@H](C4)C)(C(=O)CO)O)(CC(C32)O)C)C)cn1)C1=CC=CNC1Cl,gcr
+775,CHEMBL435878,P06536,IC50,=,22.0,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1OC(O2)(C)C)C)Sc1ncccc1,gcr
+776,CHEMBL436070,P06536,IC50,=,3.2,nM,[C@@]12([C@@]3(C(C4[C@@]([C@@]5(C(=CC(=O)C=C5)CC4)C)([C@H](C3)O)F)C[C@H]1O[C@H](O2)CCC)C)[S+]([O-])C,gcr
+777,CHEMBL440454,P06536,Efficacy,=,98.0,%,c12c(c3c(OC2CC=C)cccc3NC)ccc2c1C(=CC(N2)(C)C)C,gcr
+778,CHEMBL440454,P06536,EC50,=,48.0,nM,c12c(c3c(OC2CC=C)cccc3NC)ccc2c1C(=CC(N2)(C)C)C,gcr
+779,CHEMBL441339,P06536,RBA,=,40.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#C)(CC1)O)C,gcr
+780,CHEMBL441339,P06536,Relative activity,=,3.0,%,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#C)(CC1)O)C,gcr
+781,CHEMBL441339,P06536,RBA,=,66.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#C)(CC1)O)C,gcr
+782,CHEMBL441339,P06536,RBA,=,84.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#C)(CC1)O)C,gcr
+783,CHEMBL441339,P06536,RBA,=,54.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#C)(CC1)O)C,gcr
+784,CHEMBL441339,P06536,RBA,=,118.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#C)(CC1)O)C,gcr
+785,CHEMBL441339,P06536,RBA,=,59.0,Unspecified,C12=C3C(=CC(=O)CC3)CCC1C1C(CC2c2ccc(cc2)F)([C@](C#C)(CC1)O)C,gcr
+786,CHEMBL48439,P06536,Inhibition,=,34.1,%,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+787,CHEMBL48439,P06536,Inhibition,=,37.0,%,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+788,CHEMBL48439,P06536,Inhibition,=,43.8,%,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+789,CHEMBL48439,P06536,Inhibition,=,56.6,%,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+790,CHEMBL48439,P06536,Relative affinity,=,0.31,Unspecified,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+791,CHEMBL48439,P06536,Relative affinity,=,0.028,Unspecified,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+792,CHEMBL48439,P06536,Inhibition,=,60.5,%,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+793,CHEMBL48439,P06536,Inhibition,=,45.7,%,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+794,CHEMBL48439,P06536,Inhibition,=,63.2,%,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)CSCCN=C=S)O)C)C,gcr
+795,CHEMBL515032,P06536,Activity,=,24.0,%,[C@]12(CCC(C(=O)O1)(C)C)[C@]1(CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC2)O)C,gcr
+796,CHEMBL52148,P06536,Relative affinity,=,0.0087,Unspecified,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)COC(=O)c1c(C(F)(F)F)cccc1C(F)(F)F)O)C)C,gcr
+797,CHEMBL52148,P06536,Relative affinity,=,0.079,Unspecified,[C@@]12(C(C3[C@@]([C@@]4(C(=CC(=O)C=C4)CC3)C)([C@H](C2)O)F)C[C@H]([C@@]1(C(=O)COC(=O)c1c(C(F)(F)F)cccc1C(F)(F)F)O)C)C,gcr
+798,CHEMBL632,P06536,RBA,=,84.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]([C@@]2(C(=O)CO)O)C)C)O)F)C,gcr
+799,CHEMBL632,P06536,Relative activity,=,106.0,%,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]([C@@]2(C(=O)CO)O)C)C)O)F)C,gcr
+800,CHEMBL632,P06536,RBA,=,92.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]([C@@]2(C(=O)CO)O)C)C)O)F)C,gcr
+801,CHEMBL632,P06536,RBA,=,92.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]([C@@]2(C(=O)CO)O)C)C)O)F)C,gcr
+802,CHEMBL632,P06536,RBA,=,77.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]([C@@]2(C(=O)CO)O)C)C)O)F)C,gcr
+803,CHEMBL632,P06536,RBA,=,99.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]([C@@]2(C(=O)CO)O)C)C)O)F)C,gcr
+804,CHEMBL632,P06536,RBA,=,80.0,Unspecified,C1=C[C@]2(C(=CC1=O)CC[C@@H]1[C@@]2([C@H](C[C@]2([C@H]1C[C@@H]([C@@]2(C(=O)CO)O)C)C)O)F)C,gcr
+805,CHEMBL650,P06536,Weight gain,=,-45.0,Unspecified,[C@@]12(C(=CC(=O)C=C2)[C@H](C[C@@H]2[C@@H]1[C@H](C[C@@]1([C@@](C(=O)CO)(CC[C@@H]21)O)C)O)C)C,gcr
+806,CHEMBL650,P06536,ED50,=,2.0,mg.kg-1,[C@@]12(C(=CC(=O)C=C2)[C@H](C[C@@H]2[C@@H]1[C@H](C[C@@]1([C@@](C(=O)CO)(CC[C@@H]21)O)C)O)C)C,gcr
+807,CHEMBL650,P06536,Weight gain,=,-79.0,Unspecified,[C@@]12(C(=CC(=O)C=C2)[C@H](C[C@@H]2[C@@H]1[C@H](C[C@@]1([C@@](C(=O)CO)(CC[C@@H]21)O)C)O)C)C,gcr
+808,CHEMBL650,P06536,Change,=,-40.0,%,[C@@]12(C(=CC(=O)C=C2)[C@H](C[C@@H]2[C@@H]1[C@H](C[C@@]1([C@@](C(=O)CO)(CC[C@@H]21)O)C)O)C)C,gcr
+809,CHEMBL650,P06536,Change,=,-42.0,%,[C@@]12(C(=CC(=O)C=C2)[C@H](C[C@@H]2[C@@H]1[C@H](C[C@@]1([C@@](C(=O)CO)(CC[C@@H]21)O)C)O)C)C,gcr
+810,CHEMBL650,P06536,Change,=,-70.0,%,[C@@]12(C(=CC(=O)C=C2)[C@H](C[C@@H]2[C@@H]1[C@H](C[C@@]1([C@@](C(=O)CO)(CC[C@@H]21)O)C)O)C)C,gcr
+811,CHEMBL650,P06536,RBA,=,99.0,%,[C@@]12(C(=CC(=O)C=C2)[C@H](C[C@@H]2[C@@H]1[C@H](C[C@@]1([C@@](C(=O)CO)(CC[C@@H]21)O)C)O)C)C,gcr
+812,CHEMBL67128,P06536,Relative binding affinity,=,11.5,Unspecified,C12([C@@](C(=O)CO)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)CCCC)C,gcr
+813,CHEMBL67506,P06536,Relative binding affinity,=,1.14,Unspecified,C12([C@@](C(=O)CO)(CCC1C1C(C3(C(=CC(=O)CC3)CC1)C)C(C2)O)OC(=O)C)C,gcr
+814,CHEMBL72866,P06536,ED50,=,10.0,mg.kg-1,C12=C3C(=CC(=O)CC3)CCC1C1[C@@]([C@](C#Cc3ccc(N(C)C)cc3)(CC1)O)(C[C@@H]2c1ccc(N(C)C)cc1)C,gcr
+815,CHEMBL78124,P06536,IC50,=,2800.0,nM,C12=C3C(=CC(=O)CC3)CC[C@H]1[C@H]1[C@](C[C@@H]2c2ccc(N(CCCC3OC(C(C(C3O)O)O)C(=O)O)C)cc2)([C@](C#CC)(CC1)O)C,gcr
+816,CHEMBL79807,P06537,EC50,=,22.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](c1ccc(cc1)F)O)C)c1ccc(cc1)F,gcr
+817,CHEMBL8007,P06536,Efficacy,=,37.0,%,c12c(c3c(OC2CC=C)cccc3Cl)ccc2c1C(=CC(N2)(C)C)C,gcr
+818,CHEMBL8007,P06536,EC50,>,1000.0,nM,c12c(c3c(OC2CC=C)cccc3Cl)ccc2c1C(=CC(N2)(C)C)C,gcr
+819,CHEMBL81387,P06536,IC50,=,9.68,nM,C12([C@]([C@H](CC1C1[C@@](C3(C(=CC(=O)C=C3)CC1)C)([C@H](C2)O)F)C)(C(=O)CCl)OC(=O)CCCC(=O)OCC)C,gcr
+820,CHEMBL8140,P06536,Efficacy,=,105.0,%,c12c(c3c(OC2CC=C)ccc(c3OC)O)ccc2c1C(=CC(N2)(C)C)C,gcr
+821,CHEMBL8140,P06536,EC50,=,78.0,nM,c12c(c3c(OC2CC=C)ccc(c3OC)O)ccc2c1C(=CC(N2)(C)C)C,gcr
+822,CHEMBL82546,P06537,EC50,=,3.7,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](Cc1ccc(F)cc1)O)C)c1ccc(cc1)F,gcr
+823,CHEMBL82546,P06537,EC50,=,17.0,nM,c12n(ncc1C[C@]1(C(=C2)CCC[C@@H]1[C@H](Cc1ccc(F)cc1)O)C)c1ccc(cc1)F,gcr
+824,CHEMBL83845,P06536,IC50,=,10.8,nM,C12([C@]([C@H](CC1C1[C@@](C3(C(=CC(=O)C=C3)CC1)C)([C@H](C2)O)F)C)(C(=O)CCl)OC(=O)CCC(=O)OC(C)(C)C)C,gcr
+825,CHEMBL97206,P06536,ED50,=,2.8,mg.kg-1,c12C(Oc3c(c1ccc1c2C(=CC(N1)(C)C)C)c(OC)ccc3)c1cc(OCSC)ccc1,gcr
+826,CHEMBL977,P06537,Kd,=,190.0,nM,[C@]12([C@@](C(=O)COC(=O)CCC(=O)O)(CC[C@H]1[C@H]1[C@@H]([C@@]3(C(=CC(=O)CC3)CC1)C)[C@H](C2)O)O)C,gcr

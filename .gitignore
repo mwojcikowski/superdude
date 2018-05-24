@@ -105,6 +105,3 @@ venv.bak/
 
 # chembl temp sqlite
 .chembl_ws_client__*
-
-# data files
-data_dude_*.csv
