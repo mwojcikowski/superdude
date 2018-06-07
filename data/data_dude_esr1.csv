@@ -1101,7 +1101,7 @@
 1099,CHEMBL132919,P03372,RBA,=,0.48,%,C(C(C#C)c1ccc(cc1)O)(C#C)c1ccc(cc1)O,esr1
 1100,CHEMBL132919,P03372,EC50,=,73.0,nM,C(C(C#C)c1ccc(cc1)O)(C#C)c1ccc(cc1)O,esr1
 1101,CHEMBL1329411,P03372,IC50,>,50000.0,nM,o1c(c(c(c1N)C#N)c1cc2OCOc2cc1)c1cc2OCOc2cc1,esr1
-1102,CHEMBL1329455,P03372,IC50,=,24673.94,nM,o1n[n+](N2CCOCC2)cc1[N-]C(=O)OCC,esr1
+1102,CHEMBL1329455,P03372,IC50,=,24673.94,nM,[n+]1(N2CCOCC2)cc(on1)[N-]C(=O)OCC,esr1
 1103,CHEMBL1329686,P03372,IC50,=,34005.5,nM,s1c(SCC(=O)N2c3c(CC2C)cccc3)nnc1NC(=O)Cc1sccc1,esr1
 1104,CHEMBL1330161,P03372,IC50,=,3548.86,nM,S1C2=C(C(c3oc(cc3)C)CC(=O)N2CN(C1)c1cc(ccc1)C)C#N,esr1
 1105,CHEMBL1330656,P03372,IC50,>,50000.0,nM,Clc1c(c2oc3c(n2)nccc3)cc(NC(=O)COc2ccccc2)cc1,esr1
@@ -1557,7 +1557,7 @@
 1555,CHEMBL137392,P03372,ED50,>,100.0,uM,S(=O)(=O)(Oc1cc2c(=O)cc(oc2cc1)C(C)(C)C)N,esr1
 1556,CHEMBL1374101,P03372,Potency,Unspecified,44668.4,nM,,esr1
 1557,CHEMBL1374101,P03372,Potency,Unspecified,7079.5,nM,,esr1
-1558,CHEMBL1374360,P03372,Potency,Unspecified,2511.9,nM,[Hg](Cl)Cl,esr1
+1558,CHEMBL1374360,P03372,Potency,Unspecified,2511.9,nM,,esr1
 1559,CHEMBL1374573,P03372,IC50,=,30130.16,nM,s1c2nc(SCC(=O)NCC3OCCC3)n(c(=O)c2c(c2occc2)c1)c1ccccc1,esr1
 1560,CHEMBL13750,P06211,Activity,=,31.0,%,C(c1ccc(cc1)OC)(Cc1ccc(cc1)O)SCCCCCCCCCCCO,esr1
 1561,CHEMBL13750,P06211,RBA,=,0.02,%,C(c1ccc(cc1)OC)(Cc1ccc(cc1)O)SCCCCCCCCCCCO,esr1
@@ -4301,7 +4301,7 @@
 4299,CHEMBL1893263,P03372,Potency,Unspecified,25118.9,nM,ClC(Cl)(SN1C(=O)C2C(C1=O)CC=CC2)C(Cl)Cl,esr1
 4300,CHEMBL189356,P03372,IC50,=,98.0,nM,c1(cc(c2c(c1)nc(o2)c1c(cc(cc1)O)F)CC=C)O,esr1
 4301,CHEMBL1893653,P03372,Potency,Unspecified,4.0,nM,Clc1c(c2ncc(Cl)cc2cc1)C(=O)O,esr1
-4302,CHEMBL1894187,P03372,Potency,Unspecified,1995.3,nM,O1[C@@H]([C@H](O)[C@@H](O)C1)[C@H](O)COC(=O)CCCCCCC/C=C\CCCCCCCC,esr1
+4302,CHEMBL1894187,P03372,Potency,Unspecified,1995.3,nM,O1C[C@@H]([C@H]([C@H]1[C@H](O)COC(=O)CCCCCCC/C=C\CCCCCCCC)O)O,esr1
 4303,CHEMBL1894365,P03372,Potency,Unspecified,22387.2,nM,O(C(=O)CCCCCCCCCCC)C,esr1
 4304,CHEMBL1894365,P03372,Potency,Unspecified,35481.3,nM,O(C(=O)CCCCCCCCCCC)C,esr1
 4305,CHEMBL1894707,P03372,Potency,Unspecified,2238.7,nM,Clc1cc(C2=C(OC(=O)C(CC)(C)C)C3(OC2=O)CCCCC3)cc(Cl)c1,esr1
@@ -7277,7 +7277,7 @@
 7275,CHEMBL3143956,P19785,Ka,=,700000.0,M-1,C(C(c1ccc(cc1)O)NCCCC)(c1ccc(cc1)O)NCCCC.Cl.Cl,esr1
 7276,CHEMBL3143956,P19785,Ka,=,21000000.0,M-1,C(C(c1ccc(cc1)O)NCCCC)(c1ccc(cc1)O)NCCCC.Cl.Cl,esr1
 7277,CHEMBL3143956,P19785,Ka,=,3600000.0,M-1,C(C(c1ccc(cc1)O)NCCCC)(c1ccc(cc1)O)NCCCC.Cl.Cl,esr1
-7278,CHEMBL3145004,P03372,IC50,=,11020.03,nM,S=C(n1[nH]c(c(N=Nc2ccc(O)cc2)c1=O)c1ccc(N(=O)=O)cc1)N,esr1
+7278,CHEMBL3145004,P03372,IC50,=,11020.03,nM,,esr1
 7279,CHEMBL314561,P03372,Ki,=,32.0,nM,c1(c(c(c(o1)c1ccc(cc1)O)C)c1ccc(cc1)OCCN1CCCCC1)c1ccc(cc1)O,esr1
 7280,CHEMBL315041,P06211,RBA,=,6.0,Unspecified,C(=C(\c1ccccc1)/CC)(\c1ccc(cc1)OCCN(C)C)/c1ccc(C#C)cc1,esr1
 7281,CHEMBL315153,P19785,Estrogenic effect,=,141.0,%,,esr1
@@ -8468,9 +8468,9 @@
 8466,CHEMBL3581691,P03372,EC50,=,1.0,nM,c1cc(cc2c1[nH]nc2)/C(=C(/c1ccc(cc1C)C#N)\CC)/c1ccc(cc1)/C=C/C(=O)O,esr1
 8467,CHEMBL3581692,P03372,Efficacy,=,92.0,%,c1cc(cc2c1[nH]nc2)/C(=C(/c1ccc(cc1Cl)C#N)\CC)/c1ccc(cc1)/C=C/C(=O)O,esr1
 8468,CHEMBL3581692,P03372,EC50,=,0.9,nM,c1cc(cc2c1[nH]nc2)/C(=C(/c1ccc(cc1Cl)C#N)\CC)/c1ccc(cc1)/C=C/C(=O)O,esr1
-8469,CHEMBL3581693,P03372,IC50,=,6.1,nM,c1cc(cc2c1[nH]nc2)/C(=C(/c1ccc(cc1Cl)F)\CC)/c1ccc(cc1)/C=C/C(=O)O,esr1
-8470,CHEMBL3581693,P03372,Efficacy,=,91.0,%,c1cc(cc2c1[nH]nc2)/C(=C(/c1ccc(cc1Cl)F)\CC)/c1ccc(cc1)/C=C/C(=O)O,esr1
-8471,CHEMBL3581693,P03372,EC50,=,0.7,nM,c1cc(cc2c1[nH]nc2)/C(=C(/c1ccc(cc1Cl)F)\CC)/c1ccc(cc1)/C=C/C(=O)O,esr1
+8469,CHEMBL3581693,P03372,IC50,=,6.1,nM,c1(cc(c(cc1)/C(=C(\c1ccc(cc1)/C=C/C(=O)O)/c1cc2c(cc1)[nH]nc2)/CC)Cl)F,esr1
+8470,CHEMBL3581693,P03372,Efficacy,=,91.0,%,c1(cc(c(cc1)/C(=C(\c1ccc(cc1)/C=C/C(=O)O)/c1cc2c(cc1)[nH]nc2)/CC)Cl)F,esr1
+8471,CHEMBL3581693,P03372,EC50,=,0.7,nM,c1(cc(c(cc1)/C(=C(\c1ccc(cc1)/C=C/C(=O)O)/c1cc2c(cc1)[nH]nc2)/CC)Cl)F,esr1
 8472,CHEMBL358468,P03372,Ki,>,10000.0,nM,c1(nc(nc(n1)NCCCc1ccccc1)NC1Cc2c(CC1)ccc(c2)O)N1CCN(CC1)C,esr1
 8473,CHEMBL358544,P03372,ED50,=,26.0,uM,c12c(=O)cc(oc1ccc(c2)O)CCc1ccccc1,esr1
 8474,CHEMBL3586190,P03372,RBA,=,0.3,%,N(CCOc1ccc(/C(=C(\c2ccccc2)/CC)/c2ccc(O)cc2)cc1)CCCCCCCC,esr1
@@ -8997,7 +8997,7 @@
 8995,CHEMBL3657176,P03372,IC50,=,450.0,nM,Cc1c(c2ccccc2)n(Cc2ccc(OCCN3CCCCC3)cc2)c2ccccc12,esr1
 8996,CHEMBL3657177,P03372,IC50,=,60.0,nM,CN(C)CCOc1ccc(Cn2c(c(C)c3cc(O)ccc23)c2ccc(O)cc2)cc1,esr1
 8997,CHEMBL3657178,P03372,IC50,=,40.0,nM,CCN(CC)CCOc1ccc(Cn2c(c(C)c3cc(O)ccc23)c2ccc(O)cc2)cc1,esr1
-8998,CHEMBL3657179,P03372,IC50,=,100.0,nM,Cc1c(c2ccc(O)cc2)n(Cc2ccc(OCC[N+](C)(C)C)cc2)c2ccc(O)cc12.[I-],esr1
+8998,CHEMBL3657179,P03372,IC50,=,100.0,nM,,esr1
 8999,CHEMBL3657180,P03372,IC50,=,70.0,nM,C[C@H]1CCC[C@@H](C)N1CCOc1ccc(Cn2c(c(C)c3cc(O)ccc23)c2ccc(O)cc2)cc1,esr1
 9000,CHEMBL3657181,P03372,IC50,=,1.0,nM,Cc1c(c2ccc(O)cc2)n(Cc2ccc(OCCN3CC4CCC3C4)cc2)c2ccc(O)cc12,esr1
 9001,CHEMBL3657182,P03372,IC50,=,150.0,nM,Cc1c(c2ccc(O)cc2)n(Cc2ccc(OCCN3CC4(C)CC3C(C)(C)C4)cc2)c2ccc(O)cc12,esr1
@@ -11152,8 +11152,8 @@
 11150,CHEMBL507511,P03372,Activity,=,27.0,%,C=C([C@@H](NC(=O)c1ccc(cc1)C(F)(F)F)c1ccccc1)CCCC,esr1
 11151,CHEMBL507511,P03372,Activity,=,21.0,%,C=C([C@@H](NC(=O)c1ccc(cc1)C(F)(F)F)c1ccccc1)CCCC,esr1
 11152,CHEMBL507511,P03372,Activity,=,-61.0,%,C=C([C@@H](NC(=O)c1ccc(cc1)C(F)(F)F)c1ccccc1)CCCC,esr1
-11153,CHEMBL508338,P03372,Potency,Unspecified,19952.6,nM,c1(C(=O)[O-])c(S[Hg]CC)cccc1.[Na+],esr1
-11154,CHEMBL508338,P03372,Potency,Unspecified,50118.7,nM,c1(C(=O)[O-])c(S[Hg]CC)cccc1.[Na+],esr1
+11153,CHEMBL508338,P03372,Potency,Unspecified,19952.6,nM,,esr1
+11154,CHEMBL508338,P03372,Potency,Unspecified,50118.7,nM,,esr1
 11155,CHEMBL509014,P03372,Activity,=,6.1,%,C(C(=O)CC(=O)CCCc1ccccc1)Cc1ccccc1,esr1
 11156,CHEMBL509051,P03372,Activity,=,0.114,%,c1(c(ccc(c1Cl)c1cc(c(cc1)O)F)/C=N/O)O,esr1
 11157,CHEMBL509051,P03372,EC50,=,19.0,nM,c1(c(ccc(c1Cl)c1cc(c(cc1)O)F)/C=N/O)O,esr1
@@ -11737,11 +11737,11 @@
 11735,CHEMBL65868,P03372,IC50,>,10000.0,nM,c12c(C(Oc3c1c(OC)ccc3)c1ccc(cc1)C)cc(NS(=O)(=O)C)cc2,esr1
 11736,CHEMBL6596,P06211,Binding affinity,=,0.4,Unspecified,C(=C(\c1ccccc1)/CC)(\c1ccc(cc1)OCCCCCCCCCCN(C)C)/c1ccc(cc1)I,esr1
 11737,CHEMBL65996,P06211,RBA,=,7.35,Unspecified,C1(c2c(OCC1c1ccccc1)cc(cc2)OC)c1ccc(cc1)OCCN1CCCC1,esr1
-11738,CHEMBL6615,P03372,RBA,=,277.0,%,C(C(c1ccc(cc1)O)CC)(c1ccc(cc1)O)CC,esr1
-11739,CHEMBL6615,P06211,RBA,=,3.2,Unspecified,C(C(c1ccc(cc1)O)CC)(c1ccc(cc1)O)CC,esr1
-11740,CHEMBL6615,P49884,RBA,=,30.0,Unspecified,C(C(c1ccc(cc1)O)CC)(c1ccc(cc1)O)CC,esr1
-11741,CHEMBL6615,P49884,RBA,=,25.0,Unspecified,C(C(c1ccc(cc1)O)CC)(c1ccc(cc1)O)CC,esr1
-11742,CHEMBL6615,P49884,RBA,=,27.0,Unspecified,C(C(c1ccc(cc1)O)CC)(c1ccc(cc1)O)CC,esr1
+11738,CHEMBL6615,P03372,RBA,=,277.0,%,c1c(ccc(c1)C(CC)C(CC)c1ccc(O)cc1)O,esr1
+11739,CHEMBL6615,P06211,RBA,=,3.2,Unspecified,c1c(ccc(c1)C(CC)C(CC)c1ccc(O)cc1)O,esr1
+11740,CHEMBL6615,P49884,RBA,=,30.0,Unspecified,c1c(ccc(c1)C(CC)C(CC)c1ccc(O)cc1)O,esr1
+11741,CHEMBL6615,P49884,RBA,=,25.0,Unspecified,c1c(ccc(c1)C(CC)C(CC)c1ccc(O)cc1)O,esr1
+11742,CHEMBL6615,P49884,RBA,=,27.0,Unspecified,c1c(ccc(c1)C(CC)C(CC)c1ccc(O)cc1)O,esr1
 11743,CHEMBL6617,P06211,Binding affinity,=,8.0,Unspecified,C(=C(\c1ccccc1)/CC)(\c1ccc(cc1)OCCCCCCN(C)C)/c1ccc(cc1)I,esr1
 11744,CHEMBL6619,P03372,RBA,=,68.0,%,c1cc(ccc1O)C(=C1CCCCC1)c1ccc(cc1)O,esr1
 11745,CHEMBL6619,P03372,RBA,=,68.0,Unspecified,c1cc(ccc1O)C(=C1CCCCC1)c1ccc(cc1)O,esr1

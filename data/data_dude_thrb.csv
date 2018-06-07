@@ -7609,7 +7609,7 @@
 7607,CHEMBL3666822,P00734,Ki,=,575.0,nM,NC(=N)c1ccc(CNC(=O)[C@@H]2Cc3cccc(CNC(=O)Cc4ccccc4CC(=O)NCc4cccc(C[C@@H](NS(=O)(=O)Cc5ccccc5)C(=O)N2)c4)c3)cc1,thrb
 7608,CHEMBL3666823,P00734,Ki,=,100.0,nM,NC(=N)c1ccc(CNC(=O)[C@@H]2Cc3ccc(OC/C=C\COc4ccc(C[C@@H](NS(=O)(=O)Cc5ccccc5)C(=O)N2)cc4)cc3)cc1,thrb
 7609,CHEMBL3666824,P00734,Ki,=,187.0,nM,NC(=N)c1ccc(CNC(=O)[C@@H]2CCCCNC(=O)c3cccc(c3)C(=O)NCCCC[C@@H](NS(=O)(=O)Cc3ccccc3)C(=O)N2)cc1,thrb
-7610,CHEMBL3666825,P00734,Ki,=,8400.0,nM,OC(=O)[C@@H]1Cc2ccc(NC(=O)CN3CCN(CC3)CC(=O)Nc3ccc(C[C@@H](NS(=O)(=O)Cc4ccccc4)C(=O)N1)cc3)cc2,thrb
+7610,CHEMBL3666825,P00734,Ki,=,8400.0,nM,,thrb
 7611,CHEMBL3666826,P00734,Ki,=,219.0,nM,NC(=N)c1ccc(CNC(=O)[C@@H]2Cc3cn(Cc4ccc(Cn5cc(C[C@@H](NS(=O)(=O)Cc6ccccc6)C(=O)N2)nn5)cc4)nn3)cc1,thrb
 7612,CHEMBL366687,P00734,Ki,=,1400.0,nM,c1(nc2c(s1)cccc2)C(=O)[C@@H](NC(=O)[C@H]1N(C(=O)[C@@H](Cc2ccccc2)NC)CCC1)Cc1ccc(C(=N)N)cc1,thrb
 7613,CHEMBL366687,P00734,IC50,Unspecified,1.0,nM,c1(nc2c(s1)cccc2)C(=O)[C@@H](NC(=O)[C@H]1N(C(=O)[C@@H](Cc2ccccc2)NC)CCC1)Cc1ccc(C(=N)N)cc1,thrb

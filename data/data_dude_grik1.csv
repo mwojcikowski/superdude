@@ -686,7 +686,7 @@
 684,CHEMBL365746,P39086,Kb,=,14100.0,nM,N1([C@H]([C@@H](C(=O)O)NCC1)C(=O)O)C(=O)c1cc2c(c3c(CC2)cccc3)cc1,grik1
 685,CHEMBL366489,P22756,IC50,=,97000.0,nM,c1(=O)[nH]c(=O)n(cc1)CC(N)C(=O)O,grik1
 686,CHEMBL366588,P22756,IC50,=,3700.0,nM,c1(c(=O)[nH]c(=O)n(c1)CC(C(=O)O)N)[N+](=O)[O-],grik1
-687,CHEMBL367030,P22756,IC50,=,61000.0,nM,,grik1
+687,CHEMBL367030,P22756,IC50,=,61000.0,nM,N1[C@@H](C[C@H](C1)c1[nH]nnn1)C(=O)O,grik1
 688,CHEMBL370038,P22756,IC50,>,100000.0,nM,c1(c2c(c(no2)O)C[C@@H](C(=O)O)N)nn(nn1)C,grik1
 689,CHEMBL370038,P39086,Ki,=,81.0,nM,c1(c2c(c(no2)O)C[C@@H](C(=O)O)N)nn(nn1)C,grik1
 690,CHEMBL370566,P22756,IC50,>,100000.0,nM,C1(=NO[C@@H](C1)C[C@@H](C(=O)O)N)C(=O)O,grik1
@@ -866,7 +866,7 @@
 864,CHEMBL63927,P39086,Ki,=,430.0,nM,n1(c(=O)c(=O)[nH]c2c1cc(c([N+](=O)[O-])c2)n1cc(cc1)CN(Cc1ccccc1)C)CCC(=O)O,grik1
 865,CHEMBL64073,P22756,IC50,=,65000.0,nM,c1(P(=O)(O)O)c(nc2c(c1)cc(c(c2)F)F)O,grik1
 866,CHEMBL64104,P22756,IC50,=,3000.0,nM,c1(c(nc2c(c1)ccc([N+](=O)[O-])c2)O)c1nn[nH]n1,grik1
-867,CHEMBL64395,P22756,IC50,>,30000.0,nM,c1(c(=O)[nH]c2c(c1)ccc(N(=O)=O)c2)c1cc(n[nH]1)O,grik1
+867,CHEMBL64395,P22756,IC50,>,30000.0,nM,c1(c(=O)[nH]c2c(c1)ccc([N+](=O)[O-])c2)c1cc(n[nH]1)O,grik1
 868,CHEMBL64684,P22756,IC50,=,600.0,nM,c1(c(nc2cc(c([N+](=O)[O-])cc2c1)[N+](=O)[O-])O)c1nn[nH]n1,grik1
 869,CHEMBL64772,P22756,Ki,=,630.0,nM,c1(=O)n(c2c([nH]c1=O)cc([N+](=O)[O-])c(c2)n1cncc1)O,grik1
 870,CHEMBL65005,P22756,IC50,=,10000.0,nM,c1(c(nc2c(c1)ccc([N+](=O)[O-])c2)O)C(=O)NO,grik1

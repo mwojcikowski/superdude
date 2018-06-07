@@ -5500,7 +5500,7 @@
 5498,CHEMBL3143956,O08537,Ka,=,21000000.0,M-1,C(C(c1ccc(cc1)O)NCCCC)(c1ccc(cc1)O)NCCCC.Cl.Cl,esr2
 5499,CHEMBL3143956,O08537,Ka,=,3600000.0,M-1,C(C(c1ccc(cc1)O)NCCCC)(c1ccc(cc1)O)NCCCC.Cl.Cl,esr2
 5500,CHEMBL3144992,Q92731,IC50,>,50000.0,nM,Clc1ccc(Sc2c(=O)n([nH]c2C)c2ccccc2)cc1,esr2
-5501,CHEMBL3145142,Q92731,IC50,>,50000.0,nM,O=c1n([nH]c(N)c1N=Nc1c(N(=O)=O)cccc1)c1ccccc1,esr2
+5501,CHEMBL3145142,Q92731,IC50,>,50000.0,nM,,esr2
 5502,CHEMBL314561,Q92731,Ki,=,0.47,nM,c1(c(c(c(o1)c1ccc(cc1)O)C)c1ccc(cc1)OCCN1CCCCC1)c1ccc(cc1)O,esr2
 5503,CHEMBL315041,Q62986,RBA,=,6.0,Unspecified,C(=C(\c1ccccc1)/CC)(\c1ccc(cc1)OCCN(C)C)/c1ccc(C#C)cc1,esr2
 5504,CHEMBL315153,O08537,Estrogenic effect,=,141.0,%,,esr2
@@ -6393,7 +6393,7 @@
 6391,CHEMBL358074,O08537,Uterine weight,=,6.8,mg,C(=C\c1ccccc1)(/C(=O)c1ccc(cc1)O)\c1ccc(cc1)O,esr2
 6392,CHEMBL358074,O08537,Inhibition,=,18.0,%,C(=C\c1ccccc1)(/C(=O)c1ccc(cc1)O)\c1ccc(cc1)O,esr2
 6393,CHEMBL358113,Q92731,RBA,=,0.06,Unspecified,n1(nc(c(c1c1ccc(cc1)O)CC)c1ccccc1)c1ccccc1,esr2
-6394,CHEMBL3581693,Q92731,IC50,=,8.8,nM,c1cc(cc2c1[nH]nc2)/C(=C(/c1ccc(cc1Cl)F)\CC)/c1ccc(cc1)/C=C/C(=O)O,esr2
+6394,CHEMBL3581693,Q92731,IC50,=,8.8,nM,c1(cc(c(cc1)/C(=C(\c1ccc(cc1)/C=C/C(=O)O)/c1cc2c(cc1)[nH]nc2)/CC)Cl)F,esr2
 6395,CHEMBL3582112,Q92731,Ki,>,2300.0,nM,c1(cc2c(NC(C(=O)C2(C)C)(C)C)c2c1CCC2)c1c(noc1C)C,esr2
 6396,CHEMBL358468,Q92731,Ki,>,10000.0,nM,c1(nc(nc(n1)NCCCc1ccccc1)NC1Cc2c(CC1)ccc(c2)O)N1CCN(CC1)C,esr2
 6397,CHEMBL358544,Q92731,ED50,>,100.0,uM,c12c(=O)cc(oc1ccc(c2)O)CCc1ccccc1,esr2
@@ -8695,8 +8695,8 @@
 8693,CHEMBL65843,Q62986,RBA,=,0.36,%,C1(=C(c2c(C1)cccc2)c1ccccc1)c1ccc(cc1)O,esr2
 8694,CHEMBL6596,Q62986,Binding affinity,=,0.4,Unspecified,C(=C(\c1ccccc1)/CC)(\c1ccc(cc1)OCCCCCCCCCCN(C)C)/c1ccc(cc1)I,esr2
 8695,CHEMBL65996,Q62986,RBA,=,7.35,Unspecified,C1(c2c(OCC1c1ccccc1)cc(cc2)OC)c1ccc(cc1)OCCN1CCCC1,esr2
-8696,CHEMBL6615,Q62986,RBA,=,3.2,Unspecified,C(C(c1ccc(cc1)O)CC)(c1ccc(cc1)O)CC,esr2
-8697,CHEMBL6615,Q92731,RBA,=,697.0,%,C(C(c1ccc(cc1)O)CC)(c1ccc(cc1)O)CC,esr2
+8696,CHEMBL6615,Q62986,RBA,=,3.2,Unspecified,c1c(ccc(c1)C(CC)C(CC)c1ccc(O)cc1)O,esr2
+8697,CHEMBL6615,Q92731,RBA,=,697.0,%,c1c(ccc(c1)C(CC)C(CC)c1ccc(O)cc1)O,esr2
 8698,CHEMBL6617,Q62986,Binding affinity,=,8.0,Unspecified,C(=C(\c1ccccc1)/CC)(\c1ccc(cc1)OCCCCCCN(C)C)/c1ccc(cc1)I,esr2
 8699,CHEMBL6619,Q92731,RBA,=,334.0,Unspecified,c1cc(ccc1O)C(=C1CCCCC1)c1ccc(cc1)O,esr2
 8700,CHEMBL6619,Q92731,Efficacy,=,4.0,%,c1cc(ccc1O)C(=C1CCCCC1)c1ccc(cc1)O,esr2

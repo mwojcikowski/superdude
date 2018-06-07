@@ -1601,9 +1601,9 @@
 1599,CHEMBL314440,Q7ZJM1,Inhibitory activity,>,200.0,uM,n1(c2c(nc1)c(ncn2)N)C1C(C(OC1)COP(=O)(O)O)O,hivint
 1600,CHEMBL3144704,Q7ZJM1,IC50,=,31000.0,nM,c1cc(cc(c1O)O)C(c1c([nH]n(c1=O)c1ccccc1)C)c1c(=O)n(n(c1C)C)c1ccccc1,hivint
 1601,CHEMBL3144704,Q7ZJM1,IC50,=,89000.0,nM,c1cc(cc(c1O)O)C(c1c([nH]n(c1=O)c1ccccc1)C)c1c(=O)n(n(c1C)C)c1ccccc1,hivint
-1602,CHEMBL3144837,Q7ZJM1,Inhibition,>,50.0,%,c1(=O)n([nH]c(c1/N=N/c1c2c(c(S(=O)(=O)O)cc1O)cc(N(=O)=O)cc2)C)c1cc(NC(=O)Nc2cc(n3c(=O)c(c([nH]3)C)/N=N/c3c4c(c(S(=O)(=O)O)cc3O)cc(N(=O)=O)cc4)ccc2)ccc1,hivint
-1603,CHEMBL3144837,Q7ZJM1,Inhibition,>,50.0,%,c1(=O)n([nH]c(c1/N=N/c1c2c(c(S(=O)(=O)O)cc1O)cc(N(=O)=O)cc2)C)c1cc(NC(=O)Nc2cc(n3c(=O)c(c([nH]3)C)/N=N/c3c4c(c(S(=O)(=O)O)cc3O)cc(N(=O)=O)cc4)ccc2)ccc1,hivint
-1604,CHEMBL3144837,Q7ZJM1,Inhibition,>,50.0,%,c1(=O)n([nH]c(c1/N=N/c1c2c(c(S(=O)(=O)O)cc1O)cc(N(=O)=O)cc2)C)c1cc(NC(=O)Nc2cc(n3c(=O)c(c([nH]3)C)/N=N/c3c4c(c(S(=O)(=O)O)cc3O)cc(N(=O)=O)cc4)ccc2)ccc1,hivint
+1602,CHEMBL3144837,Q7ZJM1,Inhibition,>,50.0,%,c1(=O)n([nH]c(c1/N=N/c1c2c(c(S(=O)(=O)O)cc1O)cc([N+](=O)[O-])cc2)C)c1cc(NC(=O)Nc2cc(n3c(=O)c(c([nH]3)C)/N=N/c3c4c(c(S(=O)(=O)O)cc3O)cc([N+](=O)[O-])cc4)ccc2)ccc1,hivint
+1603,CHEMBL3144837,Q7ZJM1,Inhibition,>,50.0,%,c1(=O)n([nH]c(c1/N=N/c1c2c(c(S(=O)(=O)O)cc1O)cc([N+](=O)[O-])cc2)C)c1cc(NC(=O)Nc2cc(n3c(=O)c(c([nH]3)C)/N=N/c3c4c(c(S(=O)(=O)O)cc3O)cc([N+](=O)[O-])cc4)ccc2)ccc1,hivint
+1604,CHEMBL3144837,Q7ZJM1,Inhibition,>,50.0,%,c1(=O)n([nH]c(c1/N=N/c1c2c(c(S(=O)(=O)O)cc1O)cc([N+](=O)[O-])cc2)C)c1cc(NC(=O)Nc2cc(n3c(=O)c(c([nH]3)C)/N=N/c3c4c(c(S(=O)(=O)O)cc3O)cc([N+](=O)[O-])cc4)ccc2)ccc1,hivint
 1605,CHEMBL314866,Q7ZJM1,Selectivity index,=,29.0,Unspecified,C(=C(\c1cc(Cc2c(F)cccc2)ccc1)/O)/C(=O)C(=O)NCCNC(=O)C(=O)/C=C(/c1cc(Cc2c(F)cccc2)ccc1)\O,hivint
 1606,CHEMBL314866,Q7ZJM1,IC50,=,200.0,nM,C(=C(\c1cc(Cc2c(F)cccc2)ccc1)/O)/C(=O)C(=O)NCCNC(=O)C(=O)/C=C(/c1cc(Cc2c(F)cccc2)ccc1)\O,hivint
 1607,CHEMBL314866,Q7ZJM1,IC50,=,5800.0,nM,C(=C(\c1cc(Cc2c(F)cccc2)ccc1)/O)/C(=O)C(=O)NCCNC(=O)C(=O)/C=C(/c1cc(Cc2c(F)cccc2)ccc1)\O,hivint
@@ -3256,8 +3256,8 @@
 3254,CHEMBL87771,Q7ZJM1,Selectivity index,=,12.0,Unspecified,C(=C(\c1cc(Cc2c(F)cccc2)ccc1)/O)/C(=O)C(=O)NCCCCCCNC(=O)C(=O)/C=C(/c1cc(Cc2c(F)cccc2)ccc1)\O,hivint
 3255,CHEMBL87771,Q7ZJM1,IC50,=,2700.0,nM,C(=C(\c1cc(Cc2c(F)cccc2)ccc1)/O)/C(=O)C(=O)NCCCCCCNC(=O)C(=O)/C=C(/c1cc(Cc2c(F)cccc2)ccc1)\O,hivint
 3256,CHEMBL87771,Q7ZJM1,IC50,=,32000.0,nM,C(=C(\c1cc(Cc2c(F)cccc2)ccc1)/O)/C(=O)C(=O)NCCCCCCNC(=O)C(=O)/C=C(/c1cc(Cc2c(F)cccc2)ccc1)\O,hivint
-3257,CHEMBL902,Q7ZJM1,Inhibition,<,50.0,%,S(=O)(=O)(NC(=N)CCSCc1nc(NC(=N)N)sc1)N,hivint
-3258,CHEMBL902,Q7ZJM1,Inhibition,<,50.0,%,S(=O)(=O)(NC(=N)CCSCc1nc(NC(=N)N)sc1)N,hivint
+3257,CHEMBL902,Q7ZJM1,Inhibition,<,50.0,%,S(=O)(=O)(/N=C(\N)/CCSCc1nc(sc1)N=C(N)N)N,hivint
+3258,CHEMBL902,Q7ZJM1,Inhibition,<,50.0,%,S(=O)(=O)(/N=C(\N)/CCSCc1nc(sc1)N=C(N)N)N,hivint
 3259,CHEMBL9352,Q7ZJM1,IC50,=,1700.0,nM,c1c(cc(c2c1O[C@@H](CC2=O)c1ccc(cc1)O)O)O,hivint
 3260,CHEMBL9352,Q7ZJM1,IC50,>,20000.0,nM,c1c(cc(c2c1O[C@@H](CC2=O)c1ccc(cc1)O)O)O,hivint
 3261,CHEMBL9352,Q7ZJM1,IC50,>,20000.0,nM,c1c(cc(c2c1O[C@@H](CC2=O)c1ccc(cc1)O)O)O,hivint

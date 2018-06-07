@@ -402,7 +402,7 @@
 400,CHEMBL1094986,P29274,Ki,=,200.0,nM,c1c(cc2c(c1)[nH]cc2CCNC(=N)Nc1nc(cc(n1)C)C)F,aa2ar
 401,CHEMBL1094987,P29274,Ki,=,121.1,nM,n1c(nc2c(c1N)cn(n2)Cc1ccccc1)c1ccccc1,aa2ar
 402,CHEMBL109499,P29274,Ki,=,11.0,nM,n12c(nc(n1)c1occc1)cc(C(=O)N1CCCC1)cc2N,aa2ar
-403,CHEMBL1094994,P29274,Ki,>,10000.0,nM,c1(cc(cc(c1[O])C(C)(C)C)C(=O)NCCc1ccc(cc1)Nc1c2ncn([C@H]3[C@@H]([C@@H]([C@@H](C(=O)NC)O3)O)O)c2ncn1)C(C)(C)C,aa2ar
+403,CHEMBL1094994,P29274,Ki,>,10000.0,nM,,aa2ar
 404,CHEMBL1094995,P29274,Ki,>,10000.0,nM,c1(cc(cc(c1)C(C)(C)C)C(=O)NCCc1ccc(cc1)Nc1c2ncn([C@H]3[C@@H]([C@@H]([C@@H](C(=O)NC)O3)O)O)c2ncn1)C(C)(C)C,aa2ar
 405,CHEMBL1094996,P29274,Inhibition,=,27.0,%,c1(cc(cc(c1OC)OC)C(=O)NCCc1ccc(cc1)Nc1c2ncn([C@H]3[C@@H]([C@@H]([C@@H](C(=O)NC)O3)O)O)c2ncn1)OC,aa2ar
 406,CHEMBL1094997,P29274,Ki,>,10000.0,nM,c12c(C(N(C1(C)C)[O])(C)C)ccc(c2)C(=O)NCCc1ccc(cc1)Nc1c2ncn([C@H]3[C@@H]([C@@H]([C@@H](C(=O)NC)O3)O)O)c2ncn1,aa2ar
@@ -496,9 +496,9 @@
 494,CHEMBL1098457,P29274,Ki,=,4.7,nM,N(CCN(c1ccc2c(c1)c1c(c(c3ccccc3)nc(n1)N)C2=O)C)(C)C,aa2ar
 495,CHEMBL1098458,P29274,Ki,=,0.9,nM,c1(CCNc2ccc3c(c2)c2c(c(c4ccccc4)nc(n2)N)C3=O)ccncc1,aa2ar
 496,CHEMBL1098507,P29274,Ki,>,10000.0,nM,C1C(NC(CC1NC1c2ncn([C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)c2N=CN1)(C)C)(C)C,aa2ar
-497,CHEMBL1098520,P29274,Inhibition,=,20.0,%,c1(cc(cc(c1[O])C(C)(C)C)CCNc1c2ncn([C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)c2ncn1)C(C)(C)C,aa2ar
+497,CHEMBL1098520,P29274,Inhibition,=,20.0,%,,aa2ar
 498,CHEMBL1098521,P29274,Ki,>,10000.0,nM,c12c(C(N(C1(C)C)[O])(C)C)ccc(c2)Nc1c2ncn([C@H]3[C@@H]([C@@H]([C@H](O3)C(=O)NC)O)O)c2ncn1,aa2ar
-499,CHEMBL1098715,P29274,Ki,>,10000.0,nM,C(=O)(NC)[C@@H]1[C@H]([C@H]([C@@H](O1)n1cnc2c1ncnc2NCCc1cc(c(c(c1)C(C)(C)C)[O])C(C)(C)C)O)O,aa2ar
+499,CHEMBL1098715,P29274,Ki,>,10000.0,nM,,aa2ar
 500,CHEMBL1098758,P29274,Ki,>,10000.0,nM,n1c(nc2c(c1NC(=O)Nc1ccc(cc1)OC)cn(n2)C)c1ccccc1,aa2ar
 501,CHEMBL1098759,P29274,Ki,>,10000.0,nM,n1c(nc2c(c1NC(=O)Nc1cc(ccc1)Cl)cn(n2)C)c1ccccc1,aa2ar
 502,CHEMBL1098765,P29274,Ki,=,0.9,nM,c1(CCNc2ccc3c(c2)c2c(c(c4ccccc4)nc(n2)N)C3=O)ncccc1,aa2ar
