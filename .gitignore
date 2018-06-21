@@ -105,3 +105,5 @@ venv.bak/
 
 # chembl temp sqlite
 .chembl_ws_client__*
+
+*.sdf
